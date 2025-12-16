@@ -1,0 +1,42 @@
+2025-12-15 09:53:10.720 [info] Using Cloud Code URL: https://daily-cloudcode-pa.sandbox.googleapis.com
+2025-12-15 09:53:10.720 [info] [BrowserOnboardingClientMainService] Starting browser onboarding server
+2025-12-15 09:53:10.720 [info] [BrowserOnboardingClientServer] Browser onboarding server started on http://localhost:43279
+2025-12-15 09:53:10.720 [info] [CascadeMonitoringServer] Monitoring server started on http://localhost:9101/antigravity
+2025-12-15 09:53:10.720 [info] update#setState idle
+2025-12-15 09:53:13.069 [info] AntigravityAuthMainService initialized
+2025-12-15 09:53:15.260 [info] Pruning 0 of 0 trajectory summaries
+2025-12-15 09:53:17.797 [info] Extension host with pid 13514 exited with code: 0, signal: unknown.
+2025-12-15 09:53:18.800 [error] Extension host with pid 13514 still exists, forcefully killing it...
+2025-12-15 09:53:20.494 [info] Pruning 0 of 0 trajectory summaries
+2025-12-15 09:53:23.158 [info] [AgentClientServer] Cascade initializing for worksapce file:///home/rudra/DEV_ROOT
+2025-12-15 09:53:23.158 [info] [AgentClientServer] Starting server
+2025-12-15 09:53:23.162 [info] [AgentClientServer] Read HTML file, length: 127
+2025-12-15 09:53:23.163 [info] [AgentClientServer] Cascade server started on http://localhost:9092
+2025-12-15 09:53:23.163 [info] [AgentClientServer] Cascade server started on port 9092
+2025-12-15 09:53:40.685 [info] update#setState checking for updates
+2025-12-15 09:53:40.982 [info] update#setState idle
+2025-12-15 10:13:13.719 [error] Failed to fetch NUXes: fetch failed
+2025-12-15 10:53:40.687 [info] update#setState checking for updates
+2025-12-15 10:53:40.999 [info] update#setState idle
+2025-12-15 11:53:40.689 [info] update#setState checking for updates
+2025-12-15 11:53:41.107 [info] update#setState idle
+2025-12-15 12:53:40.691 [info] update#setState checking for updates
+2025-12-15 12:53:41.001 [info] update#setState idle
+2025-12-15 13:53:40.694 [info] update#setState checking for updates
+2025-12-15 13:53:41.002 [info] update#setState idle
+2025-12-15 14:53:40.696 [info] update#setState checking for updates
+2025-12-15 14:53:41.004 [info] update#setState idle
+2025-12-15 15:53:40.697 [info] update#setState checking for updates
+2025-12-15 15:53:41.029 [info] update#setState idle
+2025-12-15 16:53:40.698 [info] update#setState checking for updates
+2025-12-15 16:53:41.046 [info] update#setState idle
+2025-12-15 17:53:40.700 [info] update#setState checking for updates
+2025-12-15 17:53:41.023 [info] update#setState idle
+2025-12-15 18:53:40.702 [info] update#setState checking for updates
+2025-12-15 18:53:40.998 [info] update#setState idle
+2025-12-15 19:53:40.704 [info] update#setState checking for updates
+2025-12-15 19:53:41.016 [info] update#setState idle
+2025-12-15 20:53:40.706 [info] update#setState checking for updates
+2025-12-15 20:53:41.542 [info] update#setState idle
+2025-12-15 21:47:25.978 [info] Extension host with pid 13780 exited with code: 0, signal: unknown.
+2025-12-15 21:47:26.979 [error] Extension host with pid 13780 still exists, forcefully killing it...

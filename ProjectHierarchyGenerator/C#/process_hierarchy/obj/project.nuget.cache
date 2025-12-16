@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uXXtqZZPTNw=",
+  "success": true,
+  "projectFilePath": "C:\\SITE\\ProdPipelineTools\\other_tool_dev\\ProjectHierarchyGenerator\\C#\\process_hierarchy\\process_hierarchy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mahen\\.nuget\\packages\\system.codedom\\9.0.3\\system.codedom.9.0.3.nupkg.sha512",
+    "C:\\Users\\mahen\\.nuget\\packages\\system.management\\9.0.3\\system.management.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

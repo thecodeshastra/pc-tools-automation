@@ -1,0 +1,73 @@
+2025-12-09 11:57:06.693 [info] Started initializing default profile extensions in extensions installation folder. file:///home/rudra/.vscode/extensions
+2025-12-09 11:57:06.809 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/rudra/.vscode/extensions Unable to create file 'vscode-userdata:/home/rudra/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2025-12-09 11:57:06.810 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/rudra/.vscode/extensions
+2025-12-09 11:57:58.652 [info] Getting Manifest... pkief.material-icon-theme
+2025-12-09 11:57:58.653 [info] Getting Manifest... ms-python.vscode-pylance
+2025-12-09 11:57:58.654 [info] Getting Manifest... github.copilot-chat
+2025-12-09 11:57:58.654 [info] Getting Manifest... ms-python.python
+2025-12-09 11:57:58.654 [info] Getting Manifest... ms-python.debugpy
+2025-12-09 11:57:58.655 [info] Getting Manifest... eserozvataf.one-dark-pro-monokai-darker
+2025-12-09 11:57:58.655 [info] Getting Manifest... ms-python.pylint
+2025-12-09 11:57:58.655 [info] Getting Manifest... charliermarsh.ruff
+2025-12-09 11:57:58.656 [info] Getting Manifest... ms-python.vscode-python-envs
+2025-12-09 11:57:58.675 [info] Getting Manifest... github.copilot
+2025-12-09 11:58:03.781 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":true,"preRelease":true,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rudra/.vscode/extensions/extensions.json","path":"/home/rudra/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-12-09 11:58:03.781 [info] Installing extension: ms-python.python {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":true,"preRelease":true,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rudra/.vscode/extensions/extensions.json","path":"/home/rudra/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-12-09 11:58:03.781 [info] Installing extension: ms-python.vscode-pylance {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rudra/.vscode/extensions/extensions.json","path":"/home/rudra/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-12-09 11:58:03.782 [info] Installing extension: ms-python.vscode-python-envs {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rudra/.vscode/extensions/extensions.json","path":"/home/rudra/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-12-09 11:58:03.782 [info] Installing extension: pkief.material-icon-theme {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rudra/.vscode/extensions/extensions.json","path":"/home/rudra/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-12-09 11:58:03.782 [info] Installing extension: charliermarsh.ruff {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rudra/.vscode/extensions/extensions.json","path":"/home/rudra/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-12-09 11:58:03.782 [info] Installing extension: github.copilot {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":true,"preRelease":true,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rudra/.vscode/extensions/extensions.json","path":"/home/rudra/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-12-09 11:58:03.782 [info] Installing extension: github.copilot-chat {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rudra/.vscode/extensions/extensions.json","path":"/home/rudra/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-12-09 11:58:03.782 [info] Installing extension: ms-python.pylint {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":true,"preRelease":true,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rudra/.vscode/extensions/extensions.json","path":"/home/rudra/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-12-09 11:58:03.782 [info] Installing extension: eserozvataf.one-dark-pro-monokai-darker {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rudra/.vscode/extensions/extensions.json","path":"/home/rudra/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.106.3","date":"2025-11-25T22:28:18.024Z"}}
+2025-12-09 11:58:03.782 [info] Installing the extension without checking dependencies and pack ms-python.debugpy
+2025-12-09 11:58:03.782 [info] Installing the extension without checking dependencies and pack ms-python.python
+2025-12-09 11:58:03.783 [info] Installing the extension without checking dependencies and pack ms-python.vscode-pylance
+2025-12-09 11:58:03.783 [info] Installing the extension without checking dependencies and pack ms-python.vscode-python-envs
+2025-12-09 11:58:03.783 [info] Installing the extension without checking dependencies and pack pkief.material-icon-theme
+2025-12-09 11:58:03.783 [info] Installing the extension without checking dependencies and pack charliermarsh.ruff
+2025-12-09 11:58:03.783 [info] Installing the extension without checking dependencies and pack github.copilot
+2025-12-09 11:58:03.783 [info] Installing the extension without checking dependencies and pack github.copilot-chat
+2025-12-09 11:58:03.783 [info] Installing the extension without checking dependencies and pack ms-python.pylint
+2025-12-09 11:58:03.783 [info] Installing the extension without checking dependencies and pack eserozvataf.one-dark-pro-monokai-darker
+2025-12-09 11:58:06.682 [info] Extension signature verification result for pkief.material-icon-theme: Success. Internal Code: 0. Executed: true. Duration: 1551ms.
+2025-12-09 11:58:07.065 [info] Extension signature verification result for eserozvataf.one-dark-pro-monokai-darker: Success. Internal Code: 0. Executed: true. Duration: 730ms.
+2025-12-09 11:58:07.094 [info] Extracted extension to file:///home/rudra/.vscode/extensions/eserozvataf.one-dark-pro-monokai-darker-1.1.0: eserozvataf.one-dark-pro-monokai-darker
+2025-12-09 11:58:07.107 [info] Renamed to /home/rudra/.vscode/extensions/eserozvataf.one-dark-pro-monokai-darker-1.1.0
+2025-12-09 11:58:07.388 [info] Extracted extension to file:///home/rudra/.vscode/extensions/pkief.material-icon-theme-5.29.0: pkief.material-icon-theme
+2025-12-09 11:58:07.415 [info] Renamed to /home/rudra/.vscode/extensions/pkief.material-icon-theme-5.29.0
+2025-12-09 11:58:08.761 [info] Extension signature verification result for ms-python.pylint: Success. Internal Code: 0. Executed: true. Duration: 1251ms.
+2025-12-09 11:58:08.929 [info] Extension signature verification result for ms-python.vscode-python-envs: Success. Internal Code: 0. Executed: true. Duration: 922ms.
+2025-12-09 11:58:09.140 [info] Extracted extension to file:///home/rudra/.vscode/extensions/ms-python.vscode-python-envs-1.12.0-linux-x64: ms-python.vscode-python-envs
+2025-12-09 11:58:09.154 [info] Renamed to /home/rudra/.vscode/extensions/ms-python.vscode-python-envs-1.12.0-linux-x64
+2025-12-09 11:58:09.224 [info] Extracted extension to file:///home/rudra/.vscode/extensions/ms-python.pylint-2025.3.12271016: ms-python.pylint
+2025-12-09 11:58:09.243 [info] Renamed to /home/rudra/.vscode/extensions/ms-python.pylint-2025.3.12271016
+2025-12-09 11:58:12.782 [info] Extension signature verification result for ms-python.debugpy: Success. Internal Code: 0. Executed: true. Duration: 710ms.
+2025-12-09 11:58:13.125 [info] Extracted extension to file:///home/rudra/.vscode/extensions/ms-python.debugpy-2025.17.2025120401: ms-python.debugpy
+2025-12-09 11:58:13.145 [info] Renamed to /home/rudra/.vscode/extensions/ms-python.debugpy-2025.17.2025120401
+2025-12-09 11:58:15.885 [info] Extension signature verification result for github.copilot-chat: Success. Internal Code: 0. Executed: true. Duration: 751ms.
+2025-12-09 11:58:16.220 [info] Extracted extension to file:///home/rudra/.vscode/extensions/github.copilot-chat-0.33.5: github.copilot-chat
+2025-12-09 11:58:16.236 [info] Renamed to /home/rudra/.vscode/extensions/github.copilot-chat-0.33.5
+2025-12-09 11:58:18.059 [info] Extension signature verification result for github.copilot: Success. Internal Code: 0. Executed: true. Duration: 726ms.
+2025-12-09 11:58:18.168 [info] Extension signature verification result for ms-python.python: Success. Internal Code: 0. Executed: true. Duration: 766ms.
+2025-12-09 11:58:18.651 [info] Extracted extension to file:///home/rudra/.vscode/extensions/github.copilot-1.388.0: github.copilot
+2025-12-09 11:58:18.657 [info] Renamed to /home/rudra/.vscode/extensions/github.copilot-1.388.0
+2025-12-09 11:58:19.609 [info] Extracted extension to file:///home/rudra/.vscode/extensions/ms-python.python-2025.19.2025120401-linux-x64: ms-python.python
+2025-12-09 11:58:19.685 [info] Renamed to /home/rudra/.vscode/extensions/ms-python.python-2025.19.2025120401-linux-x64
+2025-12-09 11:58:21.208 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Internal Code: 0. Executed: true. Duration: 785ms.
+2025-12-09 11:58:21.556 [info] Extension signature verification result for charliermarsh.ruff: Success. Internal Code: 0. Executed: true. Duration: 709ms.
+2025-12-09 11:58:21.935 [info] Extracted extension to file:///home/rudra/.vscode/extensions/charliermarsh.ruff-2025.32.0-linux-x64: charliermarsh.ruff
+2025-12-09 11:58:21.945 [info] Renamed to /home/rudra/.vscode/extensions/charliermarsh.ruff-2025.32.0-linux-x64
+2025-12-09 11:58:25.041 [info] Extracted extension to file:///home/rudra/.vscode/extensions/ms-python.vscode-pylance-2025.10.4: ms-python.vscode-pylance
+2025-12-09 11:58:25.251 [info] Renamed to /home/rudra/.vscode/extensions/ms-python.vscode-pylance-2025.10.4
+2025-12-09 11:58:25.277 [info] Extension installed successfully: eserozvataf.one-dark-pro-monokai-darker vscode-userdata:/home/rudra/.vscode/extensions/extensions.json
+2025-12-09 11:58:25.278 [info] Extension installed successfully: pkief.material-icon-theme vscode-userdata:/home/rudra/.vscode/extensions/extensions.json
+2025-12-09 11:58:25.278 [info] Extension installed successfully: ms-python.vscode-python-envs vscode-userdata:/home/rudra/.vscode/extensions/extensions.json
+2025-12-09 11:58:25.278 [info] Extension installed successfully: ms-python.pylint vscode-userdata:/home/rudra/.vscode/extensions/extensions.json
+2025-12-09 11:58:25.278 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/rudra/.vscode/extensions/extensions.json
+2025-12-09 11:58:25.278 [info] Extension installed successfully: github.copilot-chat vscode-userdata:/home/rudra/.vscode/extensions/extensions.json
+2025-12-09 11:58:25.278 [info] Extension installed successfully: github.copilot vscode-userdata:/home/rudra/.vscode/extensions/extensions.json
+2025-12-09 11:58:25.278 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/rudra/.vscode/extensions/extensions.json
+2025-12-09 11:58:25.279 [info] Extension installed successfully: charliermarsh.ruff vscode-userdata:/home/rudra/.vscode/extensions/extensions.json
+2025-12-09 11:58:25.279 [info] Extension installed successfully: ms-python.vscode-pylance vscode-userdata:/home/rudra/.vscode/extensions/extensions.json

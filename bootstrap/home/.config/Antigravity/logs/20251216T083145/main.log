@@ -1,0 +1,14 @@
+2025-12-16 08:31:45.506 [info] Using Cloud Code URL: https://daily-cloudcode-pa.sandbox.googleapis.com
+2025-12-16 08:31:45.506 [info] [BrowserOnboardingClientMainService] Starting browser onboarding server
+2025-12-16 08:31:45.506 [info] [BrowserOnboardingClientServer] Browser onboarding server started on http://localhost:38923
+2025-12-16 08:31:45.506 [info] [CascadeMonitoringServer] Monitoring server started on http://localhost:9104/antigravity
+2025-12-16 08:31:45.506 [info] update#setState idle
+2025-12-16 08:31:46.764 [info] AntigravityAuthMainService initialized
+2025-12-16 08:31:52.742 [info] Pruning 0 of 0 trajectory summaries
+2025-12-16 08:31:55.060 [info] [AgentClientServer] Cascade initializing for worksapce file:///home/rudra/DEV_ROOT
+2025-12-16 08:31:55.060 [info] [AgentClientServer] Starting server
+2025-12-16 08:31:55.065 [info] [AgentClientServer] Read HTML file, length: 127
+2025-12-16 08:31:55.066 [info] [AgentClientServer] Cascade server started on http://localhost:9093
+2025-12-16 08:31:55.066 [info] [AgentClientServer] Cascade server started on port 9093
+2025-12-16 08:32:15.496 [info] update#setState checking for updates
+2025-12-16 08:32:15.843 [info] update#setState idle

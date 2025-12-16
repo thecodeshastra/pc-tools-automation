@@ -1,0 +1,9 @@
+{
+    "name": "seq000",
+    "copy_files": [
+        "PROJECT_ROOT\\shots_hierarchy.bat",
+        "PROJECT_ROOT\\shots_hierarchy.sh"
+    ],
+    "subfolders": "PROJECT_ROOT\\shots_hierarchy.json"
+    
+}

@@ -1,0 +1,181 @@
+2025-12-15 09:53:28.233 [info] Name: Ruff
+2025-12-15 09:53:28.233 [info] Module: ruff
+2025-12-15 09:53:28.233 [info] Python extension loading
+2025-12-15 09:53:28.233 [info] Waiting for interpreter from python extension.
+2025-12-15 09:53:30.265 [info] Python extension loaded
+2025-12-15 09:53:30.284 [info] Triggered Ruff restart while restart is in progress; queuing a restart.
+2025-12-15 09:53:30.296 [error] Python interpreter missing:
+[Option 1] Select Python interpreter using the ms-python.python.
+[Option 2] Set an interpreter using "ruff.interpreter" setting.
+Please use Python 3.7 or greater.
+2025-12-15 09:53:30.307 [error] Python interpreter missing:
+[Option 1] Select Python interpreter using the ms-python.python.
+[Option 2] Set an interpreter using "ruff.interpreter" setting.
+Please use Python 3.7 or greater.
+2025-12-15 09:56:30.153 [info] Using interpreter: /bin/python3
+2025-12-15 09:56:30.158 [info] Workspace settings for /home/rudra/DEV_ROOT: {
+    "nativeServer": "auto",
+    "cwd": "/home/rudra/DEV_ROOT",
+    "workspace": "file:///home/rudra/DEV_ROOT",
+    "path": [],
+    "ignoreStandardLibrary": true,
+    "interpreter": [
+        "/bin/python3"
+    ],
+    "configuration": null,
+    "importStrategy": "fromEnvironment",
+    "codeAction": {
+        "fixViolation": {
+            "enable": true
+        },
+        "disableRuleComment": {
+            "enable": true
+        }
+    },
+    "lint": {
+        "enable": true,
+        "run": "onType",
+        "args": [],
+        "preview": null,
+        "select": null,
+        "extendSelect": null,
+        "ignore": null
+    },
+    "format": {
+        "args": [],
+        "preview": null,
+        "backend": "internal"
+    },
+    "enable": true,
+    "organizeImports": true,
+    "fixAll": true,
+    "showNotifications": "off",
+    "exclude": null,
+    "lineLength": null,
+    "configurationPreference": "editorFirst",
+    "showSyntaxErrors": true,
+    "logLevel": null,
+    "logFile": null
+}
+2025-12-15 09:56:30.165 [info] Global settings: {
+    "nativeServer": "auto",
+    "cwd": "/home/rudra",
+    "workspace": "/home/rudra",
+    "path": [],
+    "ignoreStandardLibrary": true,
+    "interpreter": [],
+    "configuration": null,
+    "importStrategy": "fromEnvironment",
+    "codeAction": {
+        "fixViolation": {
+            "enable": true
+        },
+        "disableRuleComment": {
+            "enable": true
+        }
+    },
+    "lint": {
+        "enable": true,
+        "run": "onType",
+        "args": []
+    },
+    "format": {
+        "args": [],
+        "backend": "internal"
+    },
+    "enable": true,
+    "organizeImports": true,
+    "fixAll": true,
+    "showNotifications": "off",
+    "configurationPreference": "editorFirst",
+    "showSyntaxErrors": true
+}
+2025-12-15 09:56:30.204 [info] Falling back to bundled executable: /home/rudra/.antigravity/extensions/charliermarsh.ruff-2025.32.0-linux-x64/bundled/libs/bin/ruff
+2025-12-15 09:56:30.229 [info] Resolved 'ruff.nativeServer: auto' to use the native server
+2025-12-15 09:56:30.232 [info] Found Ruff 0.14.8 at /home/rudra/.antigravity/extensions/charliermarsh.ruff-2025.32.0-linux-x64/bundled/libs/bin/ruff
+2025-12-15 09:56:30.232 [info] Server run command: /home/rudra/.antigravity/extensions/charliermarsh.ruff-2025.32.0-linux-x64/bundled/libs/bin/ruff server
+2025-12-15 09:56:30.233 [info] Server: Start requested.
+2025-12-15 09:56:34.163 [info] Server: Stop requested
+2025-12-15 09:56:34.185 [info] Using interpreter: /usr/bin/python3
+2025-12-15 09:56:34.190 [info] Workspace settings for /home/rudra/DEV_ROOT: {
+    "nativeServer": "auto",
+    "cwd": "/home/rudra/DEV_ROOT",
+    "workspace": "file:///home/rudra/DEV_ROOT",
+    "path": [],
+    "ignoreStandardLibrary": true,
+    "interpreter": [
+        "/usr/bin/python3"
+    ],
+    "configuration": null,
+    "importStrategy": "fromEnvironment",
+    "codeAction": {
+        "fixViolation": {
+            "enable": true
+        },
+        "disableRuleComment": {
+            "enable": true
+        }
+    },
+    "lint": {
+        "enable": true,
+        "run": "onType",
+        "args": [],
+        "preview": null,
+        "select": null,
+        "extendSelect": null,
+        "ignore": null
+    },
+    "format": {
+        "args": [],
+        "preview": null,
+        "backend": "internal"
+    },
+    "enable": true,
+    "organizeImports": true,
+    "fixAll": true,
+    "showNotifications": "off",
+    "exclude": null,
+    "lineLength": null,
+    "configurationPreference": "editorFirst",
+    "showSyntaxErrors": true,
+    "logLevel": null,
+    "logFile": null
+}
+2025-12-15 09:56:34.196 [info] Global settings: {
+    "nativeServer": "auto",
+    "cwd": "/home/rudra",
+    "workspace": "/home/rudra",
+    "path": [],
+    "ignoreStandardLibrary": true,
+    "interpreter": [],
+    "configuration": null,
+    "importStrategy": "fromEnvironment",
+    "codeAction": {
+        "fixViolation": {
+            "enable": true
+        },
+        "disableRuleComment": {
+            "enable": true
+        }
+    },
+    "lint": {
+        "enable": true,
+        "run": "onType",
+        "args": []
+    },
+    "format": {
+        "args": [],
+        "backend": "internal"
+    },
+    "enable": true,
+    "organizeImports": true,
+    "fixAll": true,
+    "showNotifications": "off",
+    "configurationPreference": "editorFirst",
+    "showSyntaxErrors": true
+}
+2025-12-15 09:56:34.225 [info] Falling back to bundled executable: /home/rudra/.antigravity/extensions/charliermarsh.ruff-2025.32.0-linux-x64/bundled/libs/bin/ruff
+2025-12-15 09:56:34.236 [info] Resolved 'ruff.nativeServer: auto' to use the native server
+2025-12-15 09:56:34.236 [info] Found Ruff 0.14.8 at /home/rudra/.antigravity/extensions/charliermarsh.ruff-2025.32.0-linux-x64/bundled/libs/bin/ruff
+2025-12-15 09:56:34.236 [info] Server run command: /home/rudra/.antigravity/extensions/charliermarsh.ruff-2025.32.0-linux-x64/bundled/libs/bin/ruff server
+2025-12-15 09:56:34.236 [info] Server: Start requested.

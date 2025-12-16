@@ -1,0 +1,444 @@
+2025-12-13 18:51:35.139 [info] Experiment 'pythonSurveyNotification' is active
+2025-12-13 18:51:35.139 [warning] Dir "/home/rudra/DEV_ROOT/carrer_chat_assistant/.pixi/envs" is not watchable (directory does not exist)
+2025-12-13 18:51:35.164 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2025-12-13 18:51:35.181 [info] Python interpreter path: /bin/python3
+2025-12-13 18:51:35.207 [info] > pyenv which python
+2025-12-13 18:51:35.207 [info] cwd: .
+2025-12-13 18:51:36.321 [info] Starting Jedi language server for carrer_chat_assistant.
+2025-12-13 18:52:08.950 [info] Experiment 'pythonSurveyNotification' is active
+2025-12-13 18:52:08.951 [warning] Dir "/home/rudra/DEV_ROOT/career_assistant/.pixi/envs" is not watchable (directory does not exist)
+2025-12-13 18:52:09.517 [info] Starting Environment refresh
+2025-12-13 18:52:09.517 [info] Starting Environment refresh
+2025-12-13 18:52:09.544 [info] > hatch env show --json
+2025-12-13 18:52:09.544 [info] cwd: .
+2025-12-13 18:52:09.567 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2025-12-13 18:52:09.567 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2025-12-13 18:52:09.677 [info] Environments refresh finished (event): 162 milliseconds
+2025-12-13 18:52:09.677 [info] Environments refresh finished (event): 160 milliseconds
+2025-12-13 18:52:09.677 [info] Environments refresh paths discovered: 162 milliseconds
+2025-12-13 18:52:09.677 [info] Environments refresh paths discovered: 160 milliseconds
+2025-12-13 18:52:09.679 [info] Environment refresh took 165 milliseconds
+2025-12-13 18:52:09.680 [info] Environment refresh took 163 milliseconds
+2025-12-13 18:52:09.721 [info] > pyenv which python
+2025-12-13 18:52:09.721 [info] cwd: .
+2025-12-13 18:52:09.844 [info] Python interpreter path: /bin/python3
+2025-12-13 18:52:11.021 [info] Starting Jedi language server for career_assistant.
+2025-12-13 18:54:22.846 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/_loader.py
+2025-12-13 18:54:47.667 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/_loader.py
+2025-12-13 18:55:02.795 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/main.py
+2025-12-13 18:56:38.074 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/_loader.py
+2025-12-13 18:58:56.419 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/_loader.py
+2025-12-13 19:00:46.965 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/_loader.py
+2025-12-13 19:02:12.366 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/main.py
+2025-12-13 19:03:19.739 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/loader.py
+2025-12-13 19:04:37.130 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/loader.py
+2025-12-13 19:08:02.296 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/tools.py
+2025-12-13 19:08:03.639 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/tools.py
+2025-12-13 19:08:06.486 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/tools.py
+2025-12-13 19:10:18.073 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/llm.py
+2025-12-13 19:10:30.577 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/llm.py
+2025-12-13 19:24:15.928 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/loader.py
+2025-12-13 19:44:24.641 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/main.py
+2025-12-13 19:45:53.291 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/constants.py
+2025-12-13 19:47:44.188 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/main.py
+2025-12-13 19:47:48.213 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/main.py
+2025-12-13 19:49:13.115 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/main.py
+2025-12-13 19:49:46.365 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/constants.py
+2025-12-13 19:50:05.951 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/main.py
+2025-12-13 19:50:10.269 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/main.py
+2025-12-13 19:50:15.421 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/main.py
+2025-12-13 19:50:25.156 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/main.py
+2025-12-13 20:15:10.038 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/main.py
+2025-12-13 20:15:20.370 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/main.py
+2025-12-13 20:15:25.895 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/main.py
+2025-12-13 20:15:36.743 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/main.py
+2025-12-13 20:15:44.825 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/main.py
+2025-12-13 20:22:26.242 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/rag.py
+2025-12-13 20:22:40.969 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/main.py
+2025-12-13 20:22:56.665 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/rag.py
+2025-12-13 20:23:06.970 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/rag.py
+2025-12-13 20:23:15.527 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/rag.py
+2025-12-13 20:23:43.595 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/rag.py
+2025-12-13 20:24:13.186 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/rag.py
+2025-12-13 20:24:27.094 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/main.py
+2025-12-13 20:24:33.366 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/rag.py
+2025-12-13 20:24:49.919 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/main.py
+2025-12-13 20:25:39.968 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/main.py
+2025-12-13 20:25:47.985 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/main.py
+2025-12-13 20:26:03.938 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/main.py
+2025-12-13 20:27:14.767 [info] Running installed packages checker:  {
+  id: '/bin/python3',
+  sysPrefix: '/usr',
+  envType: 'Global',
+  envName: '',
+  envPath: '',
+  path: '/bin/python3',
+  architecture: 3,
+  sysVersion: '3.12.3 (main, Nov  6 2025, 13:44:16) [GCC 13.3.0]',
+  version: {
+    raw: '3.12.3',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: 'Python 3.12.3 64-bit',
+  detailedDisplayName: 'Python 3.12.3 64-bit',
+  type: undefined
+} /home/rudra/.antigravity/extensions/ms-python.python-2025.16.0-universal/python_files/installed_check.py /home/rudra/DEV_ROOT/career_assistant/requirements.txt
+2025-12-13 20:27:14.767 [info] > /bin/python3 ~/.antigravity/extensions/ms-python.python-2025.16.0-universal/python_files/installed_check.py ./requirements.txt
+2025-12-13 20:27:26.013 [info] Running installed packages checker:  {
+  id: '/bin/python3',
+  sysPrefix: '/usr',
+  envType: 'Global',
+  envName: '',
+  envPath: '',
+  path: '/bin/python3',
+  architecture: 3,
+  sysVersion: '3.12.3 (main, Nov  6 2025, 13:44:16) [GCC 13.3.0]',
+  version: {
+    raw: '3.12.3',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: 'Python 3.12.3 64-bit',
+  detailedDisplayName: 'Python 3.12.3 64-bit',
+  type: undefined
+} /home/rudra/.antigravity/extensions/ms-python.python-2025.16.0-universal/python_files/installed_check.py /home/rudra/DEV_ROOT/career_assistant/requirements.txt
+2025-12-13 20:27:26.013 [info] > /bin/python3 ~/.antigravity/extensions/ms-python.python-2025.16.0-universal/python_files/installed_check.py ./requirements.txt
+2025-12-13 20:27:40.483 [info] Running installed packages checker:  {
+  id: '/bin/python3',
+  sysPrefix: '/usr',
+  envType: 'Global',
+  envName: '',
+  envPath: '',
+  path: '/bin/python3',
+  architecture: 3,
+  sysVersion: '3.12.3 (main, Nov  6 2025, 13:44:16) [GCC 13.3.0]',
+  version: {
+    raw: '3.12.3',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: 'Python 3.12.3 64-bit',
+  detailedDisplayName: 'Python 3.12.3 64-bit',
+  type: undefined
+} /home/rudra/.antigravity/extensions/ms-python.python-2025.16.0-universal/python_files/installed_check.py /home/rudra/DEV_ROOT/career_assistant/requirements.txt
+2025-12-13 20:27:40.483 [info] > /bin/python3 ~/.antigravity/extensions/ms-python.python-2025.16.0-universal/python_files/installed_check.py ./requirements.txt
+2025-12-13 20:28:15.336 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/tools.py
+2025-12-13 20:29:47.665 [info] Running installed packages checker:  {
+  id: '/bin/python3',
+  sysPrefix: '/usr',
+  envType: 'Global',
+  envName: '',
+  envPath: '',
+  path: '/bin/python3',
+  architecture: 3,
+  sysVersion: '3.12.3 (main, Nov  6 2025, 13:44:16) [GCC 13.3.0]',
+  version: {
+    raw: '3.12.3',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: 'Python 3.12.3 64-bit',
+  detailedDisplayName: 'Python 3.12.3 64-bit',
+  type: undefined
+} /home/rudra/.antigravity/extensions/ms-python.python-2025.16.0-universal/python_files/installed_check.py /home/rudra/DEV_ROOT/career_assistant/pyproject.toml
+2025-12-13 20:29:47.665 [info] > /bin/python3 ~/.antigravity/extensions/ms-python.python-2025.16.0-universal/python_files/installed_check.py ./pyproject.toml
+2025-12-13 23:00:15.969 [info] Environments refresh paths discovered: 114 milliseconds
+2025-12-13 23:00:15.988 [info] > ./.venv/bin/python -I ~/.antigravity/extensions/ms-python.python-2025.16.0-universal/python_files/get_output_via_markers.py ~/.antigravity/extensions/ms-python.python-2025.16.0-universal/python_files/interpreterInfo.py
+2025-12-13 23:00:16.058 [info] Environments refresh finished (event): 203 milliseconds
+2025-12-13 23:02:48.806 [info] > ./.venv/bin/python -I ~/.antigravity/extensions/ms-python.python-2025.16.0-universal/python_files/get_output_via_markers.py ~/.antigravity/extensions/ms-python.python-2025.16.0-universal/python_files/interpreterInfo.py
+2025-12-13 23:02:48.807 [info] Environments refresh paths discovered: 81 milliseconds
+2025-12-13 23:02:48.855 [info] Environments refresh finished (event): 129 milliseconds
+2025-12-13 23:02:53.764 [info] Active interpreter [/home/rudra/DEV_ROOT/career_assistant]:  /home/rudra/DEV_ROOT/career_assistant/.venv/bin/python
+2025-12-13 23:02:53.781 [info] Running installed packages checker:  {
+  id: '/home/rudra/DEV_ROOT/career_assistant/.venv/bin/python',
+  sysPrefix: '/home/rudra/DEV_ROOT/career_assistant/.venv',
+  envType: 'Venv',
+  envName: '.venv',
+  envPath: '/home/rudra/DEV_ROOT/career_assistant/.venv',
+  path: '/home/rudra/DEV_ROOT/career_assistant/.venv/bin/python',
+  architecture: 3,
+  sysVersion: '3.12.3 (main, Nov  6 2025, 13:44:16) [GCC 13.3.0]',
+  version: {
+    raw: '3.12.3',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: "Python 3.12.3 ('.venv')",
+  detailedDisplayName: "Python 3.12.3 ('.venv': venv)",
+  type: 'Virtual'
+} /home/rudra/.antigravity/extensions/ms-python.python-2025.16.0-universal/python_files/installed_check.py /home/rudra/DEV_ROOT/career_assistant/requirements.txt
+2025-12-13 23:02:53.781 [info] > ./.venv/bin/python ~/.antigravity/extensions/ms-python.python-2025.16.0-universal/python_files/installed_check.py ./requirements.txt
+2025-12-13 23:02:53.781 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant
+2025-12-13 23:02:53.781 [info] Python interpreter path: ./.venv/bin/python
+2025-12-13 23:02:54.785 [info] Starting Jedi language server for career_assistant.
+2025-12-13 23:06:06.971 [info] Running installed packages checker:  {
+  id: '/home/rudra/DEV_ROOT/career_assistant/.venv/bin/python',
+  sysPrefix: '/home/rudra/DEV_ROOT/career_assistant/.venv',
+  envType: 'Venv',
+  envName: '.venv',
+  envPath: '/home/rudra/DEV_ROOT/career_assistant/.venv',
+  path: '/home/rudra/DEV_ROOT/career_assistant/.venv/bin/python',
+  architecture: 3,
+  sysVersion: '3.12.3 (main, Nov  6 2025, 13:44:16) [GCC 13.3.0]',
+  version: {
+    raw: '3.12.3',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: "Python 3.12.3 ('.venv')",
+  detailedDisplayName: "Python 3.12.3 ('.venv': venv)",
+  type: 'Virtual'
+} /home/rudra/.antigravity/extensions/ms-python.python-2025.16.0-universal/python_files/installed_check.py /home/rudra/DEV_ROOT/career_assistant/requirements.txt
+2025-12-13 23:06:06.971 [info] > ./.venv/bin/python ~/.antigravity/extensions/ms-python.python-2025.16.0-universal/python_files/installed_check.py ./requirements.txt
+2025-12-13 23:10:20.838 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/test.py
+2025-12-13 23:10:49.857 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/src/test.py
+2025-12-14 06:13:49.995 [info] > conda info --json
+2025-12-14 06:49:27.034 [info] Running installed packages checker:  {
+  id: '/home/rudra/DEV_ROOT/career_assistant/.venv/bin/python',
+  sysPrefix: '/home/rudra/DEV_ROOT/career_assistant/.venv',
+  envType: 'Venv',
+  envName: '.venv',
+  envPath: '/home/rudra/DEV_ROOT/career_assistant/.venv',
+  path: '/home/rudra/DEV_ROOT/career_assistant/.venv/bin/python',
+  architecture: 3,
+  sysVersion: '3.12.3 (main, Nov  6 2025, 13:44:16) [GCC 13.3.0]',
+  version: {
+    raw: '3.12.3',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: "Python 3.12.3 ('.venv')",
+  detailedDisplayName: "Python 3.12.3 ('.venv': venv)",
+  type: 'Virtual'
+} /home/rudra/.antigravity/extensions/ms-python.python-2025.16.0-universal/python_files/installed_check.py /home/rudra/DEV_ROOT/career_assistant/pyproject.toml
+2025-12-14 06:49:27.035 [info] > ./.venv/bin/python ~/.antigravity/extensions/ms-python.python-2025.16.0-universal/python_files/installed_check.py ./pyproject.toml
+2025-12-14 06:49:51.623 [info] Send text to terminal: source /home/rudra/DEV_ROOT/career_assistant/.venv/bin/activate
+2025-12-14 06:50:44.803 [info] Running installed packages checker:  {
+  id: '/home/rudra/DEV_ROOT/career_assistant/.venv/bin/python',
+  sysPrefix: '/home/rudra/DEV_ROOT/career_assistant/.venv',
+  envType: 'Venv',
+  envName: '.venv',
+  envPath: '/home/rudra/DEV_ROOT/career_assistant/.venv',
+  path: '/home/rudra/DEV_ROOT/career_assistant/.venv/bin/python',
+  architecture: 3,
+  sysVersion: '3.12.3 (main, Nov  6 2025, 13:44:16) [GCC 13.3.0]',
+  version: {
+    raw: '3.12.3',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: "Python 3.12.3 ('.venv')",
+  detailedDisplayName: "Python 3.12.3 ('.venv': venv)",
+  type: 'Virtual'
+} /home/rudra/.antigravity/extensions/ms-python.python-2025.16.0-universal/python_files/installed_check.py /home/rudra/DEV_ROOT/career_assistant/requirements.txt
+2025-12-14 06:50:44.803 [info] > ./.venv/bin/python ~/.antigravity/extensions/ms-python.python-2025.16.0-universal/python_files/installed_check.py ./requirements.txt
+2025-12-14 06:50:50.044 [info] Running installed packages checker:  {
+  id: '/home/rudra/DEV_ROOT/career_assistant/.venv/bin/python',
+  sysPrefix: '/home/rudra/DEV_ROOT/career_assistant/.venv',
+  envType: 'Venv',
+  envName: '.venv',
+  envPath: '/home/rudra/DEV_ROOT/career_assistant/.venv',
+  path: '/home/rudra/DEV_ROOT/career_assistant/.venv/bin/python',
+  architecture: 3,
+  sysVersion: '3.12.3 (main, Nov  6 2025, 13:44:16) [GCC 13.3.0]',
+  version: {
+    raw: '3.12.3',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: "Python 3.12.3 ('.venv')",
+  detailedDisplayName: "Python 3.12.3 ('.venv': venv)",
+  type: 'Virtual'
+} /home/rudra/.antigravity/extensions/ms-python.python-2025.16.0-universal/python_files/installed_check.py /home/rudra/DEV_ROOT/career_assistant/requirements.txt
+2025-12-14 06:50:50.044 [info] > ./.venv/bin/python ~/.antigravity/extensions/ms-python.python-2025.16.0-universal/python_files/installed_check.py ./requirements.txt
+2025-12-14 06:51:07.349 [info] Running installed packages checker:  {
+  id: '/home/rudra/DEV_ROOT/career_assistant/.venv/bin/python',
+  sysPrefix: '/home/rudra/DEV_ROOT/career_assistant/.venv',
+  envType: 'Venv',
+  envName: '.venv',
+  envPath: '/home/rudra/DEV_ROOT/career_assistant/.venv',
+  path: '/home/rudra/DEV_ROOT/career_assistant/.venv/bin/python',
+  architecture: 3,
+  sysVersion: '3.12.3 (main, Nov  6 2025, 13:44:16) [GCC 13.3.0]',
+  version: {
+    raw: '3.12.3',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: "Python 3.12.3 ('.venv')",
+  detailedDisplayName: "Python 3.12.3 ('.venv': venv)",
+  type: 'Virtual'
+} /home/rudra/.antigravity/extensions/ms-python.python-2025.16.0-universal/python_files/installed_check.py /home/rudra/DEV_ROOT/career_assistant/pyproject.toml
+2025-12-14 06:51:07.349 [info] > ./.venv/bin/python ~/.antigravity/extensions/ms-python.python-2025.16.0-universal/python_files/installed_check.py ./pyproject.toml
+2025-12-14 06:52:33.940 [info] Running installed packages checker:  {
+  id: '/home/rudra/DEV_ROOT/career_assistant/.venv/bin/python',
+  sysPrefix: '/home/rudra/DEV_ROOT/career_assistant/.venv',
+  envType: 'Venv',
+  envName: '.venv',
+  envPath: '/home/rudra/DEV_ROOT/career_assistant/.venv',
+  path: '/home/rudra/DEV_ROOT/career_assistant/.venv/bin/python',
+  architecture: 3,
+  sysVersion: '3.12.3 (main, Nov  6 2025, 13:44:16) [GCC 13.3.0]',
+  version: {
+    raw: '3.12.3',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: "Python 3.12.3 ('.venv')",
+  detailedDisplayName: "Python 3.12.3 ('.venv': venv)",
+  type: 'Virtual'
+} /home/rudra/.antigravity/extensions/ms-python.python-2025.16.0-universal/python_files/installed_check.py /home/rudra/DEV_ROOT/career_assistant/pyproject.toml
+2025-12-14 06:52:33.940 [info] > ./.venv/bin/python ~/.antigravity/extensions/ms-python.python-2025.16.0-universal/python_files/installed_check.py ./pyproject.toml
+2025-12-14 06:52:44.654 [info] Running installed packages checker:  {
+  id: '/home/rudra/DEV_ROOT/career_assistant/.venv/bin/python',
+  sysPrefix: '/home/rudra/DEV_ROOT/career_assistant/.venv',
+  envType: 'Venv',
+  envName: '.venv',
+  envPath: '/home/rudra/DEV_ROOT/career_assistant/.venv',
+  path: '/home/rudra/DEV_ROOT/career_assistant/.venv/bin/python',
+  architecture: 3,
+  sysVersion: '3.12.3 (main, Nov  6 2025, 13:44:16) [GCC 13.3.0]',
+  version: {
+    raw: '3.12.3',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: "Python 3.12.3 ('.venv')",
+  detailedDisplayName: "Python 3.12.3 ('.venv': venv)",
+  type: 'Virtual'
+} /home/rudra/.antigravity/extensions/ms-python.python-2025.16.0-universal/python_files/installed_check.py /home/rudra/DEV_ROOT/career_assistant/pyproject.toml
+2025-12-14 06:52:44.654 [info] > ./.venv/bin/python ~/.antigravity/extensions/ms-python.python-2025.16.0-universal/python_files/installed_check.py ./pyproject.toml
+2025-12-14 06:52:44.885 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/pyproject.toml
+2025-12-14 06:52:50.128 [info] Running installed packages checker:  {
+  id: '/home/rudra/DEV_ROOT/career_assistant/.venv/bin/python',
+  sysPrefix: '/home/rudra/DEV_ROOT/career_assistant/.venv',
+  envType: 'Venv',
+  envName: '.venv',
+  envPath: '/home/rudra/DEV_ROOT/career_assistant/.venv',
+  path: '/home/rudra/DEV_ROOT/career_assistant/.venv/bin/python',
+  architecture: 3,
+  sysVersion: '3.12.3 (main, Nov  6 2025, 13:44:16) [GCC 13.3.0]',
+  version: {
+    raw: '3.12.3',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: "Python 3.12.3 ('.venv')",
+  detailedDisplayName: "Python 3.12.3 ('.venv': venv)",
+  type: 'Virtual'
+} /home/rudra/.antigravity/extensions/ms-python.python-2025.16.0-universal/python_files/installed_check.py /home/rudra/DEV_ROOT/career_assistant/pyproject.toml
+2025-12-14 06:52:50.128 [info] > ./.venv/bin/python ~/.antigravity/extensions/ms-python.python-2025.16.0-universal/python_files/installed_check.py ./pyproject.toml
+2025-12-14 06:52:50.359 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/pyproject.toml
+2025-12-14 06:53:21.712 [info] Running installed packages checker:  {
+  id: '/home/rudra/DEV_ROOT/career_assistant/.venv/bin/python',
+  sysPrefix: '/home/rudra/DEV_ROOT/career_assistant/.venv',
+  envType: 'Venv',
+  envName: '.venv',
+  envPath: '/home/rudra/DEV_ROOT/career_assistant/.venv',
+  path: '/home/rudra/DEV_ROOT/career_assistant/.venv/bin/python',
+  architecture: 3,
+  sysVersion: '3.12.3 (main, Nov  6 2025, 13:44:16) [GCC 13.3.0]',
+  version: {
+    raw: '3.12.3',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: "Python 3.12.3 ('.venv')",
+  detailedDisplayName: "Python 3.12.3 ('.venv': venv)",
+  type: 'Virtual'
+} /home/rudra/.antigravity/extensions/ms-python.python-2025.16.0-universal/python_files/installed_check.py /home/rudra/DEV_ROOT/career_assistant/pyproject.toml
+2025-12-14 06:53:21.712 [info] > ./.venv/bin/python ~/.antigravity/extensions/ms-python.python-2025.16.0-universal/python_files/installed_check.py ./pyproject.toml
+2025-12-14 06:53:21.941 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/pyproject.toml
+2025-12-14 06:53:26.558 [info] > ./.venv/bin/python -I ~/.antigravity/extensions/ms-python.python-2025.16.0-universal/python_files/get_output_via_markers.py ~/.antigravity/extensions/ms-python.python-2025.16.0-universal/python_files/interpreterInfo.py
+2025-12-14 06:53:26.558 [info] Environments refresh paths discovered: 28 milliseconds
+2025-12-14 06:53:26.785 [info] Environments refresh finished (event): 255 milliseconds
+2025-12-14 06:54:18.070 [info] Running installed packages checker:  {
+  id: '/home/rudra/DEV_ROOT/career_assistant/.venv/bin/python',
+  sysPrefix: '/home/rudra/DEV_ROOT/career_assistant/.venv',
+  envType: 'Venv',
+  envName: '.venv',
+  envPath: '/home/rudra/DEV_ROOT/career_assistant/.venv',
+  path: '/home/rudra/DEV_ROOT/career_assistant/.venv/bin/python',
+  architecture: 3,
+  sysVersion: '3.13.11 (main, Dec  9 2025, 19:04:10) [Clang 21.1.4 ]',
+  version: {
+    raw: '3.13.11',
+    major: 3,
+    minor: 13,
+    patch: 11,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: "Python 3.13.11 ('.venv')",
+  detailedDisplayName: "Python 3.13.11 ('.venv': venv)",
+  type: 'Virtual'
+} /home/rudra/.antigravity/extensions/ms-python.python-2025.16.0-universal/python_files/installed_check.py /home/rudra/DEV_ROOT/career_assistant/pyproject.toml
+2025-12-14 06:54:18.070 [info] > ./.venv/bin/python ~/.antigravity/extensions/ms-python.python-2025.16.0-universal/python_files/installed_check.py ./pyproject.toml
+2025-12-14 06:54:18.301 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/pyproject.toml
+2025-12-14 06:54:44.231 [info] Running installed packages checker:  {
+  id: '/home/rudra/DEV_ROOT/career_assistant/.venv/bin/python',
+  sysPrefix: '/home/rudra/DEV_ROOT/career_assistant/.venv',
+  envType: 'Venv',
+  envName: '.venv',
+  envPath: '/home/rudra/DEV_ROOT/career_assistant/.venv',
+  path: '/home/rudra/DEV_ROOT/career_assistant/.venv/bin/python',
+  architecture: 3,
+  sysVersion: '3.13.11 (main, Dec  9 2025, 19:04:10) [Clang 21.1.4 ]',
+  version: {
+    raw: '3.13.11',
+    major: 3,
+    minor: 13,
+    patch: 11,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  displayName: "Python 3.13.11 ('.venv')",
+  detailedDisplayName: "Python 3.13.11 ('.venv': venv)",
+  type: 'Virtual'
+} /home/rudra/.antigravity/extensions/ms-python.python-2025.16.0-universal/python_files/installed_check.py /home/rudra/DEV_ROOT/career_assistant/pyproject.toml
+2025-12-14 06:54:44.231 [info] > ./.venv/bin/python ~/.antigravity/extensions/ms-python.python-2025.16.0-universal/python_files/installed_check.py ./pyproject.toml
+2025-12-14 06:54:44.462 [info] Discover tests for workspace name: career_assistant - uri: /home/rudra/DEV_ROOT/career_assistant/pyproject.toml
+2025-12-14 06:58:15.758 [info] Send text to terminal: source /home/rudra/DEV_ROOT/career_assistant/.venv/bin/activate

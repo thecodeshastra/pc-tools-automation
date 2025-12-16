@@ -1,0 +1,18 @@
+2025-12-16 08:28:18.771 [info] 2025/12/16 08:28:18 maxprocs: Leaving GOMAXPROCS=16: CPU quota undefined
+2025-12-16 08:28:18.795 [info] I1216 08:28:18.785830  7094 server.go:1137] Starting language server process with pid 7094
+2025-12-16 08:28:18.795 [info] I1216 08:28:18.785876  7094 server.go:279] Setting GOMAXPROCS to 4
+2025-12-16 08:28:18.795 [info] I1216 08:28:18.788527  7094 server.go:498] Language server will attempt to listen on host 127.0.0.1
+2025-12-16 08:28:18.795 [info] I1216 08:28:18.788767  7094 server.go:513] Language server listening on random port at 45369 for HTTPS
+2025-12-16 08:28:18.795 [info] I1216 08:28:18.788796  7094 server.go:520] Language server listening on random port at 40189 for HTTP
+2025-12-16 08:28:19.185 [info] I1216 08:28:19.163868  7094 server.go:491] Created extension server client at port 39241
+2025-12-16 08:28:19.185 [info] W1216 08:28:19.172020  7094 log_context.go:106] Cache(userInfo): Singleflight refresh failed: You are not logged into Antigravity.
+2025-12-16 08:28:19.185 [info] W1216 08:28:19.176947  7094 log_context.go:106] Cache(userInfo): Singleflight refresh failed: You are not logged into Antigravity.
+2025-12-16 08:28:19.216 [info] (Antigravity) 2025-12-16 08:28:19.215 [INFO]: Language server started
+2025-12-16 08:28:19.237 [info] I1216 08:28:19.220181  7094 server.go:1465] initialized server successfully
+2025-12-16 08:28:19.297 [info] 2025/12/16 08:28:19 http: TLS handshake error from 127.0.0.1:58608: EOF
+2025-12-16 08:28:19.331 [info] (Antigravity) 2025-12-16 08:28:19.331 [INFO]: LS lspClient started successfully
+2025-12-16 08:28:22.771 [info] E1216 08:28:22.754524  7094 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-16 08:28:22.987 [info] E1216 08:28:22.987054  7094 log.go:354] document not found in cache
+2025-12-16 08:28:35.556 [info] E1216 08:28:35.554276  7094 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-16 08:28:37.866 [info] E1216 08:28:37.864679  7094 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-16 08:28:38.922 [info] (Antigravity) 2025-12-16 08:28:38.922 [INFO]: [SupercompleteProvider] No supercomplete response

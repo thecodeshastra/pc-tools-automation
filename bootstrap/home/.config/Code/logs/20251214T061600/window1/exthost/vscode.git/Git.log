@@ -1,0 +1,353 @@
+2025-12-14 06:16:07.122 [info] [main] Log level: Info
+2025-12-14 06:16:07.122 [info] [main] Validating found git in: "git"
+2025-12-14 06:16:07.122 [info] [main] Using git "2.43.0" from "git"
+2025-12-14 06:16:07.122 [info] [Model][doInitialScan] Initial repository scan started
+2025-12-14 06:16:07.122 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-12-14 06:16:12.000 [info] [main] Log level: Info
+2025-12-14 06:16:12.000 [info] [main] Validating found git in: "git"
+2025-12-14 06:16:12.000 [info] [main] Using git "2.43.0" from "git"
+2025-12-14 06:16:12.000 [info] [Model][doInitialScan] Initial repository scan started
+2025-12-14 06:16:12.000 [info] > git rev-parse --show-toplevel [19ms]
+2025-12-14 06:16:12.000 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-12-14 06:16:12.013 [info] > git rev-parse --show-toplevel [2ms]
+2025-12-14 06:16:12.013 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-12-14 06:16:12.021 [info] > git rev-parse --show-toplevel [2ms]
+2025-12-14 06:16:12.021 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-12-14 06:16:12.030 [info] > git rev-parse --show-toplevel [2ms]
+2025-12-14 06:16:12.030 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-12-14 06:16:12.040 [info] > git rev-parse --show-toplevel [3ms]
+2025-12-14 06:16:12.040 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-12-14 06:16:12.049 [info] > git rev-parse --show-toplevel [1ms]
+2025-12-14 06:16:12.063 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [5ms]
+2025-12-14 06:16:12.071 [info] [Model][openRepository] Opened repository (path): /home/rudra/DEV_ROOT/career_assistant
+2025-12-14 06:16:12.071 [info] [Model][openRepository] Opened repository (real path): /home/rudra/DEV_ROOT/career_assistant
+2025-12-14 06:16:12.071 [info] [Model][openRepository] Opened repository (kind): repository
+2025-12-14 06:16:12.091 [info] > git rev-parse --show-toplevel [3ms]
+2025-12-14 06:16:12.091 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-12-14 06:16:12.092 [info] > git config --get commit.template [10ms]
+2025-12-14 06:16:12.111 [info] > git rev-parse --show-toplevel [9ms]
+2025-12-14 06:16:12.111 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-12-14 06:16:12.113 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-12-14 06:16:12.114 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-12-14 06:16:12.123 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/rudra/DEV_ROOT/career_assistant/.git/refs/remotes/origin/main'
+2025-12-14 06:16:12.124 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-12-14 06:16:12.208 [info] > git status -z -uall [75ms]
+2025-12-14 06:16:12.210 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [67ms]
+2025-12-14 06:16:12.256 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [22ms]
+2025-12-14 06:16:12.269 [info] > git config --get --local branch.main.vscode-merge-base [4ms]
+2025-12-14 06:16:12.280 [info] > git config --get commit.template [25ms]
+2025-12-14 06:16:12.291 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [12ms]
+2025-12-14 06:16:12.303 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [13ms]
+2025-12-14 06:16:12.314 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/rudra/DEV_ROOT/career_assistant/.git/refs/remotes/origin/main'
+2025-12-14 06:16:12.315 [info] > git merge-base refs/heads/main refs/remotes/origin/main [13ms]
+2025-12-14 06:16:12.343 [info] > git diff --name-status -z --diff-filter=ADMR --find-renames=50% 2e084b704ec696f83c3d852f28f65e4fcab98069...refs/remotes/origin/main -- [18ms]
+2025-12-14 06:16:12.344 [info] > git rev-parse refs/remotes/origin/main [30ms]
+2025-12-14 06:16:12.365 [info] > git status -z -uall [13ms]
+2025-12-14 06:16:12.365 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-12-14 06:16:12.370 [info] > git rev-parse --show-toplevel [27ms]
+2025-12-14 06:16:12.370 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-12-14 06:16:12.718 [info] > git check-ignore -v -z --stdin [19ms]
+2025-12-14 06:16:17.002 [info] > git rev-parse --show-toplevel [2ms]
+2025-12-14 06:16:17.002 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-12-14 06:16:18.105 [info] > git rev-parse --show-toplevel [2ms]
+2025-12-14 06:16:18.105 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-12-14 06:16:31.574 [info] > git rev-parse --show-toplevel [5ms]
+2025-12-14 06:16:31.574 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-12-14 06:19:15.814 [info] > git rev-parse --show-toplevel [2ms]
+2025-12-14 06:19:15.840 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [7ms]
+2025-12-14 06:19:15.852 [info] [Model][openRepository] Opened repository (path): /home/rudra/DEV_ROOT/coding_practice
+2025-12-14 06:19:15.852 [info] [Model][openRepository] Opened repository (real path): /home/rudra/DEV_ROOT/coding_practice
+2025-12-14 06:19:15.852 [info] [Model][openRepository] Opened repository (kind): repository
+2025-12-14 06:19:15.879 [info] > git config --get commit.template [4ms]
+2025-12-14 06:19:15.905 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-12-14 06:19:15.922 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/rudra/DEV_ROOT/coding_practice/.git/refs/remotes/origin/main'
+2025-12-14 06:19:15.924 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-12-14 06:19:15.966 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-12-14 06:19:16.001 [info] > git status -z -uall [57ms]
+2025-12-14 06:19:16.086 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [59ms]
+2025-12-14 06:19:16.109 [info] > git config --get commit.template [26ms]
+2025-12-14 06:19:16.111 [info] > git config --get --local branch.main.vscode-merge-base [5ms]
+2025-12-14 06:19:16.111 [warning] [Git][config] git config failed: Failed to execute git
+2025-12-14 06:19:16.150 [info] > git reflog main --grep-reflog=branch: Created from *. [21ms]
+2025-12-14 06:19:16.169 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [21ms]
+2025-12-14 06:19:16.187 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/rudra/DEV_ROOT/coding_practice/.git/refs/remotes/origin/main'
+2025-12-14 06:19:16.193 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [25ms]
+2025-12-14 06:19:16.211 [info] > git rev-parse refs/remotes/origin/main [24ms]
+2025-12-14 06:19:16.250 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [40ms]
+2025-12-14 06:19:16.271 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [21ms]
+2025-12-14 06:19:16.272 [info] > git config --add --local branch.main.vscode-merge-base origin/main [3ms]
+2025-12-14 06:19:16.295 [info] > git status -z -uall [65ms] (cancelled)
+2025-12-14 06:19:16.297 [info] > git config --get commit.template [3ms]
+2025-12-14 06:19:16.318 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-12-14 06:19:16.337 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/rudra/DEV_ROOT/coding_practice/.git/refs/remotes/origin/main'
+2025-12-14 06:19:16.340 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-12-14 06:19:16.383 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [5ms]
+2025-12-14 06:19:16.443 [info] > git status -z -uall [85ms]
+2025-12-14 06:19:16.487 [info] > git check-ignore -v -z --stdin [64ms]
+2025-12-14 06:19:16.488 [info] > git check-ignore -v -z --stdin [46ms]
+2025-12-14 06:19:16.489 [info] > git merge-base refs/heads/main refs/remotes/origin/main [22ms]
+2025-12-14 06:19:16.511 [info] > git merge-base refs/heads/main refs/remotes/origin/main [26ms]
+2025-12-14 06:19:16.532 [info] > git diff --name-status -z --diff-filter=ADMR --find-renames=50% 3cd9f0344c4c8f6cc17439444e6648a28d25b476...refs/remotes/origin/main -- [23ms]
+2025-12-14 06:19:16.534 [info] > git diff --name-status -z --diff-filter=ADMR --find-renames=50% 3cd9f0344c4c8f6cc17439444e6648a28d25b476...refs/remotes/origin/main -- [4ms]
+2025-12-14 06:19:26.488 [info] > git check-ignore -v -z --stdin [2ms]
+2025-12-14 06:19:27.063 [info] > git config --get commit.template [17ms]
+2025-12-14 06:19:27.064 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-12-14 06:19:27.080 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/rudra/DEV_ROOT/coding_practice/.git/refs/remotes/origin/main'
+2025-12-14 06:19:27.082 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-12-14 06:19:27.118 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-12-14 06:19:27.154 [info] > git status -z -uall [55ms]
+2025-12-14 06:19:34.799 [info] > git check-ignore -v -z --stdin [3ms]
+2025-12-14 06:19:35.359 [info] > git config --get commit.template [21ms]
+2025-12-14 06:19:35.361 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-12-14 06:19:35.380 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/rudra/DEV_ROOT/coding_practice/.git/refs/remotes/origin/main'
+2025-12-14 06:19:35.383 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-12-14 06:19:35.424 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-12-14 06:19:35.459 [info] > git status -z -uall [58ms]
+2025-12-14 06:19:49.011 [info] > git show --textconv :ai_agents/requirements.txt [54ms]
+2025-12-14 06:19:49.011 [info] > git check-ignore -v -z --stdin [28ms]
+2025-12-14 06:19:49.037 [info] > git ls-files --stage -- ai_agents/requirements.txt [28ms]
+2025-12-14 06:19:49.060 [info] > git hash-object -t tree /dev/null [26ms]
+2025-12-14 06:19:49.060 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/rudra/DEV_ROOT/coding_practice/ai_agents/requirements.txt.git?%7B%22path%22%3A%22%2Fhome%2Frudra%2FDEV_ROOT%2Fcoding_practice%2Fai_agents%2Frequirements.txt%22%2C%22ref%22%3A%22%22%7D
+2025-12-14 06:19:49.063 [info] > git hash-object -t tree /dev/null [6ms]
+2025-12-14 06:19:49.063 [warning] [GitFileSystemProvider][stat] File not found - git:/home/rudra/DEV_ROOT/coding_practice/ai_agents/requirements.txt.git?%7B%22path%22%3A%22%2Fhome%2Frudra%2FDEV_ROOT%2Fcoding_practice%2Fai_agents%2Frequirements.txt%22%2C%22ref%22%3A%22%22%7D
+2025-12-14 06:19:49.484 [info] > git config --get commit.template [20ms]
+2025-12-14 06:19:49.486 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-12-14 06:19:49.504 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/rudra/DEV_ROOT/coding_practice/.git/refs/remotes/origin/main'
+2025-12-14 06:19:49.507 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-12-14 06:19:49.593 [info] > git status -z -uall [67ms]
+2025-12-14 06:19:49.593 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [47ms]
+2025-12-14 06:20:23.925 [info] > git show --textconv :ai_agents/src/ai_agent_verbl [33ms]
+2025-12-14 06:20:23.927 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/rudra/DEV_ROOT/coding_practice/ai_agents/src/ai_agent_verbl.git?%7B%22path%22%3A%22%2Fhome%2Frudra%2FDEV_ROOT%2Fcoding_practice%2Fai_agents%2Fsrc%2Fai_agent_verbl%22%2C%22ref%22%3A%22%22%7D
+2025-12-14 06:20:23.929 [info] > git ls-files --stage -- ai_agents/src/ai_agent_verbl [5ms]
+2025-12-14 06:20:23.930 [warning] [GitFileSystemProvider][stat] File not found - git:/home/rudra/DEV_ROOT/coding_practice/ai_agents/src/ai_agent_verbl.git?%7B%22path%22%3A%22%2Fhome%2Frudra%2FDEV_ROOT%2Fcoding_practice%2Fai_agents%2Fsrc%2Fai_agent_verbl%22%2C%22ref%22%3A%22%22%7D
+2025-12-14 06:20:24.136 [info] > git check-ignore -v -z --stdin [3ms]
+2025-12-14 06:20:37.318 [info] > git config --get commit.template [23ms]
+2025-12-14 06:20:37.321 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-12-14 06:20:37.340 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/rudra/DEV_ROOT/coding_practice/.git/refs/remotes/origin/main'
+2025-12-14 06:20:37.342 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-12-14 06:20:37.386 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-12-14 06:20:37.418 [info] > git status -z -uall [56ms]
+2025-12-14 06:20:56.184 [info] > git check-ignore -v -z --stdin [116ms]
+2025-12-14 06:20:56.283 [info] > git show --textconv :ai_agents/src/ai_agent_venderbilt.py [32ms]
+2025-12-14 06:20:56.287 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/rudra/DEV_ROOT/coding_practice/ai_agents/src/ai_agent_venderbilt.py.git?%7B%22path%22%3A%22%2Fhome%2Frudra%2FDEV_ROOT%2Fcoding_practice%2Fai_agents%2Fsrc%2Fai_agent_venderbilt.py%22%2C%22ref%22%3A%22%22%7D
+2025-12-14 06:20:56.292 [info] > git ls-files --stage -- ai_agents/src/ai_agent_venderbilt.py [15ms]
+2025-12-14 06:20:56.293 [warning] [GitFileSystemProvider][stat] File not found - git:/home/rudra/DEV_ROOT/coding_practice/ai_agents/src/ai_agent_venderbilt.py.git?%7B%22path%22%3A%22%2Fhome%2Frudra%2FDEV_ROOT%2Fcoding_practice%2Fai_agents%2Fsrc%2Fai_agent_venderbilt.py%22%2C%22ref%22%3A%22%22%7D
+2025-12-14 06:20:56.531 [info] > git config --get commit.template [5ms]
+2025-12-14 06:20:56.567 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-12-14 06:20:56.597 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/rudra/DEV_ROOT/coding_practice/.git/refs/remotes/origin/main'
+2025-12-14 06:20:56.601 [info] > git rev-parse refs/remotes/origin/main [5ms]
+2025-12-14 06:20:56.649 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-12-14 06:20:56.689 [info] > git status -z -uall [66ms]
+2025-12-14 06:21:21.120 [info] > git config --get commit.template [21ms]
+2025-12-14 06:21:21.122 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-12-14 06:21:21.141 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/rudra/DEV_ROOT/coding_practice/.git/refs/remotes/origin/main'
+2025-12-14 06:21:21.143 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-12-14 06:21:21.186 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-12-14 06:21:21.219 [info] > git status -z -uall [56ms]
+2025-12-14 06:21:32.099 [info] > git show --textconv :ai_agents/.env [28ms]
+2025-12-14 06:21:32.100 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/rudra/DEV_ROOT/coding_practice/ai_agents/.env.git?%7B%22path%22%3A%22%2Fhome%2Frudra%2FDEV_ROOT%2Fcoding_practice%2Fai_agents%2F.env%22%2C%22ref%22%3A%22%22%7D
+2025-12-14 06:21:32.102 [info] > git ls-files --stage -- ai_agents/.env [4ms]
+2025-12-14 06:21:32.103 [warning] [GitFileSystemProvider][stat] File not found - git:/home/rudra/DEV_ROOT/coding_practice/ai_agents/.env.git?%7B%22path%22%3A%22%2Fhome%2Frudra%2FDEV_ROOT%2Fcoding_practice%2Fai_agents%2F.env%22%2C%22ref%22%3A%22%22%7D
+2025-12-14 06:21:32.271 [info] > git check-ignore -v -z --stdin [3ms]
+2025-12-14 06:21:32.870 [info] > git config --get commit.template [21ms]
+2025-12-14 06:21:32.872 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-12-14 06:21:32.891 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/rudra/DEV_ROOT/coding_practice/.git/refs/remotes/origin/main'
+2025-12-14 06:21:32.894 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-12-14 06:21:32.937 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-12-14 06:21:32.970 [info] > git status -z -uall [56ms]
+2025-12-14 06:21:38.935 [info] > git show --textconv :ai_agents/.env [24ms]
+2025-12-14 06:21:38.936 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/rudra/DEV_ROOT/coding_practice/ai_agents/.env.git?%7B%22path%22%3A%22%2Fhome%2Frudra%2FDEV_ROOT%2Fcoding_practice%2Fai_agents%2F.env%22%2C%22ref%22%3A%22%22%7D
+2025-12-14 06:21:38.937 [info] > git ls-files --stage -- ai_agents/.env [3ms]
+2025-12-14 06:21:38.938 [warning] [GitFileSystemProvider][stat] File not found - git:/home/rudra/DEV_ROOT/coding_practice/ai_agents/.env.git?%7B%22path%22%3A%22%2Fhome%2Frudra%2FDEV_ROOT%2Fcoding_practice%2Fai_agents%2F.env%22%2C%22ref%22%3A%22%22%7D
+2025-12-14 06:21:42.046 [info] > git blame --root --incremental 3cd9f0344c4c8f6cc17439444e6648a28d25b476 -- ai_agents/.env [3ms]
+2025-12-14 06:21:42.046 [info] fatal: no such path ai_agents/.env in 3cd9f0344c4c8f6cc17439444e6648a28d25b476
+2025-12-14 06:21:50.003 [info] > git config --get commit.template [21ms]
+2025-12-14 06:21:50.004 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-12-14 06:21:50.024 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/rudra/DEV_ROOT/coding_practice/.git/refs/remotes/origin/main'
+2025-12-14 06:21:50.026 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-12-14 06:21:50.068 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-12-14 06:21:50.101 [info] > git status -z -uall [55ms]
+2025-12-14 06:21:55.157 [info] > git config --get commit.template [26ms]
+2025-12-14 06:21:55.159 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-12-14 06:21:55.183 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/rudra/DEV_ROOT/coding_practice/.git/refs/remotes/origin/main'
+2025-12-14 06:21:55.185 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-12-14 06:21:55.234 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-12-14 06:21:55.263 [info] > git status -z -uall [56ms]
+2025-12-14 06:22:10.752 [info] [main] Log level: Info
+2025-12-14 06:22:10.752 [info] [main] Validating found git in: "git"
+2025-12-14 06:22:10.752 [info] [main] Using git "2.43.0" from "git"
+2025-12-14 06:22:10.752 [info] [Model][doInitialScan] Initial repository scan started
+2025-12-14 06:22:10.752 [info] > git rev-parse --show-toplevel [57ms]
+2025-12-14 06:22:10.827 [info] > git rev-parse --show-toplevel [5ms]
+2025-12-14 06:22:10.834 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (1), unsafe repositories (0)
+2025-12-14 06:22:11.126 [info] > git rev-parse --show-toplevel [10ms]
+2025-12-14 06:22:11.215 [info] > git rev-parse --show-toplevel [4ms]
+2025-12-14 06:22:11.931 [info] > git rev-parse --show-toplevel [5ms]
+2025-12-14 06:22:24.356 [info] [main] Log level: Info
+2025-12-14 06:22:24.356 [info] [main] Validating found git in: "git"
+2025-12-14 06:22:24.356 [info] [main] Using git "2.43.0" from "git"
+2025-12-14 06:22:24.356 [info] [Model][doInitialScan] Initial repository scan started
+2025-12-14 06:22:24.356 [info] > git rev-parse --show-toplevel [6ms]
+2025-12-14 06:22:24.381 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [7ms]
+2025-12-14 06:22:24.400 [info] [Model][openRepository] Opened repository (path): /home/rudra/DEV_ROOT/coding_practice
+2025-12-14 06:22:24.400 [info] [Model][openRepository] Opened repository (real path): /home/rudra/DEV_ROOT/coding_practice
+2025-12-14 06:22:24.400 [info] [Model][openRepository] Opened repository (kind): repository
+2025-12-14 06:22:24.437 [info] > git rev-parse --show-toplevel [8ms]
+2025-12-14 06:22:24.438 [info] > git config --get commit.template [22ms]
+2025-12-14 06:22:24.651 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [186ms]
+2025-12-14 06:22:24.651 [info] > git rev-parse --show-toplevel [201ms]
+2025-12-14 06:22:24.665 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/rudra/DEV_ROOT/coding_practice/.git/refs/remotes/origin/main'
+2025-12-14 06:22:24.699 [info] > git rev-parse --show-toplevel [22ms]
+2025-12-14 06:22:24.699 [info] > git rev-parse refs/remotes/origin/main [34ms]
+2025-12-14 06:22:24.815 [info] > git status -z -uall [103ms]
+2025-12-14 06:22:24.816 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [89ms]
+2025-12-14 06:22:24.926 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [71ms]
+2025-12-14 06:22:24.940 [info] > git rev-parse --show-toplevel [128ms]
+2025-12-14 06:22:24.978 [info] > git config --get --local branch.main.vscode-merge-base [39ms]
+2025-12-14 06:22:24.993 [info] > git config --get commit.template [71ms]
+2025-12-14 06:22:25.000 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [8ms]
+2025-12-14 06:22:25.017 [info] > git rev-parse --show-toplevel [42ms]
+2025-12-14 06:22:25.019 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-12-14 06:22:25.036 [info] > git merge-base refs/heads/main refs/remotes/origin/main [20ms]
+2025-12-14 06:22:25.057 [info] > git diff --name-status -z --diff-filter=ADMR --find-renames=50% 3cd9f0344c4c8f6cc17439444e6648a28d25b476...refs/remotes/origin/main -- [8ms]
+2025-12-14 06:22:25.058 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [25ms]
+2025-12-14 06:22:25.071 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/rudra/DEV_ROOT/coding_practice/.git/refs/remotes/origin/main'
+2025-12-14 06:22:25.075 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-12-14 06:22:25.107 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [7ms]
+2025-12-14 06:22:25.423 [info] > git status -z -uall [336ms]
+2025-12-14 06:22:25.424 [info] > git check-ignore -v -z --stdin [8ms]
+2025-12-14 06:22:25.722 [info] > git show --textconv :.gitignore [13ms]
+2025-12-14 06:22:25.743 [info] > git ls-files --stage -- .gitignore [22ms]
+2025-12-14 06:22:25.777 [info] > git cat-file -s b7faf403d915ca307532bb0eb9cceaf0214e8e5b [23ms]
+2025-12-14 06:22:29.649 [info] > git check-ignore -v -z --stdin [2ms]
+2025-12-14 06:22:43.277 [info] > git blame --root --incremental 3cd9f0344c4c8f6cc17439444e6648a28d25b476 -- .gitignore [3ms]
+2025-12-14 06:24:41.244 [info] > git check-ignore -v -z --stdin [2ms]
+2025-12-14 06:24:41.687 [info] > git config --get commit.template [20ms]
+2025-12-14 06:24:41.689 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-12-14 06:24:41.708 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/rudra/DEV_ROOT/coding_practice/.git/refs/remotes/origin/main'
+2025-12-14 06:24:41.710 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-12-14 06:24:41.751 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-12-14 06:24:41.784 [info] > git status -z -uall [56ms]
+2025-12-14 06:24:55.235 [info] [main] Log level: Info
+2025-12-14 06:24:55.235 [info] [main] Validating found git in: "git"
+2025-12-14 06:24:55.235 [info] [main] Using git "2.43.0" from "git"
+2025-12-14 06:24:55.235 [info] [Model][doInitialScan] Initial repository scan started
+2025-12-14 06:24:55.235 [info] > git rev-parse --show-toplevel [4ms]
+2025-12-14 06:24:55.235 [info] > git rev-parse --show-toplevel [3ms]
+2025-12-14 06:24:55.235 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (1), unsafe repositories (0)
+2025-12-14 06:24:55.757 [info] > git rev-parse --show-toplevel [166ms]
+2025-12-14 06:24:56.121 [info] > git rev-parse --show-toplevel [3ms]
+2025-12-14 06:25:15.328 [info] > git rev-parse --show-toplevel [229ms]
+2025-12-14 06:46:04.314 [info] > git rev-parse --show-toplevel [8ms]
+2025-12-14 06:49:20.260 [info] > git rev-parse --show-toplevel [2ms]
+2025-12-14 06:57:24.783 [info] > git rev-parse --show-toplevel [3ms]
+2025-12-14 06:57:42.440 [info] > git rev-parse --show-toplevel [3ms]
+2025-12-14 06:59:22.592 [info] > git rev-parse --show-toplevel [2ms]
+2025-12-14 09:15:23.938 [info] > git rev-parse --show-toplevel [4ms]
+2025-12-14 09:44:51.838 [info] > git rev-parse --show-toplevel [8ms]
+2025-12-14 14:08:22.086 [info] > git rev-parse --show-toplevel [2ms]
+2025-12-14 14:08:22.108 [info] > git rev-parse --show-toplevel [1ms]
+2025-12-14 14:08:22.139 [info] > git rev-parse --show-toplevel [2ms]
+2025-12-14 14:08:26.707 [info] [main] Log level: Info
+2025-12-14 14:08:26.707 [info] [main] Validating found git in: "git"
+2025-12-14 14:08:26.707 [info] [main] Using git "2.43.0" from "git"
+2025-12-14 14:08:26.707 [info] [Model][doInitialScan] Initial repository scan started
+2025-12-14 14:08:26.707 [info] > git rev-parse --show-toplevel [46ms]
+2025-12-14 14:08:26.815 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [93ms]
+2025-12-14 14:08:26.827 [info] [Model][openRepository] Opened repository (path): /home/rudra/DEV_ROOT/AI-workbench
+2025-12-14 14:08:26.827 [info] [Model][openRepository] Opened repository (real path): /home/rudra/DEV_ROOT/AI-workbench
+2025-12-14 14:08:26.827 [info] [Model][openRepository] Opened repository (kind): repository
+2025-12-14 14:08:26.895 [info] > git rev-parse --show-toplevel [40ms]
+2025-12-14 14:08:26.896 [info] > git config --get commit.template [53ms]
+2025-12-14 14:08:26.940 [info] > git rev-parse --show-toplevel [19ms]
+2025-12-14 14:08:26.952 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [17ms]
+2025-12-14 14:08:26.959 [info] > git rev-parse --show-toplevel [7ms]
+2025-12-14 14:08:26.978 [info] > git rev-parse --show-toplevel [3ms]
+2025-12-14 14:08:27.050 [info] > git status -z -uall [35ms]
+2025-12-14 14:08:27.051 [info] > git rev-parse --show-toplevel [14ms]
+2025-12-14 14:08:27.053 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-12-14 14:08:27.054 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [27ms]
+2025-12-14 14:08:27.162 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [80ms]
+2025-12-14 14:08:27.235 [info] > git config --get --local branch.main.vscode-merge-base [55ms]
+2025-12-14 14:08:27.253 [info] > git config --get commit.template [107ms]
+2025-12-14 14:08:27.267 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [14ms]
+2025-12-14 14:08:27.366 [info] > git merge-base refs/heads/main refs/remotes/origin/main [86ms]
+2025-12-14 14:08:27.378 [info] > git diff --name-status -z --diff-filter=ADMR --find-renames=50% b6aded36754e2ffc46b1d1f32bc2dcd3bf1d205f...refs/remotes/origin/main -- [3ms]
+2025-12-14 14:08:27.379 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [15ms]
+2025-12-14 14:08:27.424 [info] > git status -z -uall [33ms]
+2025-12-14 14:08:27.425 [info] > git check-ignore -v -z --stdin [9ms]
+2025-12-14 14:08:27.425 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [24ms]
+2025-12-14 14:08:28.136 [info] > git check-ignore -v -z --stdin [4ms]
+2025-12-14 14:08:29.835 [info] > git check-ignore -v -z --stdin [1ms]
+2025-12-14 14:08:31.534 [info] > git show --textconv :src/agent_profile/openai.py [17ms]
+2025-12-14 14:08:31.545 [info] > git ls-files --stage -- src/agent_profile/openai.py [12ms]
+2025-12-14 14:08:31.564 [info] > git cat-file -s bcb0e05a50a78ea9cf7c38226670ecc2892aebc8 [5ms]
+2025-12-14 14:08:33.032 [info] > git check-ignore -v -z --stdin [2ms]
+2025-12-14 14:08:45.745 [info] > git show --textconv :src/agent_persona/business_idea_validator.md [19ms]
+2025-12-14 14:08:45.767 [info] > git ls-files --stage -- src/agent_persona/business_idea_validator.md [23ms]
+2025-12-14 14:08:45.784 [info] > git hash-object -t tree /dev/null [18ms]
+2025-12-14 14:08:45.785 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/rudra/DEV_ROOT/AI-workbench/src/agent_persona/business_idea_validator.md.git?%7B%22path%22%3A%22%2Fhome%2Frudra%2FDEV_ROOT%2FAI-workbench%2Fsrc%2Fagent_persona%2Fbusiness_idea_validator.md%22%2C%22ref%22%3A%22%22%7D
+2025-12-14 14:08:45.786 [info] > git hash-object -t tree /dev/null [2ms]
+2025-12-14 14:08:45.786 [warning] [GitFileSystemProvider][stat] File not found - git:/home/rudra/DEV_ROOT/AI-workbench/src/agent_persona/business_idea_validator.md.git?%7B%22path%22%3A%22%2Fhome%2Frudra%2FDEV_ROOT%2FAI-workbench%2Fsrc%2Fagent_persona%2Fbusiness_idea_validator.md%22%2C%22ref%22%3A%22%22%7D
+2025-12-14 14:08:45.891 [info] > git check-ignore -v -z --stdin [4ms]
+2025-12-14 14:08:46.161 [info] > git blame --root --incremental d3b7b79d059104b6525e6d734c912c049741391c -- src/agent_persona/business_idea_validator.md [3ms]
+2025-12-14 14:08:46.161 [info] fatal: no such path src/agent_persona/business_idea_validator.md in d3b7b79d059104b6525e6d734c912c049741391c
+2025-12-14 14:08:46.593 [info] > git config --get commit.template [11ms]
+2025-12-14 14:08:46.593 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-12-14 14:08:46.615 [info] > git status -z -uall [12ms]
+2025-12-14 14:08:46.616 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-12-14 14:08:54.274 [info] > git show --textconv :src/agent_persona/coding-assistant.md [12ms]
+2025-12-14 14:08:54.275 [info] > git ls-files --stage -- src/agent_persona/coding-assistant.md [2ms]
+2025-12-14 14:08:54.288 [info] > git cat-file -s a3aacc79a030225524c3c59d3e307bbc44fee9cd [2ms]
+2025-12-14 14:08:59.631 [info] > git config --get commit.template [12ms]
+2025-12-14 14:08:59.632 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-12-14 14:08:59.655 [info] > git status -z -uall [12ms]
+2025-12-14 14:08:59.656 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-12-14 14:09:25.275 [info] > git show --textconv :src/agent_persona/agent_instructor.md [12ms]
+2025-12-14 14:09:25.276 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/rudra/DEV_ROOT/AI-workbench/src/agent_persona/agent_instructor.md.git?%7B%22path%22%3A%22%2Fhome%2Frudra%2FDEV_ROOT%2FAI-workbench%2Fsrc%2Fagent_persona%2Fagent_instructor.md%22%2C%22ref%22%3A%22%22%7D
+2025-12-14 14:09:25.277 [info] > git ls-files --stage -- src/agent_persona/agent_instructor.md [3ms]
+2025-12-14 14:09:25.277 [warning] [GitFileSystemProvider][stat] File not found - git:/home/rudra/DEV_ROOT/AI-workbench/src/agent_persona/agent_instructor.md.git?%7B%22path%22%3A%22%2Fhome%2Frudra%2FDEV_ROOT%2FAI-workbench%2Fsrc%2Fagent_persona%2Fagent_instructor.md%22%2C%22ref%22%3A%22%22%7D
+2025-12-14 14:09:25.547 [info] > git check-ignore -v -z --stdin [1ms]
+2025-12-14 14:09:26.117 [info] > git config --get commit.template [11ms]
+2025-12-14 14:09:26.118 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-12-14 14:09:26.141 [info] > git status -z -uall [12ms]
+2025-12-14 14:09:26.142 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-12-14 14:09:29.124 [info] > git show --textconv :src/agent_persona/coding-assistant.md [12ms]
+2025-12-14 14:09:29.126 [info] > git ls-files --stage -- src/agent_persona/coding-assistant.md [2ms]
+2025-12-14 14:09:29.138 [info] > git cat-file -s a3aacc79a030225524c3c59d3e307bbc44fee9cd [2ms]
+2025-12-14 14:09:31.168 [info] > git config --get commit.template [11ms]
+2025-12-14 14:09:31.169 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-12-14 14:09:31.190 [info] > git status -z -uall [11ms]
+2025-12-14 14:09:31.191 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-12-14 14:09:50.352 [info] > git show --textconv :src/agent_persona/product-mangement-helper.md [13ms]
+2025-12-14 14:09:50.353 [info] > git ls-files --stage -- src/agent_persona/product-mangement-helper.md [2ms]
+2025-12-14 14:09:50.364 [info] > git cat-file -s 89604bab396849ef4f9b612334098b10ac5f7b8d [1ms]
+2025-12-14 14:09:55.379 [info] > git show --textconv :src/agent_persona/enhance-generator.md [12ms]
+2025-12-14 14:09:55.379 [info] > git ls-files --stage -- src/agent_persona/enhance-generator.md [1ms]
+2025-12-14 14:09:55.391 [info] > git cat-file -s de1dc0c4b4f6d1a9374812291ba7c34a1eed9eb6 [2ms]
+2025-12-14 14:09:58.285 [info] > git show --textconv :src/agent_persona/self-intro.md [12ms]
+2025-12-14 14:09:58.286 [info] > git ls-files --stage -- src/agent_persona/self-intro.md [1ms]
+2025-12-14 14:09:58.298 [info] > git cat-file -s f0e20d61c670e1b624194cc9531c24bfee00a9ab [1ms]
+2025-12-14 14:09:59.023 [info] > git show --textconv :src/agent_persona/self-persona.md [11ms]
+2025-12-14 14:09:59.025 [info] > git ls-files --stage -- src/agent_persona/self-persona.md [2ms]
+2025-12-14 14:09:59.037 [info] > git cat-file -s 83e0520d29967e46d0e1ab3322f86e04d4b78bd2 [1ms]
+2025-12-14 14:10:13.634 [info] > git show --textconv :src/agent_persona/prompt_generator.md [11ms]
+2025-12-14 14:10:13.635 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/rudra/DEV_ROOT/AI-workbench/src/agent_persona/prompt_generator.md.git?%7B%22path%22%3A%22%2Fhome%2Frudra%2FDEV_ROOT%2FAI-workbench%2Fsrc%2Fagent_persona%2Fprompt_generator.md%22%2C%22ref%22%3A%22%22%7D
+2025-12-14 14:10:13.635 [info] > git ls-files --stage -- src/agent_persona/prompt_generator.md [1ms]
+2025-12-14 14:10:13.636 [warning] [GitFileSystemProvider][stat] File not found - git:/home/rudra/DEV_ROOT/AI-workbench/src/agent_persona/prompt_generator.md.git?%7B%22path%22%3A%22%2Fhome%2Frudra%2FDEV_ROOT%2FAI-workbench%2Fsrc%2Fagent_persona%2Fprompt_generator.md%22%2C%22ref%22%3A%22%22%7D
+2025-12-14 14:10:13.916 [info] > git check-ignore -v -z --stdin [2ms]
+2025-12-14 14:10:14.112 [info] > git blame --root --incremental d3b7b79d059104b6525e6d734c912c049741391c -- src/agent_persona/prompt_generator.md [3ms]
+2025-12-14 14:10:14.112 [info] fatal: no such path src/agent_persona/prompt_generator.md in d3b7b79d059104b6525e6d734c912c049741391c
+2025-12-14 14:10:14.481 [info] > git config --get commit.template [11ms]
+2025-12-14 14:10:14.482 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-12-14 14:10:14.503 [info] > git status -z -uall [11ms]
+2025-12-14 14:10:14.505 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-12-14 14:10:15.690 [info] > git show --textconv :src/agent_persona/self-persona.md [13ms]
+2025-12-14 14:10:15.692 [info] > git ls-files --stage -- src/agent_persona/self-persona.md [2ms]
+2025-12-14 14:10:15.704 [info] > git cat-file -s 83e0520d29967e46d0e1ab3322f86e04d4b78bd2 [1ms]
+2025-12-14 14:34:18.448 [info] > git config --get commit.template [15ms]
+2025-12-14 14:34:18.449 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-12-14 14:34:18.478 [info] > git status -z -uall [15ms]
+2025-12-14 14:34:18.479 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-12-14 14:34:20.341 [info] > git rev-parse --show-toplevel [2ms]
+2025-12-14 14:34:20.342 [info] fatal: not a git repository (or any of the parent directories): .git

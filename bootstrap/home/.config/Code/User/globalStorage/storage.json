@@ -1,0 +1,90 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "a77700baa630ccc51d208968d1ad174ce02a5ce6ec618e3d823a480b16406ee0",
+    "telemetry.devDeviceId": "d9e2709b-8820-4cfc-a5f9-446ba2da6bbc",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [],
+        "emptyWindows": [
+            {
+                "backupFolder": "1765772774912"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/rudra/DEV_ROOT": "__default__profile__",
+            "file:///home/rudra/DEV_ROOT/coding_practice/ai_agents": "__default__profile__",
+            "file:///home/rudra/DEV_ROOT/coding_practice": "__default__profile__",
+            "file:///home/rudra/DEV_ROOT/AI-workbench": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1765772774912": "__default__profile__"
+        }
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#121212",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#121212",
+            "editorBackground": "#121212",
+            "titleBarBackground": "#020202",
+            "activityBarBackground": "#1d1f23",
+            "sideBarBackground": "#181a1f",
+            "sideBarBorder": "#1d1f23",
+            "statusBarBackground": "#020202",
+            "statusBarNoFolderBackground": "#020202"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 0,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "/home/rudra/.config/Code/Backups/1765772774912",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 32,
+                "width": 1920,
+                "height": 1048
+            }
+        },
+        "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 300,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "b0ae564380c88334b0ea84e3adad0608": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "2841eedc5744d019ae8fbf99f87a8ca7": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "f19f123be4beb43882bef19b9f081a77": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "7819569c1e39d5ea0d3e9322188a5082": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                }
+            }
+        }
+    }
+}

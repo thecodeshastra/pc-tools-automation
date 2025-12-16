@@ -1,0 +1,27 @@
+2025-12-15 09:56:15.662 [error] [/home/rudra/.vscode/extensions/github.copilot-chat-0.35.0]: Extension is not compatible with Code 1.106.3. Extension requires: ^1.107.0-20251119.
+2025-12-15 09:56:15.693 [error] [/home/rudra/.vscode/extensions/github.copilot-chat-0.35.0]: Extension is not compatible with Code 1.106.3. Extension requires: ^1.107.0-20251119.
+2025-12-15 09:56:15.699 [error] [/home/rudra/.vscode/extensions/github.copilot-chat-0.35.0]: Extension is not compatible with Code 1.106.3. Extension requires: ^1.107.0-20251119.
+2025-12-15 09:56:15.711 [error] [/home/rudra/.vscode/extensions/github.copilot-chat-0.35.0]: Extension is not compatible with Code 1.106.3. Extension requires: ^1.107.0-20251119.
+2025-12-15 09:56:15.768 [info] Deleted marked for removal extension from disk ms-python.debugpy /home/rudra/.vscode/extensions/ms-python.debugpy-2025.17.2025120401
+2025-12-15 09:56:15.768 [info] Deleted marked for removal extension from disk ms-python.python /home/rudra/.vscode/extensions/ms-python.python-2025.19.2025120401-linux-x64
+2025-12-15 09:56:15.769 [info] Deleted marked for removal extension from disk ms-python.vscode-python-envs /home/rudra/.vscode/extensions/ms-python.vscode-python-envs-1.12.0-linux-x64
+2025-12-15 09:56:15.875 [error] [/home/rudra/.vscode/extensions/github.copilot-chat-0.35.0]: Extension is not compatible with Code 1.106.3. Extension requires: ^1.107.0-20251119.
+2025-12-15 09:56:15.880 [error] [/home/rudra/.vscode/extensions/github.copilot-chat-0.35.0]: Extension is not compatible with Code 1.106.3. Extension requires: ^1.107.0-20251119.
+2025-12-15 09:56:15.925 [error] [/home/rudra/.vscode/extensions/github.copilot-chat-0.35.0]: Extension is not compatible with Code 1.106.3. Extension requires: ^1.107.0-20251119.
+2025-12-15 09:56:15.986 [error] [/home/rudra/.vscode/extensions/github.copilot-chat-0.35.0]: Extension is not compatible with Code 1.106.3. Extension requires: ^1.107.0-20251119.
+2025-12-15 09:56:16.016 [error] [/home/rudra/.vscode/extensions/github.copilot-chat-0.35.0]: Extension is not compatible with Code 1.106.3. Extension requires: ^1.107.0-20251119.
+2025-12-15 09:56:16.148 [error] [/home/rudra/.vscode/extensions/github.copilot-chat-0.35.0]: Extension is not compatible with Code 1.106.3. Extension requires: ^1.107.0-20251119.
+2025-12-15 09:56:16.211 [error] [/home/rudra/.vscode/extensions/github.copilot-chat-0.35.0]: Extension is not compatible with Code 1.106.3. Extension requires: ^1.107.0-20251119.
+2025-12-15 09:56:16.267 [error] [/home/rudra/.vscode/extensions/github.copilot-chat-0.35.0]: Extension is not compatible with Code 1.106.3. Extension requires: ^1.107.0-20251119.
+2025-12-15 09:56:16.314 [error] [/home/rudra/.vscode/extensions/github.copilot-chat-0.35.0]: Extension is not compatible with Code 1.106.3. Extension requires: ^1.107.0-20251119.
+2025-12-15 09:56:16.395 [error] [/home/rudra/.vscode/extensions/github.copilot-chat-0.35.0]: Extension is not compatible with Code 1.106.3. Extension requires: ^1.107.0-20251119.
+2025-12-15 09:56:16.452 [error] [/home/rudra/.vscode/extensions/github.copilot-chat-0.35.0]: Extension is not compatible with Code 1.106.3. Extension requires: ^1.107.0-20251119.
+2025-12-15 09:56:17.700 [error] [/home/rudra/.vscode/extensions/github.copilot-chat-0.35.0]: Extension is not compatible with Code 1.106.3. Extension requires: ^1.107.0-20251119.
+2025-12-15 09:56:18.490 [error] [/home/rudra/.vscode/extensions/github.copilot-chat-0.35.0]: Extension is not compatible with Code 1.106.3. Extension requires: ^1.107.0-20251119.
+2025-12-15 09:56:18.507 [error] [/home/rudra/.vscode/extensions/github.copilot-chat-0.35.0]: Extension is not compatible with Code 1.106.3. Extension requires: ^1.107.0-20251119.
+2025-12-15 09:56:19.501 [error] [/home/rudra/.vscode/extensions/github.copilot-chat-0.35.0]: Extension is not compatible with Code 1.106.3. Extension requires: ^1.107.0-20251119.
+2025-12-15 09:56:45.684 [info] Getting Manifest... github.copilot-chat
+2025-12-15 09:56:45.758 [info] Installing extension: github.copilot-chat {"productVersion":{"version":"1.107.0","date":"2025-12-10T07:33:12.827Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rudra/.vscode/extensions/extensions.json","path":"/home/rudra/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-12-15 09:56:45.809 [error] [/home/rudra/.vscode/extensions/github.copilot-chat-0.35.0]: Extension is not compatible with Code 1.106.3. Extension requires: ^1.107.0-20251119.
+2025-12-15 09:56:45.810 [error] Error while installing the extension github.copilot-chat Cannot read the extension from /home/rudra/.vscode/extensions/github.copilot-chat-0.35.0 vscode-userdata:/home/rudra/.vscode/extensions/extensions.json
+2025-12-15 10:00:19.467 [error] [/home/rudra/.vscode/extensions/github.copilot-chat-0.35.0]: Extension is not compatible with Code 1.106.3. Extension requires: ^1.107.0-20251119.

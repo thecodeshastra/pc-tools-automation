@@ -1,0 +1,15 @@
+2025-12-16 08:19:50.561 [info] 2025/12/16 08:19:50 maxprocs: Leaving GOMAXPROCS=16: CPU quota undefined
+2025-12-16 08:19:50.646 [info] I1216 08:19:50.622873  4906 server.go:1137] Starting language server process with pid 4906
+2025-12-16 08:19:50.646 [info] I1216 08:19:50.622928  4906 server.go:279] Setting GOMAXPROCS to 4
+2025-12-16 08:19:50.646 [info] I1216 08:19:50.626591  4906 server.go:498] Language server will attempt to listen on host 127.0.0.1
+2025-12-16 08:19:50.646 [info] I1216 08:19:50.626863  4906 server.go:513] Language server listening on random port at 42277 for HTTPS
+2025-12-16 08:19:50.646 [info] I1216 08:19:50.626897  4906 server.go:520] Language server listening on random port at 46449 for HTTP
+2025-12-16 08:19:51.015 [info] I1216 08:19:51.001977  4906 server.go:491] Created extension server client at port 41225
+2025-12-16 08:19:51.015 [info] W1216 08:19:51.011956  4906 log_context.go:106] Cache(userInfo): Singleflight refresh failed: You are not logged into Antigravity.
+2025-12-16 08:19:51.025 [info] W1216 08:19:51.025224  4906 log_context.go:106] Cache(userInfo): Singleflight refresh failed: You are not logged into Antigravity.
+2025-12-16 08:19:51.036 [info] (Antigravity) 2025-12-16 08:19:51.035 [INFO]: Language server started
+2025-12-16 08:19:51.041 [info] I1216 08:19:51.040778  4906 server.go:1465] initialized server successfully
+2025-12-16 08:19:51.116 [info] 2025/12/16 08:19:51 http: TLS handshake error from 127.0.0.1:46476: remote error: tls: unknown certificate
+2025-12-16 08:19:51.116 [info] 2025/12/16 08:19:51 http: TLS handshake error from 127.0.0.1:46492: EOF
+2025-12-16 08:19:51.129 [info] (Antigravity) 2025-12-16 08:19:51.129 [INFO]: LS lspClient started successfully
+2025-12-16 08:19:54.692 [info] E1216 08:19:54.677561  4906 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500

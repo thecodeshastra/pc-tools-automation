@@ -1,0 +1,163 @@
+{
+    "name": "asset000",
+    "subfolders": [ 
+        {
+            "name": "lookdev",
+            "subfolders": [
+                {
+                    "name": "houdini",
+                    "subfolders": [
+                        {"name": "cache"},
+                        {"name": "flipbook"},
+                        {"name": "renders"},
+                        {"name": "scenes"}
+                    ]
+                },
+                {
+                    "name": "maya",
+                    "subfolders": [
+                        {"name": "cache"},
+                        {"name": "playbast"},
+                        {"name": "renders"},
+                        {"name": "scenes"}
+                    ]
+                },
+                {
+                    "name": "nuke",
+                    "subfolders": [
+                        {"name": "cache"},
+                        {"name": "movie"},
+                        {"name": "renders"},
+                        {"name": "scenes"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "model",
+            "subfolders": [
+                {
+                    "name": "houdini",
+                    "subfolders": [
+                        {"name": "cache"},
+                        {"name": "flipbook"},
+                        {"name": "renders"},
+                        {"name": "scenes"}
+                    ]
+                },
+                {
+                    "name": "maya",
+                    "subfolders": [
+                        {"name": "cache"},
+                        {"name": "playbast"},
+                        {"name": "renders"},
+                        {"name": "scenes"}
+                    ]
+                },
+                {
+                    "name": "nuke",
+                    "subfolders": [
+                        {"name": "cache"},
+                        {"name": "movie"},
+                        {"name": "renders"},
+                        {"name": "scenes"}
+                    ]
+                },
+                {
+                    "name": "zbrush",
+                    "subfolders": [
+                        {"name": "cache"},
+                        {"name": "renders"},
+                        {"name": "scenes"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "texture",
+            "subfolders": [
+                {
+                    "name": "mari",
+                    "subfolders": [
+                        {"name": "cache"},
+                        {"name": "texture"},
+                        {"name": "scenes"}
+                    ]
+                },
+                {
+                    "name": "photoshop",
+                    "subfolders": [
+                        {"name": "cache"},
+                        {"name": "texture"},
+                        {"name": "scenes"}
+                    ]
+                },
+                {
+                    "name": "nuke",
+                    "subfolders": [
+                        {"name": "cache"},
+                        {"name": "movie"},
+                        {"name": "texture"},
+                        {"name": "scenes"}
+                    ]
+                },
+                {
+                    "name": "substance",
+                    "subfolders": [
+                        {"name": "cache"},
+                        {"name": "texture"},
+                        {"name": "scenes"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "sim",
+            "subfolders": [
+                {
+                    "name": "houdini",
+                    "subfolders": [
+                        {"name": "cache"},
+                        {"name": "flipbook"},
+                        {"name": "renders"},
+                        {"name": "scenes"}
+                    ]
+                },
+                {
+                    "name": "maya",
+                    "subfolders": [
+                        {"name": "cache"},
+                        {"name": "playbast"},
+                        {"name": "renders"},
+                        {"name": "scenes"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "rig",
+            "subfolders": [
+                {
+                    "name": "houdini",
+                    "subfolders": [
+                        {"name": "cache"},
+                        {"name": "flipbook"},
+                        {"name": "renders"},
+                        {"name": "scenes"}
+                    ]
+                },
+                {
+                    "name": "maya",
+                    "subfolders": [
+                        {"name": "cache"},
+                        {"name": "playbast"},
+                        {"name": "renders"},
+                        {"name": "scenes"}
+                    ]
+                }
+            ]
+        },
+        {"name": "resources"},
+        {"name": "references"}
+    ]
+}

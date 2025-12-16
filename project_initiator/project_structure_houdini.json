@@ -1,0 +1,41 @@
+{
+    "src": {
+        "config": {
+            "Icons":{
+                ".gitKeep": ""
+            }
+        },
+        "scripts": {
+            "python": {
+                "__init__.py": "",
+                "tool_name": {
+                    "__init__.py": "",
+                    "api.py": ""
+                }
+            }
+        },
+        "scenes": {
+            "gitKeep": ""
+        },
+        "python_panels": {
+            ".gitKeep": ""
+        },
+        "otls": {
+            ".gitKeep": ""
+        },
+        "toolbar": {
+            ".gitKeep": ""
+        }
+    },
+    "resources": {
+        ".gitKeep": ""
+    },
+    "deploy": {
+        ".gitKeep": ""
+    },
+    "README.md": "# Tool Name",
+    "LICENSE": "# Tool Name – Commercial License",
+    ".gitignore": "# Distribution / packaging\n.Python\nbuild/\ndevelop-eggs/\ndist/\ndownloads/\neggs/\n.eggs/\nlib/\nlib64/\nparts/\nsdist/\nvar/\nwheels/\nshare/python-wheels/\n*.egg-info/\n.installed.cfg\n*.egg\n\n# Ruff stuff:\n.ruff_cache/\n\n# Cython debug symbols\ncython_debug/\n\n# Environments\n.env\n.envrc\n.venv\nenv/\nvenv/\nENV/\nenv.bak/\nvenv.bak/",
+    "CHANGELOG.md": "## Changelog\nAll notable changes to this project will be documented in this file.\n\n### v0.0.0 - 01-01-2023\n- Initial project structure created.\n",
+    "tool_config.json": ""
+}

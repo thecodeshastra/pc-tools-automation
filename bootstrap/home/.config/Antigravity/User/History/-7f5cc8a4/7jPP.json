@@ -1,0 +1,28 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "One Dark Pro Night Flat",
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": false,
+    "python.defaultInterpreterPath": "/usr/bin/python3",
+    "python.analysis.extraPaths": [
+        "C:\\Program Files\\Side Effects Software\\Houdini 20.5.445\\houdini\\python3.11libs",
+        "C:\\Program Files\\Katana8.0v2\\bin\\python",
+        "C:\\Program Files\\Nuke15.1v5\\lib\\site-packages",
+        "C:\\Program Files\\Autodesk\\Maya2025\\Python\\Lib\\site-packages",
+        "C:\\Program Files\\Adobe\\Adobe Substance 3D Painter\\resources\\python\\modules"
+    ],
+    "python.autoComplete.extraPaths": [
+        "C:\\Program Files\\Side Effects Software\\Houdini 20.5.445\\houdini\\python3.11libs",
+        "C:\\Program Files\\Katana8.0v2\\bin\\python",
+        "C:\\Program Files\\Nuke15.1v5\\lib\\site-packages",
+        "C:\\Program Files\\Autodesk\\Maya2025\\Python\\Lib\\site-packages",
+        "C:\\Program Files\\Adobe\\Adobe Substance 3D Painter\\resources\\python\\modules"
+    ],
+    "terminal.integrated.suggest.enabled": true,
+    "terminal.integrated.fontFamily": "monospace",
+    "editor.codeActionsOnSave": {},
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python-envs.pythonProjects": []
+}

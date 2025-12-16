@@ -1,0 +1,21 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "git.openRepositoryInParentFolders": "never",
+    "workbench.colorTheme": "One Dark Pro Monokai Darker",
+    "[python]": {
+        "diffEditor.ignoreTrimWhitespace": true
+    },
+    "workbench.settings.useSplitJSON": true,
+    "python.analysis.extraPaths": [
+        "C:\\Program Files\\Side Effects Software\\Houdini 20.5.445\\houdini\\python3.11libs"
+    ],
+    "python.autoComplete.extraPaths": [
+        "C:\\Program Files\\Side Effects Software\\Houdini 20.5.445\\houdini\\python3.11libs"
+    ],
+    "editor.fontFamily": "JetBrains Mono",
+    "terminal.integrated.suggest.enabled": true,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "terminal.integrated.fontFamily": "monospace",
+    "editor.codeActionsOnSave": {}
+}

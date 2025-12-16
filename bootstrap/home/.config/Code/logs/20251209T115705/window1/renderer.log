@@ -1,0 +1,16 @@
+2025-12-09 11:57:06.364 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-12-09 11:57:06.513 [info] Started local extension host with pid 24693.
+2025-12-09 11:57:06.550 [info] Started initializing default profile extensions in extensions installation folder. file:///home/rudra/.vscode/extensions
+2025-12-09 11:57:06.727 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/rudra/.vscode/extensions
+2025-12-09 11:57:07.751 [info] MCP Registry configured: https://api.mcp.github.com
+2025-12-09 11:57:07.884 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-12-09 11:57:09.620 [info] [perf] Render performance baseline is 148ms
+2025-12-09 11:57:55.941 [info] Settings Sync: Updated current session 6df601c4698f9141
+2025-12-09 11:57:55.955 [info] Settings Sync: Account status changed from unavailable to available
+2025-12-09 11:57:57.293 [error] Failed to fetch MCP registry providers Server returned 404
+2025-12-09 11:58:26.618 [error] [Extension Host] (node:24693) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-12-09 11:58:26.618 [error] [Extension Host] (node:24693) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2025-12-09 11:58:29.119 [error] chatParticipant must be declared in package.json: claude-code
+2025-12-09 11:58:59.510 [error] Failed to fetch MCP registry providers Server returned 404
+2025-12-09 11:58:59.530 [error] Failed to fetch MCP registry providers Server returned 404

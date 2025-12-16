@@ -1,0 +1,4 @@
+yaml
+python-dotenv
+requests
+gradio

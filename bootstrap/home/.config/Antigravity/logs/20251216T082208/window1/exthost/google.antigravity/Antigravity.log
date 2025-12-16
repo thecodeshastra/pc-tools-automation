@@ -1,0 +1,19 @@
+2025-12-16 08:22:16.049 [info] 2025/12/16 08:22:16 maxprocs: Leaving GOMAXPROCS=16: CPU quota undefined
+2025-12-16 08:22:16.102 [info] I1216 08:22:16.074615  5610 server.go:1137] Starting language server process with pid 5610
+2025-12-16 08:22:16.102 [info] I1216 08:22:16.074654  5610 server.go:279] Setting GOMAXPROCS to 4
+2025-12-16 08:22:16.102 [info] I1216 08:22:16.076509  5610 server.go:498] Language server will attempt to listen on host 127.0.0.1
+2025-12-16 08:22:16.102 [info] I1216 08:22:16.076729  5610 server.go:513] Language server listening on random port at 37985 for HTTPS
+2025-12-16 08:22:16.102 [info] I1216 08:22:16.076752  5610 server.go:520] Language server listening on random port at 43617 for HTTP
+2025-12-16 08:22:16.510 [info] I1216 08:22:16.508760  5610 server.go:491] Created extension server client at port 37155
+2025-12-16 08:22:16.533 [info] W1216 08:22:16.517047  5610 log_context.go:106] Cache(userInfo): Singleflight refresh failed: You are not logged into Antigravity.
+2025-12-16 08:22:16.533 [info] W1216 08:22:16.522225  5610 log_context.go:106] Cache(userInfo): Singleflight refresh failed: You are not logged into Antigravity.
+2025-12-16 08:22:16.545 [info] (Antigravity) 2025-12-16 08:22:16.544 [INFO]: Language server started
+2025-12-16 08:22:16.552 [info] I1216 08:22:16.550581  5610 server.go:1465] initialized server successfully
+2025-12-16 08:22:16.593 [info] 2025/12/16 08:22:16 http: TLS handshake error from 127.0.0.1:51096: EOF
+2025-12-16 08:22:16.626 [info] (Antigravity) 2025-12-16 08:22:16.626 [INFO]: LS lspClient started successfully
+2025-12-16 08:22:18.720 [info] E1216 08:22:18.707189  5610 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-16 08:23:38.961 [info] E1216 08:23:38.961703  5610 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-16 08:23:40.545 [info] E1216 08:23:40.542862  5610 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-16 08:23:41.547 [info] E1216 08:23:41.547375  5610 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-16 08:23:48.833 [info] E1216 08:23:48.833146  5610 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500
+2025-12-16 08:23:49.837 [info] E1216 08:23:49.837181  5610 log.go:354] queryText was truncated because it was longer than the allowed byte length 1500

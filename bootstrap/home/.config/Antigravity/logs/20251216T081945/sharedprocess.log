@@ -1,0 +1,22 @@
+2025-12-16 08:20:05.363 [info] Uninstalling extension from the profile: ms-toolsai.jupyter@2025.8.0 vscode-userdata:/home/rudra/.antigravity/extensions/extensions.json
+2025-12-16 08:20:05.363 [info] Uninstalling extension from the profile: ms-toolsai.jupyter-keymap@1.1.2 vscode-userdata:/home/rudra/.antigravity/extensions/extensions.json
+2025-12-16 08:20:05.364 [info] Uninstalling extension from the profile: ms-toolsai.jupyter-renderers@1.3.0 vscode-userdata:/home/rudra/.antigravity/extensions/extensions.json
+2025-12-16 08:20:05.364 [info] Uninstalling extension from the profile: ms-toolsai.vscode-jupyter-cell-tags@0.1.9 vscode-userdata:/home/rudra/.antigravity/extensions/extensions.json
+2025-12-16 08:20:05.364 [info] Uninstalling extension from the profile: ms-toolsai.vscode-jupyter-slideshow@0.1.6 vscode-userdata:/home/rudra/.antigravity/extensions/extensions.json
+2025-12-16 08:20:05.365 [info] Uninstalling extension from the profile: google.colab@0.1.3 vscode-userdata:/home/rudra/.antigravity/extensions/extensions.json
+2025-12-16 08:20:05.376 [info] Extensions is already requested to uninstall ms-toolsai.jupyter-keymap
+2025-12-16 08:20:05.377 [info] Extensions is already requested to uninstall ms-toolsai.jupyter-renderers
+2025-12-16 08:20:05.377 [info] Extensions is already requested to uninstall ms-toolsai.vscode-jupyter-cell-tags
+2025-12-16 08:20:05.377 [info] Extensions is already requested to uninstall ms-toolsai.vscode-jupyter-slideshow
+2025-12-16 08:20:05.397 [info] Marked extension as removed ms-toolsai.jupyter-2025.8.0-universal
+2025-12-16 08:20:05.403 [info] Marked extension as removed ms-toolsai.jupyter-keymap-1.1.2-universal
+2025-12-16 08:20:05.407 [info] Marked extension as removed ms-toolsai.jupyter-renderers-1.3.0-universal
+2025-12-16 08:20:05.413 [info] Marked extension as removed ms-toolsai.vscode-jupyter-cell-tags-0.1.9-universal
+2025-12-16 08:20:05.418 [info] Marked extension as removed ms-toolsai.vscode-jupyter-slideshow-0.1.6-universal
+2025-12-16 08:20:05.421 [info] Marked extension as removed google.colab-0.1.3-universal
+2025-12-16 08:20:06.616 [info] Successfully uninstalled extension from the profile ms-toolsai.jupyter@2025.8.0 vscode-userdata:/home/rudra/.antigravity/extensions/extensions.json
+2025-12-16 08:20:06.616 [info] Successfully uninstalled extension from the profile ms-toolsai.jupyter-keymap@1.1.2 vscode-userdata:/home/rudra/.antigravity/extensions/extensions.json
+2025-12-16 08:20:06.616 [info] Successfully uninstalled extension from the profile ms-toolsai.jupyter-renderers@1.3.0 vscode-userdata:/home/rudra/.antigravity/extensions/extensions.json
+2025-12-16 08:20:06.616 [info] Successfully uninstalled extension from the profile ms-toolsai.vscode-jupyter-cell-tags@0.1.9 vscode-userdata:/home/rudra/.antigravity/extensions/extensions.json
+2025-12-16 08:20:06.616 [info] Successfully uninstalled extension from the profile ms-toolsai.vscode-jupyter-slideshow@0.1.6 vscode-userdata:/home/rudra/.antigravity/extensions/extensions.json
+2025-12-16 08:20:06.616 [info] Successfully uninstalled extension from the profile google.colab@0.1.3 vscode-userdata:/home/rudra/.antigravity/extensions/extensions.json

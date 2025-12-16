@@ -1,0 +1,4 @@
+2025-12-14 11:40:46.713 [error] #403: https://vscode-sync.trafficmanager.net/v1/manifest - error GET net::ERR_CONNECTION_REFUSED
+2025-12-14 11:41:20.699 [error] #404: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_TIMED_OUT
+2025-12-14 11:41:28.493 [error] #405: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_TIMED_OUT
+2025-12-14 11:41:55.776 [error] #406: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_TIMED_OUT

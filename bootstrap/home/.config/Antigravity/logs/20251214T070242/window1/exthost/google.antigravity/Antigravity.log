@@ -1,0 +1,33 @@
+2025-12-14 07:02:51.482 [info] 2025/12/14 07:02:51 maxprocs: Leaving GOMAXPROCS=16: CPU quota undefined
+2025-12-14 07:02:51.525 [info] I1214 07:02:51.508809 56130 server.go:1137] Starting language server process with pid 56130
+2025-12-14 07:02:51.525 [info] I1214 07:02:51.508905 56130 server.go:279] Setting GOMAXPROCS to 4
+2025-12-14 07:02:51.525 [info] I1214 07:02:51.514079 56130 server.go:498] Language server will attempt to listen on host 127.0.0.1
+2025-12-14 07:02:51.525 [info] I1214 07:02:51.514496 56130 server.go:513] Language server listening on random port at 45491 for HTTPS
+2025-12-14 07:02:51.525 [info] I1214 07:02:51.514568 56130 server.go:520] Language server listening on random port at 43061 for HTTP
+2025-12-14 07:02:51.935 [info] I1214 07:02:51.928347 56130 server.go:491] Created extension server client at port 45193
+2025-12-14 07:02:51.961 [info] W1214 07:02:51.949365 56130 log_context.go:106] Cache(userInfo): Singleflight refresh failed: You are not logged into Antigravity.
+2025-12-14 07:02:51.962 [info] W1214 07:02:51.955566 56130 log_context.go:106] Cache(userInfo): Singleflight refresh failed: You are not logged into Antigravity.
+2025-12-14 07:02:51.980 [info] (Antigravity) 2025-12-14 07:02:51.979 [INFO]: Language server started
+2025-12-14 07:02:51.987 [info] I1214 07:02:51.986352 56130 server.go:1465] initialized server successfully
+2025-12-14 07:02:52.031 [info] 2025/12/14 07:02:52 http2: server: error reading preface from client 127.0.0.1:54192: read tcp 127.0.0.1:45491->127.0.0.1:54192: read: connection reset by peer
+2025-12-14 07:02:52.031 [info] 2025/12/14 07:02:52 http: TLS handshake error from 127.0.0.1:54186: EOF
+2025-12-14 07:02:52.081 [info] (Antigravity) 2025-12-14 07:02:52.080 [INFO]: LS lspClient started successfully
+2025-12-14 07:02:52.428 [info] (Antigravity) 2025-12-14 07:02:52.427 [INFO]: [Terminal] Command completed: source /home/rudra/DEV_ROOT/career_assistant/.venv/bin/activate exit code 0
+2025-12-14 07:03:06.288 [info] (Antigravity) 2025-12-14 07:03:06.288 [INFO]: [Terminal] Command completed: source .venv/bin/deactivate exit code 1
+2025-12-14 07:03:53.677 [info] (Antigravity) 2025-12-14 07:03:53.677 [INFO]: [Terminal] Command completed: deactivate exit code 0
+2025-12-14 07:04:01.407 [info] (Antigravity) 2025-12-14 07:04:01.407 [INFO]: [Terminal] Command completed: rm -rf .venv exit code 0
+2025-12-14 07:04:18.665 [info] (Antigravity) 2025-12-14 07:04:18.665 [INFO]: [Terminal] Command completed: python3 -m venv .venv exit code 0
+2025-12-14 07:04:32.804 [info] (Antigravity) 2025-12-14 07:04:32.804 [INFO]: [Terminal] Command completed: source .venv/bin/activate exit code 0
+2025-12-14 07:04:41.380 [info] (Antigravity) 2025-12-14 07:04:41.380 [INFO]: [Terminal] Command completed: pip install -r requirements.txt  exit code 1
+2025-12-14 07:08:00.043 [info] (Antigravity) 2025-12-14 07:08:00.043 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-14 07:08:06.951 [info] (Antigravity) 2025-12-14 07:08:06.951 [INFO]: [Terminal] Command completed: pip install -r requirements.txt  exit code 1
+2025-12-14 07:08:46.885 [info] (Antigravity) 2025-12-14 07:08:46.885 [INFO]: [Terminal] Command completed: pip install -r requirements.txt  exit code 0
+2025-12-14 07:40:22.926 [info] E1214 07:40:22.925690 56130 log.go:354] Get "https://antigravity-unleash.goog/api/client/features": dial tcp: lookup antigravity-unleash.goog on 127.0.0.53:53: server misbehaving: Get "https://antigravity-unleash.goog/api/client/features": dial tcp: lookup antigravity-unleash.goog on 127.0.0.53:53: server misbehaving
+2025-12-14 07:40:22.945 [info] E1214 07:40:22.944867 56130 log.go:354] Post "https://antigravity-unleash.goog/api/client/metrics": dial tcp: lookup antigravity-unleash.goog on 127.0.0.53:53: server misbehaving: Post "https://antigravity-unleash.goog/api/client/metrics": dial tcp: lookup antigravity-unleash.goog on 127.0.0.53:53: server misbehaving
+2025-12-14 09:22:49.936 [info] (Antigravity) 2025-12-14 09:22:49.936 [INFO]: [Terminal] Command completed: uv sync exit code 127
+2025-12-14 09:33:50.792 [info] (Antigravity) 2025-12-14 09:33:50.792 [INFO]: [Terminal] Command completed: uv sync exit code 1
+2025-12-14 09:36:12.769 [info] (Antigravity) 2025-12-14 09:36:12.768 [INFO]: [Terminal] Command completed: uv pip install -r requirements.txt  exit code 0
+2025-12-14 09:36:55.185 [info] (Antigravity) 2025-12-14 09:36:55.185 [INFO]: [Terminal] Command completed: uv pip sync exit code 2
+2025-12-14 12:15:06.120 [info] (Antigravity) 2025-12-14 12:15:06.120 [INFO]: [SupercompleteProvider] No supercomplete response
+2025-12-14 18:26:57.299 [info] I1214 18:26:57.298523 56130 server.go:1581] Exit requested on language server process 56130
+2025-12-14 18:26:57.299 [info] I1214 18:26:57.298662 56130 server.go:1546] Language server shutting down

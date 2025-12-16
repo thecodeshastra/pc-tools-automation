@@ -1,0 +1,200 @@
+2025-12-13 18:51:34.090 [info] Extension host with pid 25034 started
+2025-12-13 18:51:34.090 [info] Skipping acquiring lock for /home/rudra/.config/Antigravity/User/workspaceStorage/e8ac502ba45f3f09ff6f1d00f5d9ef15.
+2025-12-13 18:51:34.135 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: google.antigravity
+2025-12-13 18:51:34.141 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:requirements.txt'
+2025-12-13 18:51:34.409 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: google.antigravity
+2025-12-13 18:51:34.467 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-13 18:51:34.656 [info] ExtensionService#_doActivateExtension google.antigravity, startup: true, activationEvent: '*'
+2025-12-13 18:51:35.446 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-12-13 18:51:35.732 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-13 18:51:35.882 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-12-13 18:51:35.950 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'onLanguage:python'
+2025-12-13 18:51:39.125 [info] Eager extensions activated
+2025-12-13 18:51:39.133 [info] ExtensionService#_doActivateExtension google.antigravity-browser-launcher, startup: false, activationEvent: 'onStartupFinished'
+2025-12-13 18:51:39.138 [info] ExtensionService#_doActivateExtension Google LLC.antigravity-dev-containers, startup: false, activationEvent: 'onStartupFinished'
+2025-12-13 18:51:39.145 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-13 18:51:39.148 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-13 18:51:39.172 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-12-13 18:51:39.193 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-12-13 18:51:40.965 [error] Error: Model is disposed!
+    at g1.lb (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3035:303)
+    at g1.getVersionId (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3037:2486)
+    at Vcn.fetch (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3224:9306)
+    at gD._computeFn (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3224:24501)
+    at gD.get (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2794:9092)
+    at gD.reportChanges (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2794:546)
+    at Mlr.endUpdate (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2794:16734)
+    at gD.endUpdate (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2794:10482)
+    at pEe.finish (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2793:103634)
+    at $ia (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2793:103121)
+2025-12-13 18:52:06.926 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-13 18:52:06.945 [error] TypeError: Cannot read properties of undefined (reading 'subscriptions')
+	at Object.X [as deactivate] (/home/rudra/.antigravity/extensions/ms-python.vscode-python-envs-1.10.0-universal/dist/extension.js:2:668378)
+	at khe.eb (file:///usr/share/antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:13070)
+	at file:///usr/share/antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11219
+	at Array.map (<anonymous>)
+	at khe.$ (file:///usr/share/antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11207)
+	at khe.terminate (file:///usr/share/antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11450)
+	at TG.terminate (file:///usr/share/antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:915)
+	at Fr (file:///usr/share/antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:14326)
+	at MessagePortMain.<anonymous> (file:///usr/share/antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:10595)
+	at MessagePortMain.emit (node:events:518:28)
+	at MessagePortMain.emit (node:domain:489:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-12-13 18:52:06.968 [info] Extension host with pid 25034 exiting with code 0
+2025-12-13 18:52:08.472 [info] Extension host with pid 25296 started
+2025-12-13 18:52:08.473 [info] Skipping acquiring lock for /home/rudra/.config/Antigravity/User/workspaceStorage/3475b300b74559965d005ca3fcf90e56.
+2025-12-13 18:52:08.495 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: google.antigravity
+2025-12-13 18:52:08.502 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:pyproject.toml'
+2025-12-13 18:52:08.767 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: google.antigravity
+2025-12-13 18:52:08.825 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-13 18:52:08.975 [info] ExtensionService#_doActivateExtension google.antigravity, startup: true, activationEvent: '*'
+2025-12-13 18:52:09.582 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-13 18:52:09.921 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-12-13 18:52:10.017 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-12-13 18:52:11.997 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-12-13 18:52:12.076 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'onLanguage:python'
+2025-12-13 18:52:13.207 [info] Eager extensions activated
+2025-12-13 18:52:13.228 [info] ExtensionService#_doActivateExtension google.antigravity-browser-launcher, startup: false, activationEvent: 'onStartupFinished'
+2025-12-13 18:52:13.234 [info] ExtensionService#_doActivateExtension Google LLC.antigravity-dev-containers, startup: false, activationEvent: 'onStartupFinished'
+2025-12-13 18:52:13.243 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-13 18:52:13.247 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-13 18:52:13.271 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-12-13 18:52:13.290 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-12-13 18:52:15.048 [error] Error: Model is disposed!
+    at g1.lb (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3035:303)
+    at g1.getVersionId (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3037:2486)
+    at Vcn.fetch (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3224:9306)
+    at gD._computeFn (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3224:24501)
+    at gD.get (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2794:9092)
+    at gD.reportChanges (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2794:546)
+    at Mlr.endUpdate (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2794:16734)
+    at gD.endUpdate (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2794:10482)
+    at pEe.finish (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2793:103634)
+    at $ia (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2793:103121)
+2025-12-13 18:52:15.084 [error] Error: Model is disposed!
+    at g1.lb (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3035:303)
+    at g1.getVersionId (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3037:2486)
+    at Vcn.fetch (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3224:9306)
+    at gD._computeFn (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3224:24501)
+    at gD.get (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2794:9092)
+    at gD.reportChanges (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2794:546)
+    at Mlr.endUpdate (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2794:16734)
+    at gD.endUpdate (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2794:10482)
+    at pEe.finish (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2793:103634)
+    at $ia (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2793:103121)
+2025-12-13 19:05:09.989 [error] Error: Cannot show while inline completion is already showing
+    at vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3186:356194
+2025-12-13 19:05:46.324 [error] Error: command 'extension.vim_escape' not found
+    at Qvi.n (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:4195:5738)
+    at Qvi.executeCommand (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:4195:5670)
+2025-12-13 19:23:53.268 [info] ExtensionService#_doActivateExtension charliermarsh.ruff, startup: false, activationEvent: 'onLanguage:python'
+2025-12-13 20:29:36.424 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2025-12-13 20:29:36.440 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-12-13 20:29:36.921 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2025-12-13 23:00:06.257 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-12-13 23:01:05.158 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/antigravity/resources/app/extensions/git/dist/main.js:2:601252)
+	at ChildProcess.emit (node:events:530:35)
+	at ChildProcess.emit (node:domain:489:12)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-12-13 23:01:06.160 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/antigravity/resources/app/extensions/git/dist/main.js:2:601252)
+	at ChildProcess.emit (node:events:530:35)
+	at ChildProcess.emit (node:domain:489:12)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-12-13 23:02:53.985 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1029
+2025-12-13 23:06:08.118 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1029
+2025-12-13 23:07:07.062 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3544
+2025-12-13 23:07:13.159 [warning] [Decorations] CAPPING events from decorations provider vscode.git 6576
+2025-12-13 23:07:20.206 [warning] [Decorations] CAPPING events from decorations provider vscode.git 12904
+2025-12-13 23:09:00.695 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10011
+2025-12-14 06:13:49.291 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2025-12-14 06:13:50.001 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2025-12-14 06:14:10.306 [info] ExtensionService#_doActivateExtension google.gemini-cli-vscode-ide-companion, startup: false, activationEvent: 'onStartupFinished'
+2025-12-14 06:51:08.433 [error] Error: Model is disposed!
+    at g1.lb (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3035:303)
+    at g1.getVersionId (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3037:2486)
+    at Vcn.fetch (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3224:9306)
+    at gD._computeFn (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3224:24501)
+    at gD.get (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2794:9092)
+    at gD.reportChanges (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2794:546)
+    at Mlr.endUpdate (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2794:16734)
+    at gD.endUpdate (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2794:10482)
+    at pEe.finish (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2793:103634)
+    at $ia (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2793:103121)
+2025-12-14 06:57:00.370 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/antigravity/resources/app/extensions/git/dist/main.js:2:601252)
+	at ChildProcess.emit (node:events:530:35)
+	at ChildProcess.emit (node:domain:489:12)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-12-14 06:57:00.370 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/antigravity/resources/app/extensions/git/dist/main.js:2:601252)
+	at ChildProcess.emit (node:events:530:35)
+	at ChildProcess.emit (node:domain:489:12)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-12-14 06:57:00.370 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/antigravity/resources/app/extensions/git/dist/main.js:2:601252)
+	at ChildProcess.emit (node:events:530:35)
+	at ChildProcess.emit (node:domain:489:12)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-12-14 06:57:00.370 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/antigravity/resources/app/extensions/git/dist/main.js:2:601252)
+	at ChildProcess.emit (node:events:530:35)
+	at ChildProcess.emit (node:domain:489:12)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-12-14 06:57:01.371 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/antigravity/resources/app/extensions/git/dist/main.js:2:601252)
+	at ChildProcess.emit (node:events:530:35)
+	at ChildProcess.emit (node:domain:489:12)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-12-14 06:57:01.377 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/antigravity/resources/app/extensions/git/dist/main.js:2:601252)
+	at ChildProcess.emit (node:events:530:35)
+	at ChildProcess.emit (node:domain:489:12)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-12-14 06:57:01.378 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/antigravity/resources/app/extensions/git/dist/main.js:2:601252)
+	at ChildProcess.emit (node:events:530:35)
+	at ChildProcess.emit (node:domain:489:12)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-12-14 06:57:01.379 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/antigravity/resources/app/extensions/git/dist/main.js:2:601252)
+	at ChildProcess.emit (node:events:530:35)
+	at ChildProcess.emit (node:domain:489:12)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-12-14 06:57:02.465 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/antigravity/resources/app/extensions/git/dist/main.js:2:601252)
+	at ChildProcess.emit (node:events:530:35)
+	at ChildProcess.emit (node:domain:489:12)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-12-14 06:57:03.466 [error] Error: Git error
+	at ChildProcess.<anonymous> (/usr/share/antigravity/resources/app/extensions/git/dist/main.js:2:601252)
+	at ChildProcess.emit (node:events:530:35)
+	at ChildProcess.emit (node:domain:489:12)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-12-14 06:59:37.202 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-14 06:59:37.284 [error] TypeError: Cannot read properties of undefined (reading 'subscriptions')
+	at Object.X [as deactivate] (/home/rudra/.antigravity/extensions/ms-python.vscode-python-envs-1.10.0-universal/dist/extension.js:2:668378)
+	at khe.eb (file:///usr/share/antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:13070)
+	at file:///usr/share/antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11219
+	at Array.map (<anonymous>)
+	at khe.$ (file:///usr/share/antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11207)
+	at khe.terminate (file:///usr/share/antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11450)
+	at TG.terminate (file:///usr/share/antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:915)
+	at Fr (file:///usr/share/antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:14326)
+	at MessagePortMain.<anonymous> (file:///usr/share/antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:10595)
+	at MessagePortMain.emit (node:events:518:28)
+	at MessagePortMain.emit (node:domain:489:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-12-14 06:59:37.301 [error] Error: Channel has been closed
+	at r (file:///usr/share/antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2433)
+	at Object.append (file:///usr/share/antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2530)
+	at Socket.<anonymous> (/home/rudra/.antigravity/extensions/charliermarsh.ruff-2025.32.0-linux-x64/dist/extension.js:1:7963)
+	at Socket.emit (node:events:518:28)
+	at Socket.emit (node:domain:489:12)
+	at addChunk (node:internal/streams/readable:561:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:512:3)
+	at Readable.push (node:internal/streams/readable:392:5)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+2025-12-14 06:59:37.303 [info] Extension host with pid 25296 exiting with code 0

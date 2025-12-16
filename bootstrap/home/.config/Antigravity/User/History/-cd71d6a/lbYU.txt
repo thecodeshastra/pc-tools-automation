@@ -1,0 +1,6 @@
+yaml
+python-dotenv
+requests
+gradio
+langchain
+ollama

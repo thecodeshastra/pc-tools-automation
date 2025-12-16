@@ -1,0 +1,108 @@
+2025-12-14 07:02:51.293 [info] [main] Log level: Info
+2025-12-14 07:02:51.293 [info] [main] Validating found git in: "git"
+2025-12-14 07:02:51.293 [info] [main] Using git "2.43.0" from "git"
+2025-12-14 07:02:51.293 [info] [Model][doInitialScan] Initial repository scan started
+2025-12-14 07:02:51.293 [info] > git rev-parse --show-toplevel [7ms]
+2025-12-14 07:02:51.293 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [32ms]
+2025-12-14 07:02:51.293 [info] [Model][openRepository] Opened repository (path): /home/rudra/DEV_ROOT/career_assistant
+2025-12-14 07:02:51.293 [info] [Model][openRepository] Opened repository (real path): /home/rudra/DEV_ROOT/career_assistant
+2025-12-14 07:02:51.293 [info] [Model][openRepository] Opened repository (kind): repository
+2025-12-14 07:02:51.293 [info] > git rev-parse --show-toplevel [14ms]
+2025-12-14 07:02:51.293 [info] > git config --get commit.template [24ms]
+2025-12-14 07:02:51.293 [info] > git rev-parse --show-toplevel [174ms]
+2025-12-14 07:02:51.293 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-12-14 07:02:51.293 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [183ms]
+2025-12-14 07:02:51.306 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/rudra/DEV_ROOT/career_assistant/.git/refs/remotes/origin/main'
+2025-12-14 07:02:51.311 [info] > git rev-parse refs/remotes/origin/main [6ms]
+2025-12-14 07:02:51.343 [info] > git status -z -uall [17ms]
+2025-12-14 07:02:51.399 [info] > git show --textconv :requirements.txt [42ms]
+2025-12-14 07:02:51.399 [info] > git ls-files --stage -- requirements.txt [31ms]
+2025-12-14 07:02:51.411 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [72ms]
+2025-12-14 07:02:51.483 [info] > git cat-file -s b35dc6632d0945b80be22b6dcc0765999b9802e8 [73ms]
+2025-12-14 07:02:51.493 [info] > git config --get commit.template [12ms]
+2025-12-14 07:02:51.493 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [45ms]
+2025-12-14 07:02:51.525 [info] > git config --get --local branch.main.vscode-merge-base [17ms]
+2025-12-14 07:02:51.564 [info] > git check-ignore -v -z --stdin [41ms]
+2025-12-14 07:02:51.566 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [26ms]
+2025-12-14 07:02:51.581 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [19ms]
+2025-12-14 07:02:51.593 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/rudra/DEV_ROOT/career_assistant/.git/refs/remotes/origin/main'
+2025-12-14 07:02:51.594 [info] > git merge-base refs/heads/main refs/remotes/origin/main [16ms]
+2025-12-14 07:02:51.607 [info] > git rev-parse refs/remotes/origin/main [13ms]
+2025-12-14 07:02:51.631 [info] > git status -z -uall [15ms]
+2025-12-14 07:02:51.632 [info] > git diff --name-status -z --diff-filter=ADMR 2e084b704ec696f83c3d852f28f65e4fcab98069...refs/remotes/origin/main [27ms]
+2025-12-14 07:02:51.633 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-12-14 07:02:51.922 [info] > git blame --root --incremental 2e084b704ec696f83c3d852f28f65e4fcab98069 -- requirements.txt [12ms]
+2025-12-14 07:02:51.922 [info] fatal: no such path requirements.txt in 2e084b704ec696f83c3d852f28f65e4fcab98069
+2025-12-14 07:02:51.935 [info] > git show --textconv HEAD:requirements.txt [14ms]
+2025-12-14 07:02:51.949 [info] > git ls-tree -l HEAD -- requirements.txt [15ms]
+2025-12-14 07:02:51.963 [info] > git hash-object -t tree /dev/null [16ms]
+2025-12-14 07:02:51.963 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/rudra/DEV_ROOT/career_assistant/requirements.txt.git?%7B%22path%22%3A%22%2Fhome%2Frudra%2FDEV_ROOT%2Fcareer_assistant%2Frequirements.txt%22%2C%22ref%22%3A%22HEAD%22%7D
+2025-12-14 07:02:51.987 [info] > git hash-object -t tree /dev/null [27ms]
+2025-12-14 07:02:51.987 [warning] [GitFileSystemProvider][stat] File not found - git:/home/rudra/DEV_ROOT/career_assistant/requirements.txt.git?%7B%22path%22%3A%22%2Fhome%2Frudra%2FDEV_ROOT%2Fcareer_assistant%2Frequirements.txt%22%2C%22ref%22%3A%22HEAD%22%7D
+2025-12-14 07:02:54.290 [info] > git check-ignore -v -z --stdin [246ms]
+2025-12-14 07:03:11.366 [info] > git check-ignore -v -z --stdin [3ms]
+2025-12-14 07:03:12.604 [info] > git check-ignore -v -z --stdin [3ms]
+2025-12-14 07:04:02.507 [info] > git config --get commit.template [17ms]
+2025-12-14 07:04:02.508 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-12-14 07:04:02.523 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/rudra/DEV_ROOT/career_assistant/.git/refs/remotes/origin/main'
+2025-12-14 07:04:02.525 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-12-14 07:04:02.556 [info] > git status -z -uall [16ms]
+2025-12-14 07:04:02.558 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-12-14 07:04:15.094 [info] > git config --get commit.template [24ms]
+2025-12-14 07:04:15.113 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-12-14 07:04:15.128 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/rudra/DEV_ROOT/career_assistant/.git/refs/remotes/origin/main'
+2025-12-14 07:04:15.131 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-12-14 07:04:15.163 [info] > git status -z -uall [17ms]
+2025-12-14 07:04:15.165 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-12-14 07:04:20.204 [info] > git config --get commit.template [16ms]
+2025-12-14 07:04:20.206 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-12-14 07:04:20.220 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/rudra/DEV_ROOT/career_assistant/.git/refs/remotes/origin/main'
+2025-12-14 07:04:20.222 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-12-14 07:04:20.253 [info] > git status -z -uall [16ms]
+2025-12-14 07:04:20.255 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-12-14 07:07:59.978 [info] > git check-ignore -v -z --stdin [3ms]
+2025-12-14 07:08:16.665 [info] > git config --get commit.template [3ms]
+2025-12-14 07:08:16.684 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-12-14 07:08:16.699 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/rudra/DEV_ROOT/career_assistant/.git/refs/remotes/origin/main'
+2025-12-14 07:08:16.701 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-12-14 07:08:16.732 [info] > git status -z -uall [17ms]
+2025-12-14 07:08:16.734 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-12-14 07:08:36.207 [info] > git config --get commit.template [13ms]
+2025-12-14 07:08:36.207 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-12-14 07:08:36.220 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/rudra/DEV_ROOT/career_assistant/.git/refs/remotes/origin/main'
+2025-12-14 07:08:36.221 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-12-14 07:08:36.246 [info] > git status -z -uall [13ms]
+2025-12-14 07:08:36.248 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-12-14 07:08:41.264 [info] > git config --get commit.template [2ms]
+2025-12-14 07:08:41.273 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-12-14 07:08:41.280 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/rudra/DEV_ROOT/career_assistant/.git/refs/remotes/origin/main'
+2025-12-14 07:08:41.281 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-12-14 07:08:41.299 [info] > git status -z -uall [10ms]
+2025-12-14 07:08:41.299 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-12-14 07:08:46.314 [info] > git config --get commit.template [2ms]
+2025-12-14 07:08:46.324 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-12-14 07:08:46.331 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/rudra/DEV_ROOT/career_assistant/.git/refs/remotes/origin/main'
+2025-12-14 07:08:46.332 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-12-14 07:08:46.350 [info] > git status -z -uall [10ms]
+2025-12-14 07:08:46.350 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-12-14 09:33:51.456 [info] > git config --get commit.template [1ms]
+2025-12-14 09:33:51.466 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-12-14 09:33:51.473 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/rudra/DEV_ROOT/career_assistant/.git/refs/remotes/origin/main'
+2025-12-14 09:33:51.474 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-12-14 09:33:51.490 [info] > git status -z -uall [9ms]
+2025-12-14 09:33:51.492 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-12-14 09:36:34.224 [info] > git check-ignore -v -z --stdin [2ms]
+2025-12-14 09:36:34.285 [info] > git check-ignore -v -z --stdin [2ms]
+2025-12-14 09:36:34.429 [info] > git show --textconv :.venv/.lock [12ms]
+2025-12-14 09:36:34.430 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/rudra/DEV_ROOT/career_assistant/.venv/.lock.git?%7B%22path%22%3A%22%2Fhome%2Frudra%2FDEV_ROOT%2Fcareer_assistant%2F.venv%2F.lock%22%2C%22ref%22%3A%22%22%7D
+2025-12-14 09:36:34.431 [info] > git ls-files --stage -- .venv/.lock [4ms]
+2025-12-14 09:36:34.431 [warning] [GitFileSystemProvider][stat] File not found - git:/home/rudra/DEV_ROOT/career_assistant/.venv/.lock.git?%7B%22path%22%3A%22%2Fhome%2Frudra%2FDEV_ROOT%2Fcareer_assistant%2F.venv%2F.lock%22%2C%22ref%22%3A%22%22%7D
+2025-12-14 09:36:37.188 [info] > git check-ignore -v -z --stdin [3ms]
+2025-12-14 09:36:37.230 [info] > git check-ignore -v -z --stdin [2ms]
+2025-12-14 09:36:37.418 [info] > git show --textconv :requirements.txt [30ms]
+2025-12-14 09:36:37.419 [info] > git show --textconv HEAD:requirements.txt [22ms]
+2025-12-14 09:36:37.419 [info] > git ls-files --stage -- requirements.txt [14ms]
+2025-12-14 09:36:37.433 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/rudra/DEV_ROOT/career_assistant/requirements.txt.git?%7B%22path%22%3A%22%2Fhome%2Frudra%2FDEV_ROOT%2Fcareer_assistant%2Frequirements.txt%22%2C%22ref%22%3A%22HEAD%22%7D
+2025-12-14 09:36:37.436 [info] > git ls-tree -l HEAD -- requirements.txt [19ms]
+2025-12-14 09:36:37.437 [warning] [GitFileSystemProvider][stat] File not found - git:/home/rudra/DEV_ROOT/career_assistant/requirements.txt.git?%7B%22path%22%3A%22%2Fhome%2Frudra%2FDEV_ROOT%2Fcareer_assistant%2Frequirements.txt%22%2C%22ref%22%3A%22HEAD%22%7D
+2025-12-14 09:36:37.438 [info] > git cat-file -s b35dc6632d0945b80be22b6dcc0765999b9802e8 [6ms]

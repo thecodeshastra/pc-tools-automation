@@ -1,0 +1,574 @@
+2025-12-14 06:16:06.769 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2025-12-14 06:16:07.047 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2025-12-14 06:16:07.047 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2025-12-14 06:16:07.047 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2025-12-14 06:16:07.096 [info] Logged in as thecodeshastra
+2025-12-14 06:16:07.104 [info] Using the Electron fetcher.
+2025-12-14 06:16:07.547 [error] Copilot extension not found
+2025-12-14 06:16:07.549 [warning] Copilot API is undefined, unable to register context provider.
+2025-12-14 06:16:12.000 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2025-12-14 06:16:12.000 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2025-12-14 06:16:12.000 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2025-12-14 06:16:12.000 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2025-12-14 06:16:12.190 [error] Copilot extension not found
+2025-12-14 06:16:12.192 [warning] Copilot API is undefined, unable to register context provider.
+2025-12-14 06:16:12.237 [info] Logged in as thecodeshastra
+2025-12-14 06:16:12.239 [info] Using the Electron fetcher.
+2025-12-14 06:16:12.721 [info] Got Copilot token for thecodeshastra
+2025-12-14 06:16:12.721 [info] Copilot Chat: 0.33.5, VS Code: 1.106.3
+2025-12-14 06:16:12.730 [info] activationBlocker from 'languageModelAccess' took for 566ms
+2025-12-14 06:16:12.773 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-12-14 06:16:12.773 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-12-14 06:16:12.786 [info] Registering default platform agent...
+2025-12-14 06:16:12.787 [info] [code-referencing] Public code references are enabled.
+2025-12-14 06:16:12.787 [info] activationBlocker from 'conversationFeature' took for 628ms
+2025-12-14 06:16:12.819 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-12-14 06:16:13.511 [warning] [RateLimit] REST rate limit remaining: 0, agents/swe/custom-agents/thecodeshastra/career_assistant?exclude_invalid_config=true
+2025-12-14 06:16:13.607 [info] Fetched model metadata in 835ms b5668b0c-4cc2-4f11-8d0c-550a203f2baa
+2025-12-14 06:16:13.711 [info] Latest entry: ccreq:latest.copilotmd
+2025-12-14 06:16:13.711 [info] ccreq:2cde9b1c.copilotmd | markdown
+2025-12-14 06:21:10.516 [warning] [relatedFiles] unknown language python
+2025-12-14 06:21:11.347 [info] [fetchCompletions] Request a7c6a425-6c0a-4801-a041-b855ee8b279a at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 729.7450620000018ms
+2025-12-14 06:21:11.354 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 06:21:45.874 [warning] [relatedFiles] unknown language dotenv
+2025-12-14 06:21:46.207 [info] [fetchCompletions] Request a2bb345f-3b89-4ca8-ba91-93004fe1ce6d at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 325.7596299999859ms
+2025-12-14 06:21:46.310 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 06:21:46.987 [info] [fetchCompletions] Request 33af609f-ab44-4f47-9204-d87529215a5d at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 520.2992760000052ms
+2025-12-14 06:21:46.991 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 06:21:47.752 [info] [fetchCompletions] Request 847f7bd9-3d10-4777-bdc0-a854f9e0ddd0 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 300.4593060000334ms
+2025-12-14 06:21:47.756 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 06:22:10.622 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2025-12-14 06:22:10.664 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2025-12-14 06:22:10.664 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2025-12-14 06:22:10.664 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2025-12-14 06:22:10.924 [error] Copilot extension not found
+2025-12-14 06:22:10.929 [warning] Copilot API is undefined, unable to register context provider.
+2025-12-14 06:22:11.527 [info] Logged in as thecodeshastra
+2025-12-14 06:22:11.530 [info] Using the Electron fetcher.
+2025-12-14 06:22:12.251 [info] Got Copilot token for thecodeshastra
+2025-12-14 06:22:12.251 [info] Copilot Chat: 0.33.5, VS Code: 1.106.3
+2025-12-14 06:22:12.268 [info] activationBlocker from 'languageModelAccess' took for 1394ms
+2025-12-14 06:22:12.332 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-12-14 06:22:12.332 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-12-14 06:22:12.358 [info] Registering default platform agent...
+2025-12-14 06:22:12.360 [info] [code-referencing] Public code references are enabled.
+2025-12-14 06:22:12.360 [info] activationBlocker from 'conversationFeature' took for 1496ms
+2025-12-14 06:22:12.394 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-12-14 06:22:13.168 [info] Fetched model metadata in 837ms fd9f280b-618f-4a2f-8bca-c5ecd4514c8b
+2025-12-14 06:22:13.278 [info] Latest entry: ccreq:latest.copilotmd
+2025-12-14 06:22:13.279 [info] ccreq:f0650b84.copilotmd | markdown
+2025-12-14 06:22:24.296 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2025-12-14 06:22:24.331 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2025-12-14 06:22:24.331 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2025-12-14 06:22:24.331 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2025-12-14 06:22:24.611 [error] Copilot extension not found
+2025-12-14 06:22:24.615 [warning] Copilot API is undefined, unable to register context provider.
+2025-12-14 06:22:24.693 [info] Using the Electron fetcher.
+2025-12-14 06:22:25.103 [info] Logged in as thecodeshastra
+2025-12-14 06:22:25.671 [info] Got Copilot token for thecodeshastra
+2025-12-14 06:22:25.671 [info] Copilot Chat: 0.33.5, VS Code: 1.106.3
+2025-12-14 06:22:25.688 [info] activationBlocker from 'languageModelAccess' took for 1131ms
+2025-12-14 06:22:25.692 [warning] [RateLimit] REST rate limit remaining: 0, agents/swe/custom-agents/thecodeshastra/coding_practice?exclude_invalid_config=true
+2025-12-14 06:22:25.827 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-12-14 06:22:25.827 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-12-14 06:22:25.845 [info] Registering default platform agent...
+2025-12-14 06:22:25.846 [info] [code-referencing] Public code references are enabled.
+2025-12-14 06:22:25.846 [info] activationBlocker from 'conversationFeature' took for 1300ms
+2025-12-14 06:22:25.867 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-12-14 06:22:26.102 [info] Fetched model metadata in 276ms 06ba58ab-f5a5-4af1-bab6-16441e4fb2ef
+2025-12-14 06:22:26.104 [info] Latest entry: ccreq:latest.copilotmd
+2025-12-14 06:22:26.106 [info] ccreq:5fe65f93.copilotmd | markdown
+2025-12-14 06:22:45.756 [warning] [relatedFiles] unknown language ignore
+2025-12-14 06:22:46.221 [info] [fetchCompletions] Request 23f54143-2f6e-4637-8d93-a482047ecf8c at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 429.50412199999846ms
+2025-12-14 06:22:46.232 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 06:22:46.943 [info] [fetchCompletions] Request d99c56eb-b621-4d34-90ff-e85c66b57f3c at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 343.61121099999946ms
+2025-12-14 06:22:47.026 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 06:22:47.484 [info] [fetchCompletions] Request fee7e131-544a-4496-a5d7-743c881e6fe9 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 426.04811600000176ms
+2025-12-14 06:22:47.489 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 06:22:54.814 [info] [fetchCompletions] Request a40c8542-ca82-47d0-bba9-f37a18cfc124 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 338.57320999999865ms
+2025-12-14 06:22:54.818 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 06:22:55.328 [info] [fetchCompletions] Request 33254c86-0b1a-4996-a29a-cf0d2df351e6 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 393.3129489999992ms
+2025-12-14 06:22:55.332 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 06:22:56.395 [info] [fetchCompletions] Request 204e8a60-16b9-4dc7-b912-e337486d7c92 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 300.75373400000535ms
+2025-12-14 06:22:56.449 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 06:22:59.284 [info] [fetchCompletions] Request 0750791c-29f5-45b6-acd3-49e79191c688 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 302.0077960000053ms
+2025-12-14 06:22:59.334 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 06:23:08.300 [info] [fetchCompletions] Request d6ceacdc-1c03-4344-8e04-8fbdd2f411f6 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 338.85632700000133ms
+2025-12-14 06:23:08.303 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 06:23:10.662 [info] [fetchCompletions] Request e597cc0b-9858-4963-bc67-5038624adc78 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 384.12030499999673ms
+2025-12-14 06:23:10.666 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 06:23:12.666 [info] [fetchCompletions] Request 03e919b4-79e7-42c6-a362-0f3a189e72ff at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 278.03353100000095ms
+2025-12-14 06:23:12.670 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 06:23:16.499 [info] [fetchCompletions] Request 0da767ce-26d6-4df7-834b-a20b33f2a02e at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 357.42831199999637ms
+2025-12-14 06:23:16.502 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 06:23:18.357 [info] [fetchCompletions] Request 24b163bd-9e4c-4908-be6c-37a4680ccbf1 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 395.50300000000425ms
+2025-12-14 06:23:18.379 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 06:23:18.796 [info] [fetchCompletions] Request 7a4a1b55-7aa1-4abb-8257-c9254e562904 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 396.23646200000076ms
+2025-12-14 06:23:18.954 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-12-14 06:23:20.235 [info] [fetchCompletions] Request e13ce33a-b765-49f8-9e2a-52c77d4fca7d at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 302.27374099999724ms
+2025-12-14 06:23:20.290 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 06:23:20.297 [info] [streamChoices] solution 1 returned. finish reason: [stop]
+2025-12-14 06:23:20.299 [info] [streamChoices] solution 2 returned. finish reason: [stop]
+2025-12-14 06:23:23.929 [info] [fetchCompletions] Request 9da0a23f-a91a-4722-8569-2b2b5b20d737 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 275.8720200000025ms
+2025-12-14 06:23:23.933 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 06:23:26.329 [info] [fetchCompletions] Request a6ac1420-b9a0-4525-a53d-4fae203c4d0b at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 309.506140999998ms
+2025-12-14 06:23:26.331 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 06:23:29.223 [info] [fetchCompletions] Request 1f8c88eb-306a-4dcb-9f4d-f58f1e99f6a2 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 279.2423489999928ms
+2025-12-14 06:23:29.227 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 06:23:34.066 [info] [fetchCompletions] Request 9dbc7bff-9567-4b45-ba55-12404dba773d at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 274.78977499999746ms
+2025-12-14 06:23:34.105 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 06:23:34.630 [info] [fetchCompletions] Request e3073952-583b-448b-bbfb-2a4d9155275b at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 301.2956130000093ms
+2025-12-14 06:23:34.669 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 06:23:35.023 [info] [fetchCompletions] Request 564eaf0a-6b74-49d8-8a44-9ddaccaca4aa at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 337.43750500000897ms
+2025-12-14 06:23:35.075 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-12-14 06:23:44.637 [info] [fetchCompletions] Request 65f9dae0-779b-49ee-9d58-927e150858fd at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 293.6115460000001ms
+2025-12-14 06:23:44.691 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 06:23:45.273 [info] [fetchCompletions] Request 3882c358-b0f3-4b6e-9a54-e50c00041219 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 302.63507400000526ms
+2025-12-14 06:23:45.276 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 06:23:50.853 [info] [fetchCompletions] Request 9453663e-8356-4db6-9a91-7f432787b902 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 337.7752630000032ms
+2025-12-14 06:23:50.906 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 06:23:53.714 [info] [fetchCompletions] Request e1556bd1-98ca-43ab-b49f-983eb5264867 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 312.34355399999185ms
+2025-12-14 06:23:53.717 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 06:23:54.390 [info] [fetchCompletions] Request 6b2fa9df-4035-4c7e-9375-ea307a4778d4 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 311.14226600000984ms
+2025-12-14 06:23:54.394 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 06:24:00.258 [info] [fetchCompletions] Request 98c387bf-a020-4909-9874-d7154017f3e2 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 359.7419680000021ms
+2025-12-14 06:24:00.261 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 06:24:00.758 [info] [fetchCompletions] Request f080ac58-ab93-4a35-8c11-be5f1795b285 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 400.70597599999746ms
+2025-12-14 06:24:00.760 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 06:24:01.052 [info] [fetchCompletions] Request 372b360b-d699-4494-a0dd-4a28192d30b7 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 275.05708199999935ms
+2025-12-14 06:24:01.190 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 06:24:10.787 [info] [fetchCompletions] Request 9e0735a4-8d2a-4de8-a4ee-afa11fded7f5 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 363.11940100000356ms
+2025-12-14 06:24:10.809 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 06:24:11.118 [info] [fetchCompletions] Request 752c30e4-03fb-4cc4-860e-2df5fcfb5776 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 290.17742900000303ms
+2025-12-14 06:24:11.179 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-12-14 06:24:17.221 [info] [fetchCompletions] Request fd52731b-74c0-4df5-8c50-9c8515ad8147 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 376.9920529999945ms
+2025-12-14 06:24:17.287 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 06:24:17.802 [info] [fetchCompletions] Request 8aa3be60-da8d-4c49-836b-631775d5328e at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 408.2003479999985ms
+2025-12-14 06:24:17.805 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 06:24:18.104 [info] [fetchCompletions] Request 2a350d42-7229-4e38-b92c-1f9d6b88ee01 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 280.0508909999917ms
+2025-12-14 06:24:18.197 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 06:24:26.323 [info] [fetchCompletions] Request 0c88c844-4312-4e4a-8306-d1586c9c5958 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 317.0363070000021ms
+2025-12-14 06:24:26.383 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 06:24:26.702 [info] [fetchCompletions] Request 20863933-095b-49fb-8b3f-c251e8863258 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 298.49143999999797ms
+2025-12-14 06:24:26.750 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-12-14 06:24:54.815 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2025-12-14 06:24:54.852 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2025-12-14 06:24:54.852 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2025-12-14 06:24:54.852 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2025-12-14 06:24:55.130 [error] Copilot extension not found
+2025-12-14 06:24:55.132 [warning] Copilot API is undefined, unable to register context provider.
+2025-12-14 06:24:55.268 [info] Using the Electron fetcher.
+2025-12-14 06:24:56.018 [info] Logged in as thecodeshastra
+2025-12-14 06:24:56.988 [info] Got Copilot token for thecodeshastra
+2025-12-14 06:24:56.988 [info] Copilot Chat: 0.33.5, VS Code: 1.106.3
+2025-12-14 06:24:57.004 [info] activationBlocker from 'languageModelAccess' took for 1915ms
+2025-12-14 06:24:57.213 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-12-14 06:24:57.213 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-12-14 06:24:57.234 [info] Registering default platform agent...
+2025-12-14 06:24:57.235 [info] [code-referencing] Public code references are enabled.
+2025-12-14 06:24:57.235 [info] activationBlocker from 'conversationFeature' took for 2159ms
+2025-12-14 06:24:57.606 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-12-14 06:24:58.408 [info] Fetched model metadata in 1195ms 8a0b1a4c-38bc-4852-b844-84f271b12d04
+2025-12-14 06:24:59.118 [info] Latest entry: ccreq:latest.copilotmd
+2025-12-14 06:24:59.119 [info] ccreq:ddd46684.copilotmd | markdown
+2025-12-14 09:42:59.856 [warning] [relatedFiles] unknown language python
+2025-12-14 09:43:00.601 [info] [fetchCompletions] Request de42b246-90da-49ce-900e-4fc3eb0b0b77 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 401 status after 539.9878749996424ms
+2025-12-14 09:43:00.619 [warning] [fetchCompletions] Response status was 401: unauthorized: token expired
+
+2025-12-14 09:43:00.704 [info] Logged in as thecodeshastra
+2025-12-14 09:43:00.781 [info] [fetchCompletions] Request 8686cf7d-3631-4e74-ad49-da1d0da9f662 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 401 status after 131.7421419993043ms
+2025-12-14 09:43:00.790 [warning] [fetchCompletions] Response status was 401: unauthorized: token expired
+
+2025-12-14 09:43:00.945 [info] [fetchCompletions] Request 2260e59b-53c2-432a-af2a-60b6c60fc29c at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 401 status after 132.00280299969018ms
+2025-12-14 09:43:00.950 [warning] [fetchCompletions] Response status was 401: unauthorized: token expired
+
+2025-12-14 09:43:01.098 [info] [fetchCompletions] Request 69c4c84b-5e7e-4960-b3b1-bf4662d83d30 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 401 status after 135.72230600006878ms
+2025-12-14 09:43:01.103 [warning] [fetchCompletions] Response status was 401: unauthorized: token expired
+
+2025-12-14 09:43:01.227 [info] Got Copilot token for thecodeshastra
+2025-12-14 09:43:01.227 [info] Copilot Chat: 0.33.5, VS Code: 1.106.3
+2025-12-14 09:43:01.243 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-12-14 09:43:01.243 [info] [code-referencing] Public code references are enabled.
+2025-12-14 09:43:01.248 [info] [fetchCompletions] Request 3553beab-a768-44fb-9698-697a036a77e3 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 401 status after 141.32212400063872ms
+2025-12-14 09:43:01.278 [warning] [fetchCompletions] Response status was 401: unauthorized: token expired
+
+2025-12-14 09:43:01.340 [info] Logged in as thecodeshastra
+2025-12-14 09:43:01.523 [info] [fetchCompletions] Request b16968dd-ec8a-495f-b8e7-83cafae76a46 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 238.311507999897ms
+2025-12-14 09:43:01.582 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:43:01.752 [info] Got Copilot token for thecodeshastra
+2025-12-14 09:43:01.752 [info] Copilot Chat: 0.33.5, VS Code: 1.106.3
+2025-12-14 09:43:01.769 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-12-14 09:43:01.769 [info] [code-referencing] Public code references are enabled.
+2025-12-14 09:43:01.769 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-12-14 09:43:01.769 [info] [code-referencing] Public code references are enabled.
+2025-12-14 09:43:01.776 [info] [fetchCompletions] Request 4efe3e75-7fbc-4aaa-9788-b9bb4d9b8f65 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 261.6938540004194ms
+2025-12-14 09:43:01.800 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-12-14 09:43:01.800 [info] [code-referencing] Public code references are enabled.
+2025-12-14 09:43:02.014 [info] Fetched model metadata in 773ms be245c77-8199-423a-b102-fb18dad34d18
+2025-12-14 09:43:02.070 [info] [fetchCompletions] Request 469889ec-ac15-4d5e-a269-5083365b2765 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 232.38830499909818ms
+2025-12-14 09:43:02.101 [info] ccreq:846e33f8.copilotmd | markdown
+2025-12-14 09:43:02.143 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:43:02.671 [info] [fetchCompletions] Request 0a61ce42-cf82-4e0e-bae1-8eaf91a0bdca at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 227.70544099994004ms
+2025-12-14 09:43:02.673 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:43:05.345 [info] [fetchCompletions] Request edebaecb-4c0a-48c8-bdc7-2b9a1d5d153c at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 230.9284369982779ms
+2025-12-14 09:43:05.426 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:43:06.429 [info] [fetchCompletions] Request d4f1ef90-c935-43b5-ac10-ec53f2546ffc at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 238.1545609999448ms
+2025-12-14 09:43:06.431 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:43:08.107 [info] [fetchCompletions] Request 6479a309-9d53-4781-b4be-7c33abda321c at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 231.4577019996941ms
+2025-12-14 09:43:08.163 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:43:08.423 [info] [fetchCompletions] Request 561a7ca9-fc9a-4273-b3b0-c16d6ab56054 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 245.33200199902058ms
+2025-12-14 09:43:08.425 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:43:10.173 [info] [fetchCompletions] Request 37127a77-7bfb-4bee-aef4-efeda55f0f04 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 241.95777499862015ms
+2025-12-14 09:43:10.239 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:43:10.488 [info] [fetchCompletions] Request e39afe34-715e-4182-9cdc-e57589c8a0c7 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 325.398465000093ms
+2025-12-14 09:43:10.490 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:43:10.795 [info] [fetchCompletions] Request ac307dcc-fd10-4743-88d1-178f77edff0d at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 232.9105210006237ms
+2025-12-14 09:43:10.797 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:43:11.944 [info] [fetchCompletions] Request cad4fe3e-9401-44e1-90d9-1f592db6b376 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 222.75104600004852ms
+2025-12-14 09:43:11.946 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:44:36.698 [info] [fetchCompletions] Request 823a75a6-4e2b-45d0-ac69-a2da71b6e142 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 228.95958399958909ms
+2025-12-14 09:44:36.758 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:44:37.006 [info] [fetchCompletions] Request 8cae3b1e-f542-4d63-80c8-675d9c9bad87 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 225.2337169982493ms
+2025-12-14 09:44:37.009 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:45:02.143 [info] [fetchCompletions] Request 84abc55c-71eb-4d3e-9c1c-4ac86d3d62e1 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 236.84977099858224ms
+2025-12-14 09:45:02.145 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:45:20.761 [info] [fetchCompletions] Request 32328aec-204f-453d-9867-f1479e761317 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 237.24361599981785ms
+2025-12-14 09:45:20.764 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:45:37.293 [info] [fetchCompletions] Request 063289a9-cdc0-49ee-aa4f-0f92f2a43e97 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 336.08495999872684ms
+2025-12-14 09:45:37.506 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:45:37.758 [info] [fetchCompletions] Request c99bc596-53e9-44f1-a185-ec92d385b917 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 238.67486499994993ms
+2025-12-14 09:45:37.816 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:45:38.767 [info] [fetchCompletions] Request a7f578d6-9e5d-4454-9012-cfaed8e42cc2 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 218.86152199842036ms
+2025-12-14 09:45:38.769 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:45:39.399 [info] [fetchCompletions] Request fa47dac8-150d-4b3c-8016-8216e9f8c9ae at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 229.26802700012922ms
+2025-12-14 09:45:39.401 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:45:39.415 [error] [AsyncCompletionManager] [fa47dac8-150d-4b3c-8016-8216e9f8c9ae] Request errored with [AbortError: The operation was aborted
+	at handleKnownInternalErrors (node:internal/webstreams/adapters:111:14)
+	at IncomingMessage.<anonymous> (node:internal/webstreams/adapters:476:13)
+	at AsyncResource.runInAsyncScope (node:async_hooks:214:14)
+	at IncomingMessage.bound (node:async_hooks:245:16)
+	at IncomingMessage.<anonymous> (node:internal/util:570:20)
+	at IncomingMessage.onclose (node:internal/streams/end-of-stream:156:25)
+	at IncomingMessage.emit (node:events:519:28)
+	at emitCloseNT (node:internal/streams/destroy:148:10)
+	at process.processTicksAndRejections (node:internal/process/task_queues:89:21)] {
+  code: 'ABORT_ERR',
+  [cause]: [Error: Premature close
+  	at IncomingMessage.onclose (node:internal/streams/end-of-stream:157:30)
+  	at IncomingMessage.emit (node:events:519:28)
+  	at emitCloseNT (node:internal/streams/destroy:148:10)
+  	at process.processTicksAndRejections (node:internal/process/task_queues:89:21)] {
+    code: 'ERR_STREAM_PREMATURE_CLOSE'
+  }
+}
+2025-12-14 09:45:39.642 [info] [fetchCompletions] Request 8746a2e2-ffb5-49f9-a828-5a30cb3e57b1 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 225.8003110010177ms
+2025-12-14 09:45:39.643 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:45:40.333 [info] [fetchCompletions] Request accd8e44-2efa-4f73-bb96-2011e4722a45 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 234.702382998541ms
+2025-12-14 09:45:40.334 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:45:50.250 [info] [fetchCompletions] Request 54938f41-1389-4f33-8036-8e54b1725b66 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 238.3965750001371ms
+2025-12-14 09:45:50.252 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:45:52.847 [info] [fetchCompletions] Request 4fd7f0ee-4463-49f7-b133-d463f98724ba at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 233.96884999983013ms
+2025-12-14 09:45:53.171 [info] [fetchCompletions] Request 83296ca4-ed91-452e-800e-abe34b014672 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 229.05091399885714ms
+2025-12-14 09:45:53.495 [info] [fetchCompletions] Request 7cb8cee9-941b-4ed6-a545-c93754baa271 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 236.31092999875546ms
+2025-12-14 09:45:53.684 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:45:53.735 [info] [fetchCompletions] Request fdafdf39-4d6c-4cf4-9f48-cfdc95488f42 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 233.4718410000205ms
+2025-12-14 09:45:53.889 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:45:54.213 [info] [fetchCompletions] Request bac45076-ebe7-466d-aa7c-78ded882b687 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 244.05069299973547ms
+2025-12-14 09:45:54.215 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:45:54.547 [info] [fetchCompletions] Request 9aa10ebe-204d-4e65-9728-3d694071ae55 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 245.4536899998784ms
+2025-12-14 09:45:54.617 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:45:55.394 [info] [fetchCompletions] Request 4fd4fab7-5d3c-4735-8201-737a9142e69e at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 220.5011190008372ms
+2025-12-14 09:45:55.483 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:45:55.764 [info] [fetchCompletions] Request 9ab0da6a-fa5e-4ec3-bdc8-8e04712264c8 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 236.33146699890494ms
+2025-12-14 09:45:55.765 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:45:56.994 [info] [fetchCompletions] Request 3b870fed-127e-43cb-bbd2-138f55253422 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 230.3842270001769ms
+2025-12-14 09:45:57.072 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:45:57.402 [info] [fetchCompletions] Request de849d4f-ccf2-4555-a824-fa86ad5b8ac2 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 234.6641000006348ms
+2025-12-14 09:45:57.404 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:46:15.060 [info] [fetchCompletions] Request 8ed81012-7b95-4b3d-8fad-7b9275ee2330 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 238.83081299997866ms
+2025-12-14 09:46:15.235 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:46:15.679 [info] [fetchCompletions] Request e958dd3f-694c-42f3-8c64-378e99812b78 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 221.72792199999094ms
+2025-12-14 09:46:15.736 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:46:15.973 [info] [fetchCompletions] Request 3e70ebae-61e9-4311-9a6c-014e76b079c7 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 226.63373799994588ms
+2025-12-14 09:46:16.208 [info] [fetchCompletions] Request 8545f00c-560d-49db-987c-fbe84a98246d at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 228.8559380006045ms
+2025-12-14 09:46:16.210 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:46:24.156 [info] [fetchCompletions] Request 9508fe7e-016e-4c92-8240-01430be7cf8c at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 238.07449600100517ms
+2025-12-14 09:46:24.157 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:46:25.063 [info] [fetchCompletions] Request 4c43c9c6-9b98-4108-8112-d22fb9777f38 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 246.1606179997325ms
+2025-12-14 09:46:25.492 [info] [fetchCompletions] Request 9f5893b5-ea5b-447e-8b0e-5401f4626625 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 256.3806250002235ms
+2025-12-14 09:46:25.493 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:47:03.236 [info] [fetchCompletions] Request be1afc24-0256-4ac6-b22e-4d7e8c623037 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 310.8287719991058ms
+2025-12-14 09:47:03.239 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:47:15.712 [info] [fetchCompletions] Request 03f61d69-0664-4cbb-9f4c-31a6db32e1c5 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 239.17571599967778ms
+2025-12-14 09:47:16.032 [info] [fetchCompletions] Request 254c0912-de04-458d-a1fb-4d5888ba8f57 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 244.1838399991393ms
+2025-12-14 09:47:16.087 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:47:16.326 [info] [fetchCompletions] Request 58af5b4b-a784-4e0e-be3f-f2438a674c1d at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 228.95032200030982ms
+2025-12-14 09:47:16.563 [info] [fetchCompletions] Request 42f3dd95-46a8-455a-aad1-4ee308273a43 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 232.0342239998281ms
+2025-12-14 09:47:16.565 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:47:22.338 [info] [fetchCompletions] Request 94784c5b-0b00-47a6-a28d-f4e192fa7a7d at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 247.24345599859953ms
+2025-12-14 09:47:22.339 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:47:22.669 [info] [fetchCompletions] Request 337cd7ab-eb1c-4ff9-a8b8-0599760078f7 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 249.0051669999957ms
+2025-12-14 09:47:23.130 [info] [fetchCompletions] Request eb0e5d28-b5e5-4cf0-9041-db09b16e1688 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 246.13805800117552ms
+2025-12-14 09:47:23.131 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:47:30.135 [info] [fetchCompletions] Request e0b23a23-44cf-460e-9957-05272d45abcc at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 246.06026000157ms
+2025-12-14 09:47:30.136 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:47:30.634 [info] [fetchCompletions] Request 55cd4333-3668-4839-a8e2-d672f1fd55c5 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 247.18270500004292ms
+2025-12-14 09:47:30.636 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:47:58.715 [info] [fetchCompletions] Request fa306731-5cb1-435c-8609-a73de4298f43 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 268.54840200021863ms
+2025-12-14 09:47:58.717 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:47:59.126 [info] [fetchCompletions] Request b371091b-5633-40b0-91ae-a16e960be3fc at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 309.54391700029373ms
+2025-12-14 09:47:59.361 [info] [fetchCompletions] Request 8903c6a6-b2a2-4bf9-ab95-71662c13c7cc at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 230.40055800043046ms
+2025-12-14 09:47:59.429 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:47:59.669 [info] [fetchCompletions] Request 03e4cf94-617d-47e5-9a67-12c1d1fd223c at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 231.37936999835074ms
+2025-12-14 09:47:59.671 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:48:03.381 [info] [fetchCompletions] Request b2a91e80-76ca-49a0-b0ce-fd9368b3ebd5 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 231.36839899979532ms
+2025-12-14 09:48:03.446 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:48:03.901 [info] [fetchCompletions] Request 90855c7f-20ef-40ea-b8f3-bd860b5aa978 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 249.03166399896145ms
+2025-12-14 09:48:03.902 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:48:05.630 [info] [fetchCompletions] Request 136d8fcc-e59b-4246-b390-aae2bd1e736a at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 251.60987500101328ms
+2025-12-14 09:48:05.631 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:48:08.582 [info] [fetchCompletions] Request 3cbbb1d2-5250-484d-a1eb-9483483f199e at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 322.6830650009215ms
+2025-12-14 09:48:08.835 [info] [fetchCompletions] Request 63896274-13f3-4e22-a7af-b691f7722d6b at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 249.68178099952638ms
+2025-12-14 09:48:08.874 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:48:09.111 [info] [fetchCompletions] Request 52ae3f70-8e91-40e6-8f64-d8a4d56e9a75 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 226.85472000017762ms
+2025-12-14 09:48:09.180 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-12-14 09:48:13.813 [info] [fetchCompletions] Request 899d7ac4-8262-4a5d-a199-a44bff46b0f4 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 249.44906000047922ms
+2025-12-14 09:48:13.814 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:48:23.160 [info] [fetchCompletions] Request 3b3d23c0-f53a-4d4e-900f-dd19179a0cc1 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 266.9821899998933ms
+2025-12-14 09:48:23.553 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:48:23.815 [info] [fetchCompletions] Request caab9282-9329-4426-815b-a76920faea8f at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 251.05201399885118ms
+2025-12-14 09:48:23.879 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-12-14 09:48:24.758 [info] [fetchCompletions] Request a08c9bf0-d9fb-49e3-b9c6-d782c59903ab at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 364.6622030008584ms
+2025-12-14 09:48:25.158 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:48:25.162 [info] [streamChoices] solution 2 returned. finish reason: [stop]
+2025-12-14 09:48:25.167 [info] [streamChoices] solution 1 returned. finish reason: [stop]
+2025-12-14 09:48:37.858 [info] [fetchCompletions] Request 9582a987-b3da-4c03-a1b0-05464eb42de6 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 233.02163999900222ms
+2025-12-14 09:48:37.861 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:48:38.188 [info] [fetchCompletions] Request 0bf50bd2-45aa-44bf-98f7-099c56599d16 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 242.58694500103593ms
+2025-12-14 09:48:38.189 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:48:52.868 [info] [fetchCompletions] Request 3fd9f98b-cff9-4c2e-abc2-892b9fdc26eb at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 266.5875710006803ms
+2025-12-14 09:48:52.870 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:48:53.401 [info] [fetchCompletions] Request 0299ea8e-2fcb-43f9-b148-426a66f6dac8 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 256.3625980000943ms
+2025-12-14 09:48:53.612 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:48:53.890 [info] [fetchCompletions] Request 9b53b507-52d6-43de-b5f7-d16b4f77bef0 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 266.85641000047326ms
+2025-12-14 09:48:53.892 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:49:03.952 [info] [fetchCompletions] Request 0f50c5eb-b4a4-43b7-a381-402f75f77b99 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 258.88773600012064ms
+2025-12-14 09:49:03.953 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 09:49:04.913 [info] [fetchCompletions] Request 08497721-6418-49e8-9975-983a57080038 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 246.41622300073504ms
+2025-12-14 09:49:05.332 [info] [fetchCompletions] Request 8cde424c-7297-481e-91e7-472291ec4cf0 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 241.04486100003123ms
+2025-12-14 09:49:05.334 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:54:56.874 [info] [fetchCompletions] Request 873dc6e0-32ed-497c-a511-70e95488143f at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 401 status after 157.06398099660873ms
+2025-12-14 11:54:56.889 [warning] [fetchCompletions] Response status was 401: unauthorized: token expired
+
+2025-12-14 11:54:56.934 [info] Logged in as thecodeshastra
+2025-12-14 11:54:57.565 [info] Got Copilot token for thecodeshastra
+2025-12-14 11:54:57.565 [info] Copilot Chat: 0.33.5, VS Code: 1.106.3
+2025-12-14 11:54:57.575 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-12-14 11:54:57.575 [info] [code-referencing] Public code references are enabled.
+2025-12-14 11:54:57.612 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-12-14 11:54:57.613 [info] [code-referencing] Public code references are enabled.
+2025-12-14 11:54:58.424 [info] Fetched model metadata in 850ms 55940792-7db3-4e40-b846-dc138c6eb811
+2025-12-14 11:54:58.630 [info] ccreq:43be638c.copilotmd | markdown
+2025-12-14 11:55:16.536 [info] [fetchCompletions] Request b992d4b6-9c00-45bf-9f49-e2c95d05abbe at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 254.19942300021648ms
+2025-12-14 11:55:16.603 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:55:16.997 [info] [fetchCompletions] Request 2d220554-f5cf-434c-9d4a-e374cd846b7e at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 383.83963599801064ms
+2025-12-14 11:55:16.999 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:55:17.608 [info] [fetchCompletions] Request dccd2bc0-c559-4201-afdd-56894b285e67 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 287.3627079986036ms
+2025-12-14 11:55:17.610 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:55:18.684 [info] [fetchCompletions] Request abdb3867-5da6-418c-8d3d-7dc7c376e829 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 396.83776200190187ms
+2025-12-14 11:55:18.685 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:55:21.734 [info] [fetchCompletions] Request 62df471c-b002-4b29-a530-e5395a4adfea at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 269.0627879984677ms
+2025-12-14 11:55:21.784 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:55:22.246 [info] [fetchCompletions] Request ecac439f-5dc3-4fb0-8713-a9d31b7ed70a at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 369.25508499890566ms
+2025-12-14 11:55:22.248 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:55:22.666 [info] [fetchCompletions] Request 410fbf20-a24d-4a67-8853-88b3f106b537 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 257.4947080016136ms
+2025-12-14 11:55:23.096 [info] [fetchCompletions] Request 64ef89fe-6863-48fa-9413-198c54fad178 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 368.3227210007608ms
+2025-12-14 11:55:23.098 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:55:23.758 [info] [fetchCompletions] Request c8e82192-28c5-4e01-b0eb-0662ca2ccc4c at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 285.10058600082994ms
+2025-12-14 11:55:24.098 [info] [fetchCompletions] Request bd2aca16-a03d-4667-b5e6-0dc9d2b87449 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 268.94621700048447ms
+2025-12-14 11:55:24.162 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:55:24.531 [info] [fetchCompletions] Request 7b1f3453-6142-49f1-b415-dbe61b8e826d at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 248.22069699689746ms
+2025-12-14 11:55:24.601 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:55:24.908 [info] [fetchCompletions] Request bced72ad-a29f-401e-b66e-a5b2329a4230 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 280.0640859976411ms
+2025-12-14 11:55:24.910 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:55:25.385 [info] [fetchCompletions] Request 03fdfa04-47ee-414e-9e20-f0db5f75eb86 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 260.0624560005963ms
+2025-12-14 11:55:25.444 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:55:26.032 [info] [fetchCompletions] Request 2e24c46a-d6a4-416b-83bc-cab6295cc7d4 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 368.94074999913573ms
+2025-12-14 11:55:26.043 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:55:27.182 [info] [fetchCompletions] Request 943f3787-8cc3-4ac8-adb1-e8d4f96ce136 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 258.604155998677ms
+2025-12-14 11:55:27.258 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:55:27.537 [info] [fetchCompletions] Request 170574dd-0353-4c86-a9a1-67a687b193f2 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 267.2085980027914ms
+2025-12-14 11:55:27.538 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:55:28.915 [info] [code-referencing] Calling twirp/github.snippy.v1.SnippyAPI/Match
+2025-12-14 11:55:29.197 [info] [fetchCompletions] Request 20da72ba-2b96-4047-8cda-8cf89ba450bc at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 271.13723200187087ms
+2025-12-14 11:55:29.200 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:55:29.571 [info] [code-referencing] No match found
+2025-12-14 11:55:33.427 [info] [fetchCompletions] Request d20e48ad-3126-43b1-b54e-f7ccebce21db at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 257.4753579981625ms
+2025-12-14 11:55:33.482 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:55:33.763 [info] [fetchCompletions] Request ea85a96e-9bb2-4d5a-84b9-ef4036773728 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 261.76750100031495ms
+2025-12-14 11:55:33.765 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:55:34.647 [info] [code-referencing] Calling twirp/github.snippy.v1.SnippyAPI/Match
+2025-12-14 11:55:34.874 [info] [code-referencing] No match found
+2025-12-14 11:55:34.906 [info] [fetchCompletions] Request 27c8749a-501c-4b70-986c-20c0ec2cbe35 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 248.48387399688363ms
+2025-12-14 11:55:34.907 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:55:42.857 [info] [fetchCompletions] Request c56ec5d2-f645-412f-836a-235cf7adfad2 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 291.17342500016093ms
+2025-12-14 11:55:43.056 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:55:43.640 [info] [fetchCompletions] Request f7e46b23-ba2b-46ff-b010-36d5767f2050 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 317.6265829987824ms
+2025-12-14 11:55:43.663 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:55:43.939 [info] [fetchCompletions] Request ff0a7133-5368-4e0f-8839-7b92b6baef25 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 265.83162999898195ms
+2025-12-14 11:55:44.210 [info] [fetchCompletions] Request 628097c8-0682-4510-ba03-d0c6682b9e86 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 266.443237002939ms
+2025-12-14 11:55:44.212 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:55:51.867 [info] [fetchCompletions] Request 0d9cc22f-6f6e-479c-b991-f2cdbc3026be at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 270.3787730000913ms
+2025-12-14 11:55:51.868 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:55:52.762 [info] [fetchCompletions] Request de0159ca-c532-4f69-a368-da11b001be0b at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 371.90191699936986ms
+2025-12-14 11:55:53.233 [info] [fetchCompletions] Request c6d8bbca-752a-4f6e-998d-b7ebaec4915f at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 262.58738899976015ms
+2025-12-14 11:55:53.235 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:56:24.988 [info] [fetchCompletions] Request 88823653-3b3d-40a4-b85b-920dc6807333 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 263.63919299840927ms
+2025-12-14 11:56:24.991 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:56:26.498 [info] [fetchCompletions] Request 6b29125e-6b4c-45d0-a779-e1660b26219c at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 355.9831059984863ms
+2025-12-14 11:56:26.500 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:56:29.030 [info] [fetchCompletions] Request f8ecae94-261a-459d-b021-3b4efa65babc at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 263.18947299942374ms
+2025-12-14 11:56:29.116 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:56:29.552 [info] [fetchCompletions] Request c4b6000e-2176-46f4-ad56-9ba606e8fe7f at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 256.2476360015571ms
+2025-12-14 11:56:29.621 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:56:30.102 [info] [fetchCompletions] Request ee9dcdac-b7ee-4c7a-8120-7fac1f75ccd1 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 287.2669639997184ms
+2025-12-14 11:56:30.198 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-12-14 11:56:30.570 [info] [fetchCompletions] Request 9f0c8a92-35f8-433c-a5aa-5ab17a3647a0 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 284.5509850010276ms
+2025-12-14 11:56:30.618 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:56:30.908 [info] [fetchCompletions] Request fd9cd00b-f210-4ff9-b37c-25d6559bcf11 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 279.203013997525ms
+2025-12-14 11:56:30.909 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:56:33.617 [info] [fetchCompletions] Request 11b0275e-0be6-4f59-903f-8199963bd33b at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 285.53052600100636ms
+2025-12-14 11:56:34.028 [info] [fetchCompletions] Request 71a12c98-3727-43ca-80a2-427c826c242c at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 301.2572879977524ms
+2025-12-14 11:56:34.061 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:56:34.319 [info] [fetchCompletions] Request c5bdcdaf-8378-4633-b475-70b70d5c303f at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 300.8296080008149ms
+2025-12-14 11:56:34.374 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:56:34.645 [info] [fetchCompletions] Request 05291298-f8b9-44ca-9948-5722b4e18a7f at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 266.56782500073314ms
+2025-12-14 11:56:34.706 [info] [streamChoices] solution 0 returned. finish reason: [null]
+2025-12-14 11:56:35.632 [info] [fetchCompletions] Request 4f56e37d-2bc0-42eb-8906-3ae7623627fa at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 270.93399700149894ms
+2025-12-14 11:56:35.712 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:56:36.483 [info] [fetchCompletions] Request d01a091a-405d-4259-942e-c7df6d18e0bc at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 344.3594690002501ms
+2025-12-14 11:56:36.525 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:56:37.598 [info] [fetchCompletions] Request 8e7a9b03-3a12-46ad-85f2-0398b717c76c at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 343.93347300216556ms
+2025-12-14 11:56:37.601 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:56:38.548 [info] [fetchCompletions] Request d5636034-100f-4edc-aa4d-c5c78863de8f at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 315.13499699905515ms
+2025-12-14 11:56:38.812 [info] [fetchCompletions] Request d3202299-b8fd-4355-bcad-a4f40e5eb1e8 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 259.3207900002599ms
+2025-12-14 11:56:39.129 [info] [fetchCompletions] Request 45aa12e6-76bc-421d-9d24-a5a72cc6ea72 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 256.7078250013292ms
+2025-12-14 11:56:39.466 [info] [fetchCompletions] Request 9ba4bf74-9264-4517-9999-69a0a10f022a at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 264.1407609991729ms
+2025-12-14 11:56:39.534 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:56:40.082 [info] [fetchCompletions] Request 22c81b1a-bbed-41f0-b401-4c31792346f3 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 313.7664769999683ms
+2025-12-14 11:56:40.116 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:56:40.639 [info] [fetchCompletions] Request 61302721-4c50-4011-ac95-d71963a4888e at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 275.94964700192213ms
+2025-12-14 11:56:40.710 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:56:41.147 [info] [fetchCompletions] Request ba49d82c-271d-4821-999d-a1321b239e6b at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 262.48342399671674ms
+2025-12-14 11:56:41.206 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:56:41.484 [info] [fetchCompletions] Request a40a1b24-ba17-4621-aa60-b3a7b70df9fc at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 265.9553240016103ms
+2025-12-14 11:56:41.486 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:56:42.035 [info] [code-referencing] Calling twirp/github.snippy.v1.SnippyAPI/Match
+2025-12-14 11:56:42.275 [info] [code-referencing] No match found
+2025-12-14 11:56:42.317 [info] [fetchCompletions] Request 84796cd6-f176-4ea2-9097-870eaa8e6809 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 271.02911499887705ms
+2025-12-14 11:56:42.319 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:56:42.785 [info] [fetchCompletions] Request bc73857f-1717-46fc-94c3-5d853a0b8b30 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 258.15414199978113ms
+2025-12-14 11:56:43.120 [info] [fetchCompletions] Request a5e0048a-bec2-412f-baad-fd53470c6133 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 271.1011620014906ms
+2025-12-14 11:56:43.179 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:56:43.627 [info] [fetchCompletions] Request 89df93a7-f36f-45a4-b3f6-f3f48168e599 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 257.52809699997306ms
+2025-12-14 11:56:43.684 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:56:44.340 [info] [fetchCompletions] Request 70016612-0ca5-4d46-b60e-cabbd47990f1 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 248.1882539987564ms
+2025-12-14 11:56:44.407 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:56:44.712 [info] [fetchCompletions] Request 2d327e9e-b0b8-4544-9243-0e6aafba980e at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 270.48131800070405ms
+2025-12-14 11:56:44.718 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:56:45.166 [info] [fetchCompletions] Request da683d02-329e-4277-8719-37e7af5c1418 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 272.65838799998164ms
+2025-12-14 11:56:45.215 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:56:45.580 [info] [fetchCompletions] Request 25b82292-6c0d-4a20-937f-d787dfcba84f at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 276.6026909984648ms
+2025-12-14 11:56:45.582 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:56:46.554 [info] [fetchCompletions] Request 67253d25-8253-4b96-8b67-7d193bc1eacc at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 271.78123700246215ms
+2025-12-14 11:56:46.604 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:56:47.038 [info] [fetchCompletions] Request b0108342-ff56-490f-a222-6bb369856f4e at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 295.7941770032048ms
+2025-12-14 11:56:47.039 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:56:53.163 [info] [fetchCompletions] Request 8d5baaf1-50ae-436d-8ecc-421402973846 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 307.26601400226355ms
+2025-12-14 11:56:53.186 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:56:53.583 [info] [fetchCompletions] Request 4a0aae21-cc90-4175-bd5e-f074fe0b3b6d at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 376.29792200028896ms
+2025-12-14 11:56:54.093 [info] [fetchCompletions] Request ae003e9d-c4f9-463d-bb05-b9d669922980 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 281.48788399994373ms
+2025-12-14 11:56:54.095 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:57:03.160 [info] [fetchCompletions] Request d594c65e-f250-4009-87a9-abae62ea12b5 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 289.4906059987843ms
+2025-12-14 11:57:03.162 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:57:03.747 [info] [fetchCompletions] Request 331f66e1-9f58-4082-be32-d4105de17346 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 276.33226699754596ms
+2025-12-14 11:57:04.186 [info] [fetchCompletions] Request bfe72752-0340-4352-93c6-578814103902 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 259.87553699687123ms
+2025-12-14 11:57:04.188 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:57:29.801 [info] [fetchCompletions] Request 3f0e1c69-6595-416a-8465-abbdd89d1238 at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 269.75607899948955ms
+2025-12-14 11:57:29.864 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 11:57:38.050 [info] [fetchCompletions] Request 2fee300b-ee8f-47f6-b662-6355b2dc228c at <https://proxy.individual.githubcopilot.com/v1/engines/gpt-41-copilot/completions> finished with 200 status after 278.5946529991925ms
+2025-12-14 11:57:38.052 [info] [streamChoices] solution 0 returned. finish reason: [stop]
+2025-12-14 14:08:26.579 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2025-12-14 14:08:26.627 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2025-12-14 14:08:26.627 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2025-12-14 14:08:26.627 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2025-12-14 14:08:26.811 [error] Copilot extension not found
+2025-12-14 14:08:26.813 [warning] Copilot API is undefined, unable to register context provider.
+2025-12-14 14:08:27.044 [info] Logged in as thecodeshastra
+2025-12-14 14:08:27.047 [info] Using the Electron fetcher.
+2025-12-14 14:08:27.636 [info] Got Copilot token for thecodeshastra
+2025-12-14 14:08:27.636 [info] Copilot Chat: 0.33.5, VS Code: 1.106.3
+2025-12-14 14:08:27.649 [info] activationBlocker from 'languageModelAccess' took for 887ms
+2025-12-14 14:08:27.853 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-12-14 14:08:27.853 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-12-14 14:08:27.872 [info] Registering default platform agent...
+2025-12-14 14:08:27.873 [info] [code-referencing] Public code references are enabled.
+2025-12-14 14:08:27.873 [info] activationBlocker from 'conversationFeature' took for 1120ms
+2025-12-14 14:08:27.988 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-12-14 14:08:28.413 [error] [GitHubAPI] GET https://api.githubcopilot.com/agents/swe/custom-agents/sattvicyantra/AI-workbench?exclude_invalid_config=true - Status: 404
+2025-12-14 14:08:28.414 [error] Error fetching custom agents: TypeError: Cannot destructure property 'agents' of '(intermediate value)' as it is undefined.
+2025-12-14 14:08:28.439 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 14:08:28.652 [info] Fetched model metadata in 800ms 3a68b8d6-ef7c-4d80-962b-64b0dfe85f0c
+2025-12-14 14:08:28.814 [info] Latest entry: ccreq:latest.copilotmd
+2025-12-14 14:08:28.815 [info] ccreq:42d0b774.copilotmd | markdown
+2025-12-14 14:13:27.632 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 14:18:27.801 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 14:23:27.620 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 14:28:27.625 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 14:33:27.620 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 14:38:27.699 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 14:43:27.605 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 14:48:27.635 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 14:53:27.644 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 14:58:27.711 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 15:03:27.602 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 15:08:28.593 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 15:13:27.716 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 15:18:27.720 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 15:23:27.668 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 15:28:27.632 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 15:33:27.784 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 15:38:28.017 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 15:43:27.688 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 15:48:27.651 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 15:53:27.699 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 15:58:27.765 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 16:03:28.669 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 16:08:27.712 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 16:13:28.077 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 16:18:27.850 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 16:23:27.954 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 16:28:27.717 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 16:33:27.896 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 16:38:27.768 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 16:43:27.886 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 16:48:27.931 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 16:53:27.750 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 16:58:28.099 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 17:03:27.963 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 17:08:27.775 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 17:13:27.983 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 17:18:27.793 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 17:23:27.829 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 17:28:27.981 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 17:33:27.901 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 17:38:27.790 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 17:43:27.947 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 17:48:27.947 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 17:53:27.891 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 17:58:27.922 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 18:03:27.887 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 18:08:27.875 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 18:13:27.889 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 18:18:27.845 [error] [GitHubAPI] Failed to fetch sessions: 400
+2025-12-14 18:23:27.876 [error] [GitHubAPI] Failed to fetch sessions: 400

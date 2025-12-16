@@ -1,0 +1,83 @@
+2025-12-13 18:51:33.653 [warning] devsense.composer-php-vscode 1.63.18172 vscode:uninstall should be a node script
+2025-12-13 18:51:33.654 [warning] devsense.intelli-php-vscode 0.12.17700 vscode:uninstall should be a node script
+2025-12-13 18:51:33.654 [warning] devsense.profiler-php-vscode 1.63.18172 vscode:uninstall should be a node script
+2025-12-13 18:51:33.688 [info] Deleted marked for removal extension from disk devsense.composer-php-vscode /home/rudra/.antigravity/extensions/devsense.composer-php-vscode-1.63.18172-universal
+2025-12-13 18:51:33.688 [info] Deleted marked for removal extension from disk devsense.intelli-php-vscode /home/rudra/.antigravity/extensions/devsense.intelli-php-vscode-0.12.17700-linux-x64
+2025-12-13 18:51:33.689 [info] Deleted marked for removal extension from disk devsense.phptools-vscode /home/rudra/.antigravity/extensions/devsense.phptools-vscode-1.63.18172-linux-x64
+2025-12-13 18:51:33.689 [info] Deleted marked for removal extension from disk devsense.profiler-php-vscode /home/rudra/.antigravity/extensions/devsense.profiler-php-vscode-1.63.18172-universal
+2025-12-13 18:51:33.690 [info] Deleted marked for removal extension from disk golang.go /home/rudra/.antigravity/extensions/golang.go-0.50.0-universal
+2025-12-13 18:51:33.691 [info] Deleted marked for removal extension from disk llvm-vs-code-extensions.vscode-clangd /home/rudra/.antigravity/extensions/llvm-vs-code-extensions.vscode-clangd-0.2.0-universal
+2025-12-13 18:51:33.692 [info] Deleted marked for removal extension from disk meta.pyrefly /home/rudra/.antigravity/extensions/meta.pyrefly-0.45.0-linux-x64
+2025-12-13 18:51:33.692 [info] Deleted marked for removal extension from disk redhat.java /home/rudra/.antigravity/extensions/redhat.java-1.50.0-linux-x64
+2025-12-13 18:51:33.693 [info] Deleted marked for removal extension from disk shopify.ruby-lsp /home/rudra/.antigravity/extensions/shopify.ruby-lsp-0.9.32-universal
+2025-12-13 18:51:33.694 [info] Deleted marked for removal extension from disk vscjava.vscode-gradle /home/rudra/.antigravity/extensions/vscjava.vscode-gradle-3.17.1-universal
+2025-12-13 18:51:33.695 [info] Deleted marked for removal extension from disk vscjava.vscode-java-debug /home/rudra/.antigravity/extensions/vscjava.vscode-java-debug-0.58.3-universal
+2025-12-13 18:51:33.695 [info] Deleted marked for removal extension from disk vscjava.vscode-java-dependency /home/rudra/.antigravity/extensions/vscjava.vscode-java-dependency-0.26.3-universal
+2025-12-13 18:51:33.695 [info] Deleted marked for removal extension from disk vscjava.vscode-java-pack /home/rudra/.antigravity/extensions/vscjava.vscode-java-pack-0.30.4-universal
+2025-12-13 18:51:33.696 [info] Deleted marked for removal extension from disk vscjava.vscode-java-test /home/rudra/.antigravity/extensions/vscjava.vscode-java-test-0.43.2-universal
+2025-12-13 18:51:33.696 [info] Deleted marked for removal extension from disk vscjava.vscode-maven /home/rudra/.antigravity/extensions/vscjava.vscode-maven-0.44.0-universal
+2025-12-13 19:23:48.179 [info] Getting Manifest... charliermarsh.ruff
+2025-12-13 19:23:49.126 [info] Installing extension: charliermarsh.ruff {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rudra/.antigravity/extensions/extensions.json","path":"/home/rudra/.antigravity/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.104.0","date":"2025-12-08T23:18:46.541Z"}}
+2025-12-13 19:23:49.570 [info] Getting Manifest... ms-python.python
+2025-12-13 19:23:53.111 [info] Extracted extension to file:///home/rudra/.antigravity/extensions/charliermarsh.ruff-2025.32.0-linux-x64: charliermarsh.ruff
+2025-12-13 19:23:53.131 [info] Renamed to /home/rudra/.antigravity/extensions/charliermarsh.ruff-2025.32.0-linux-x64
+2025-12-13 19:23:53.158 [info] Extension installed successfully: charliermarsh.ruff vscode-userdata:/home/rudra/.antigravity/extensions/extensions.json
+2025-12-13 19:23:53.158 [error] [uncaught exception in sharedProcess]: Cannot read properties of undefined (reading 'fireEvent'): TypeError: Cannot read properties of undefined (reading 'fireEvent')
+    at ea.value (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62540)
+    at D.C (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2373)
+    at D (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2443)
+    at D.fire (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2660)
+    at Nu.L (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:10718)
+    at async Nu.installGalleryExtensions (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:2499)
+    at async Nu.installFromGallery (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:1748)
+2025-12-14 06:13:34.604 [info] Getting Manifest... google.colab
+2025-12-14 06:13:35.539 [info] Installing extension: google.colab {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rudra/.antigravity/extensions/extensions.json","path":"/home/rudra/.antigravity/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.104.0","date":"2025-12-08T23:18:46.541Z"}}
+2025-12-14 06:13:36.324 [info] Getting Manifest... ms-toolsai.jupyter
+2025-12-14 06:13:36.928 [info] Getting Manifest... ms-toolsai.jupyter-keymap
+2025-12-14 06:13:37.190 [info] Getting Manifest... ms-toolsai.jupyter-renderers
+2025-12-14 06:13:37.458 [info] Getting Manifest... ms-toolsai.vscode-jupyter-slideshow
+2025-12-14 06:13:37.735 [info] Getting Manifest... ms-toolsai.vscode-jupyter-cell-tags
+2025-12-14 06:13:38.015 [info] Installing extension: ms-toolsai.jupyter {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rudra/.antigravity/extensions/extensions.json","path":"/home/rudra/.antigravity/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.104.0","date":"2025-12-08T23:18:46.541Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2025-12-14 06:13:38.016 [info] Installing extension: ms-toolsai.jupyter-keymap {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rudra/.antigravity/extensions/extensions.json","path":"/home/rudra/.antigravity/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.104.0","date":"2025-12-08T23:18:46.541Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2025-12-14 06:13:38.016 [info] Installing extension: ms-toolsai.jupyter-renderers {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rudra/.antigravity/extensions/extensions.json","path":"/home/rudra/.antigravity/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.104.0","date":"2025-12-08T23:18:46.541Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2025-12-14 06:13:38.016 [info] Installing extension: ms-toolsai.vscode-jupyter-slideshow {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rudra/.antigravity/extensions/extensions.json","path":"/home/rudra/.antigravity/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.104.0","date":"2025-12-08T23:18:46.541Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2025-12-14 06:13:38.016 [info] Installing extension: ms-toolsai.vscode-jupyter-cell-tags {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rudra/.antigravity/extensions/extensions.json","path":"/home/rudra/.antigravity/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.104.0","date":"2025-12-08T23:18:46.541Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2025-12-14 06:13:39.016 [info] Extracted extension to file:///home/rudra/.antigravity/extensions/google.colab-0.1.3-universal: google.colab
+2025-12-14 06:13:39.020 [info] Renamed to /home/rudra/.antigravity/extensions/google.colab-0.1.3-universal
+2025-12-14 06:13:39.076 [info] Extracted extension to file:///home/rudra/.antigravity/extensions/ms-toolsai.jupyter-keymap-1.1.2-universal: ms-toolsai.jupyter-keymap
+2025-12-14 06:13:39.080 [info] Renamed to /home/rudra/.antigravity/extensions/ms-toolsai.jupyter-keymap-1.1.2-universal
+2025-12-14 06:13:39.645 [info] Extracted extension to file:///home/rudra/.antigravity/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.9-universal: ms-toolsai.vscode-jupyter-cell-tags
+2025-12-14 06:13:39.658 [info] Renamed to /home/rudra/.antigravity/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.9-universal
+2025-12-14 06:13:43.503 [info] Extracted extension to file:///home/rudra/.antigravity/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.6-universal: ms-toolsai.vscode-jupyter-slideshow
+2025-12-14 06:13:43.508 [info] Renamed to /home/rudra/.antigravity/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.6-universal
+2025-12-14 06:13:47.637 [info] Extracted extension to file:///home/rudra/.antigravity/extensions/ms-toolsai.jupyter-2025.8.0-universal: ms-toolsai.jupyter
+2025-12-14 06:13:47.669 [info] Renamed to /home/rudra/.antigravity/extensions/ms-toolsai.jupyter-2025.8.0-universal
+2025-12-14 06:13:48.714 [info] Extracted extension to file:///home/rudra/.antigravity/extensions/ms-toolsai.jupyter-renderers-1.3.0-universal: ms-toolsai.jupyter-renderers
+2025-12-14 06:13:48.733 [info] Renamed to /home/rudra/.antigravity/extensions/ms-toolsai.jupyter-renderers-1.3.0-universal
+2025-12-14 06:13:48.768 [info] Extension installed successfully: google.colab vscode-userdata:/home/rudra/.antigravity/extensions/extensions.json
+2025-12-14 06:13:48.768 [info] Extension installed successfully: ms-toolsai.jupyter-keymap vscode-userdata:/home/rudra/.antigravity/extensions/extensions.json
+2025-12-14 06:13:48.769 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-cell-tags vscode-userdata:/home/rudra/.antigravity/extensions/extensions.json
+2025-12-14 06:13:48.769 [info] Extension installed successfully: ms-toolsai.vscode-jupyter-slideshow vscode-userdata:/home/rudra/.antigravity/extensions/extensions.json
+2025-12-14 06:13:48.769 [info] Extension installed successfully: ms-toolsai.jupyter vscode-userdata:/home/rudra/.antigravity/extensions/extensions.json
+2025-12-14 06:13:48.769 [info] Extension installed successfully: ms-toolsai.jupyter-renderers vscode-userdata:/home/rudra/.antigravity/extensions/extensions.json
+2025-12-14 06:13:48.769 [error] [uncaught exception in sharedProcess]: Cannot read properties of undefined (reading 'fireEvent'): TypeError: Cannot read properties of undefined (reading 'fireEvent')
+    at ea.value (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62540)
+    at D.C (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2373)
+    at D (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2443)
+    at D.fire (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2660)
+    at Nu.L (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:10718)
+    at async Nu.installGalleryExtensions (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:2499)
+    at async Nu.installFromGallery (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:1748)
+2025-12-14 06:14:08.171 [info] Getting Manifest... google.gemini-cli-vscode-ide-companion
+2025-12-14 06:14:08.485 [info] Installing extension: google.gemini-cli-vscode-ide-companion {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rudra/.antigravity/extensions/extensions.json","path":"/home/rudra/.antigravity/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.104.0","date":"2025-12-08T23:18:46.541Z"}}
+2025-12-14 06:14:09.923 [info] Extracted extension to file:///home/rudra/.antigravity/extensions/google.gemini-cli-vscode-ide-companion-0.20.0-universal: google.gemini-cli-vscode-ide-companion
+2025-12-14 06:14:09.936 [info] Renamed to /home/rudra/.antigravity/extensions/google.gemini-cli-vscode-ide-companion-0.20.0-universal
+2025-12-14 06:14:09.967 [info] Extension installed successfully: google.gemini-cli-vscode-ide-companion vscode-userdata:/home/rudra/.antigravity/extensions/extensions.json
+2025-12-14 06:14:09.967 [error] [uncaught exception in sharedProcess]: Cannot read properties of undefined (reading 'fireEvent'): TypeError: Cannot read properties of undefined (reading 'fireEvent')
+    at ea.value (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62540)
+    at D.C (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2373)
+    at D (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2443)
+    at D.fire (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:28:2660)
+    at Nu.L (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:10718)
+    at async Nu.installGalleryExtensions (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:2499)
+    at async Nu.installFromGallery (file:///usr/share/antigravity/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:1748)

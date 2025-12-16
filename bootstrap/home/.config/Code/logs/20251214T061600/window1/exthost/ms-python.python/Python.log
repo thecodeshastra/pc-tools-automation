@@ -1,0 +1,157 @@
+2025-12-14 06:19:49.567 [info] Experiment 'pythonSurveyNotification' is active
+2025-12-14 06:19:49.966 [info] Native locator: Refresh started
+2025-12-14 06:19:50.009 [info] > pyenv which python
+2025-12-14 06:19:50.009 [info] cwd: .
+2025-12-14 06:19:50.376 [info] Active interpreter [/home/rudra/DEV_ROOT]:  /bin/python3
+2025-12-14 06:19:50.392 [info] Running installed packages checker:  {
+  id: '/bin/python3',
+  displayName: 'Python 3.12.3',
+  detailedDisplayName: 'Python 3.12.3',
+  envType: 'System',
+  envPath: '/usr',
+  type: undefined,
+  path: '/bin/python3',
+  version: {
+    raw: '3.12.3.final.0',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: []
+  },
+  sysVersion: '3.12.3.final.0',
+  architecture: 3,
+  sysPrefix: '/usr'
+} /home/rudra/.vscode/extensions/ms-python.python-2025.19.2025120401-linux-x64/python_files/installed_check.py /home/rudra/DEV_ROOT/coding_practice/ai_agents/requirements.txt
+2025-12-14 06:19:50.392 [info] > /bin/python3 ~/.vscode/extensions/ms-python.python-2025.19.2025120401-linux-x64/python_files/installed_check.py ./coding_practice/ai_agents/requirements.txt
+2025-12-14 06:19:50.435 [info] Running installed packages checker:  {
+  id: '/bin/python3',
+  displayName: 'Python 3.12.3',
+  detailedDisplayName: 'Python 3.12.3',
+  envType: 'System',
+  envPath: '/usr',
+  type: undefined,
+  path: '/bin/python3',
+  version: {
+    raw: '3.12.3.final.0',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: []
+  },
+  sysVersion: '3.12.3.final.0',
+  architecture: 3,
+  sysPrefix: '/usr'
+} /home/rudra/.vscode/extensions/ms-python.python-2025.19.2025120401-linux-x64/python_files/installed_check.py /home/rudra/DEV_ROOT/coding_practice/ai_agents/requirements.txt
+2025-12-14 06:19:50.435 [info] > /bin/python3 ~/.vscode/extensions/ms-python.python-2025.19.2025120401-linux-x64/python_files/installed_check.py ./coding_practice/ai_agents/requirements.txt
+2025-12-14 06:19:50.577 [info] Native locator: Refresh finished in 609 ms
+2025-12-14 06:19:54.595 [info] Starting Pylance language server.
+2025-12-14 06:21:20.046 [info] Running installed packages checker:  {
+  id: '/bin/python3',
+  displayName: 'Python 3.12.3',
+  detailedDisplayName: 'Python 3.12.3',
+  envType: 'System',
+  envPath: '/usr',
+  type: undefined,
+  path: '/bin/python3',
+  version: {
+    raw: '3.12.3.final.0',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: []
+  },
+  sysVersion: '3.12.3.final.0',
+  architecture: 3,
+  sysPrefix: '/usr'
+} /home/rudra/.vscode/extensions/ms-python.python-2025.19.2025120401-linux-x64/python_files/installed_check.py /home/rudra/DEV_ROOT/coding_practice/ai_agents/requirements.txt
+2025-12-14 06:21:20.046 [info] > /bin/python3 ~/.vscode/extensions/ms-python.python-2025.19.2025120401-linux-x64/python_files/installed_check.py ./coding_practice/ai_agents/requirements.txt
+2025-12-14 06:22:10.752 [info] Experiment 'pythonSurveyNotification' is active
+2025-12-14 06:22:11.068 [info] Native locator: Refresh started
+2025-12-14 06:22:11.069 [info] Native locator: Refresh started
+2025-12-14 06:22:12.228 [info] Active interpreter [/home/rudra/DEV_ROOT/coding_practice/ai_agents]:  /bin/python3
+2025-12-14 06:22:12.468 [info] Native locator: Refresh finished in 1400 ms
+2025-12-14 06:22:12.488 [info] > pyenv which python
+2025-12-14 06:22:12.488 [info] cwd: .
+2025-12-14 06:22:15.425 [info] Starting Pylance language server.
+2025-12-14 06:24:54.871 [info] Experiment 'pythonSurveyNotification' is active
+2025-12-14 06:24:55.739 [info] Native locator: Refresh started
+2025-12-14 06:24:56.164 [info] > pyenv which python
+2025-12-14 06:24:56.164 [info] cwd: .
+2025-12-14 06:24:56.197 [info] Active interpreter [/home/rudra/DEV_ROOT/coding_practice/ai_agents]:  /bin/python3
+2025-12-14 06:24:57.691 [info] Native locator: Refresh finished in 1954 ms
+2025-12-14 06:24:59.126 [info] Starting Pylance language server.
+2025-12-14 06:46:04.248 [info] Active interpreter [/home/rudra/DEV_ROOT/coding_practice/ai_agents]:  /home/rudra/DEV_ROOT/coding_practice/ai_agents/.venv/bin/python
+2025-12-14 06:46:04.269 [info] Running installed packages checker:  {
+  id: '/home/rudra/DEV_ROOT/coding_practice/ai_agents/.venv/bin/python',
+  displayName: '.venv (3.12.3)',
+  detailedDisplayName: '.venv (3.12.3)',
+  envType: 'Venv',
+  envPath: '/home/rudra/DEV_ROOT/coding_practice/ai_agents/.venv',
+  type: 'Virtual',
+  path: '/home/rudra/DEV_ROOT/coding_practice/ai_agents/.venv/bin/python',
+  version: {
+    raw: '3.12.3.final.0',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: []
+  },
+  sysVersion: '3.12.3.final.0',
+  architecture: 3,
+  sysPrefix: '/home/rudra/DEV_ROOT/coding_practice/ai_agents/.venv'
+} /home/rudra/.vscode/extensions/ms-python.python-2025.20.0-linux-x64/python_files/installed_check.py /home/rudra/DEV_ROOT/coding_practice/ai_agents/requirements.txt
+2025-12-14 06:46:04.269 [info] > ./.venv/bin/python ~/.vscode/extensions/ms-python.python-2025.20.0-linux-x64/python_files/installed_check.py ./requirements.txt
+2025-12-14 06:46:04.555 [info] Running installed packages checker:  {
+  id: '/home/rudra/DEV_ROOT/coding_practice/ai_agents/.venv/bin/python',
+  displayName: '.venv (3.12.3)',
+  detailedDisplayName: '.venv (3.12.3)',
+  envType: 'Venv',
+  envPath: '/home/rudra/DEV_ROOT/coding_practice/ai_agents/.venv',
+  type: 'Virtual',
+  path: '/home/rudra/DEV_ROOT/coding_practice/ai_agents/.venv/bin/python',
+  version: {
+    raw: '3.12.3.final.0',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: []
+  },
+  sysVersion: '3.12.3.final.0',
+  architecture: 3,
+  sysPrefix: '/home/rudra/DEV_ROOT/coding_practice/ai_agents/.venv'
+} /home/rudra/.vscode/extensions/ms-python.python-2025.20.0-linux-x64/python_files/installed_check.py /home/rudra/DEV_ROOT/coding_practice/ai_agents/requirements.txt
+2025-12-14 06:46:04.555 [info] > ./.venv/bin/python ~/.vscode/extensions/ms-python.python-2025.20.0-linux-x64/python_files/installed_check.py ./requirements.txt
+2025-12-14 06:57:25.387 [info] Running installed packages checker:  {
+  id: '/home/rudra/DEV_ROOT/coding_practice/ai_agents/.venv/bin/python',
+  displayName: '.venv (3.12.3)',
+  detailedDisplayName: '.venv (3.12.3)',
+  envType: 'Venv',
+  envPath: '/home/rudra/DEV_ROOT/coding_practice/ai_agents/.venv',
+  type: 'Virtual',
+  path: '/home/rudra/DEV_ROOT/coding_practice/ai_agents/.venv/bin/python',
+  version: {
+    raw: '3.12.3',
+    major: 3,
+    minor: 12,
+    patch: 3,
+    build: [],
+    prerelease: []
+  },
+  sysVersion: '3.12.3',
+  architecture: 3,
+  sysPrefix: '/home/rudra/DEV_ROOT/coding_practice/ai_agents/.venv'
+} /home/rudra/.vscode/extensions/ms-python.python-2025.20.0-linux-x64/python_files/installed_check.py /home/rudra/DEV_ROOT/coding_practice/ai_agents/requirements.txt
+2025-12-14 06:57:25.387 [info] > ./.venv/bin/python ~/.vscode/extensions/ms-python.python-2025.20.0-linux-x64/python_files/installed_check.py ./requirements.txt
+2025-12-14 14:08:26.669 [info] Experiment 'pythonSurveyNotification' is active
+2025-12-14 14:08:26.995 [info] Native locator: Refresh started
+2025-12-14 14:08:26.995 [info] Native locator: Refresh started
+2025-12-14 14:08:28.293 [info] Active interpreter [/home/rudra/DEV_ROOT/AI-workbench]:  /bin/python3
+2025-12-14 14:08:28.451 [info] Native locator: Refresh finished in 1457 ms
+2025-12-14 14:08:28.465 [info] > pyenv which python
+2025-12-14 14:08:28.466 [info] cwd: .
+2025-12-14 14:08:30.002 [info] Starting Pylance language server.

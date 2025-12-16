@@ -1,0 +1,14 @@
+{
+  "environment": {
+    "executable": "/home/rudra/DEV_ROOT/coding_practice/ai_agents/.venv/bin/python",
+    "prefix": "/home/rudra/DEV_ROOT/coding_practice/ai_agents/.venv",
+    "version": "3.12.3.final.0",
+    "is64Bit": true,
+    "symlinks": [
+      "/home/rudra/DEV_ROOT/coding_practice/ai_agents/.venv/bin/python",
+      "/home/rudra/DEV_ROOT/coding_practice/ai_agents/.venv/bin/python3",
+      "/home/rudra/DEV_ROOT/coding_practice/ai_agents/.venv/bin/python3.12"
+    ]
+  },
+  "symlinks": []
+}

@@ -1,0 +1,149 @@
+{
+    "name": "shot000",
+    "subfolders":[
+        {
+            "name": "anim",
+            "subfolders": [
+                {
+                    "name": "houdini",
+                    "subfolders": [
+                        {"name": "cache"},
+                        {"name": "flipbook"},
+                        {"name": "renders"},
+                        {"name": "scenes"}
+                    ]
+                },
+                {
+                    "name": "maya",
+                    "subfolders": [
+                        {"name": "cache"},
+                        {"name": "playbast"},
+                        {"name": "renders"},
+                        {"name": "scenes"}
+                    ]
+                },
+                {
+                    "name": "nuke",
+                    "subfolders": [
+                        {"name": "cache"},
+                        {"name": "movie"},
+                        {"name": "renders"},
+                        {"name": "scenes"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "fx",
+            "subfolders": [
+                {
+                    "name": "houdini",
+                    "subfolders": [
+                        {"name": "cache"},
+                        {"name": "flipbook"},
+                        {"name": "renders"},
+                        {"name": "scenes"}
+                    ]
+                },
+                {
+                    "name": "maya",
+                    "subfolders": [
+                        {"name": "cache"},
+                        {"name": "playbast"},
+                        {"name": "renders"},
+                        {"name": "scenes"}
+                    ]
+                },
+                {
+                    "name": "nuke",
+                    "subfolders": [
+                        {"name": "cache"},
+                        {"name": "movie"},
+                        {"name": "renders"},
+                        {"name": "scenes"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "layout",
+            "subfolders": [
+                {
+                    "name": "houdini",
+                    "subfolders": [
+                        {"name": "cache"},
+                        {"name": "flipbook"},
+                        {"name": "renders"},
+                        {"name": "scenes"}
+                    ]
+                },
+                {
+                    "name": "maya",
+                    "subfolders": [
+                        {"name": "cache"},
+                        {"name": "playbast"},
+                        {"name": "renders"},
+                        {"name": "scenes"}
+                    ]
+                },
+                {
+                    "name": "nuke",
+                    "subfolders": [
+                        {"name": "cache"},
+                        {"name": "movie"},
+                        {"name": "renders"},
+                        {"name": "scenes"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "lighting",
+            "subfolders": [
+                {
+                    "name": "houdini",
+                    "subfolders": [
+                        {"name": "cache"},
+                        {"name": "flipbook"},
+                        {"name": "renders"},
+                        {"name": "scenes"}
+                    ]
+                },
+                {
+                    "name": "maya",
+                    "subfolders": [
+                        {"name": "cache"},
+                        {"name": "playbast"},
+                        {"name": "renders"},
+                        {"name": "scenes"}
+                    ]
+                },
+                {
+                    "name": "nuke",
+                    "subfolders": [
+                        {"name": "cache"},
+                        {"name": "movie"},
+                        {"name": "renders"},
+                        {"name": "scenes"}
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "comp",
+            "subfolders": [
+                {
+                    "name": "nuke",
+                    "subfolders": [
+                        {"name": "cache"},
+                        {"name": "movie"},
+                        {"name": "renders"},
+                        {"name": "scenes"}
+                    ]
+                }
+            ]
+        },
+        {"name": "scan"},
+        {"name": "camera"}
+    ]
+}

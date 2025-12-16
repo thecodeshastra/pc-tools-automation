@@ -1,0 +1,22 @@
+2025-12-16 08:28:17.050 [info] Extension host with pid 6931 started
+2025-12-16 08:28:17.050 [info] Skipping acquiring lock for /home/rudra/.config/Antigravity/User/workspaceStorage/b0ae564380c88334b0ea84e3adad0608.
+2025-12-16 08:28:17.479 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-16 08:28:17.499 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2025-12-16 08:28:17.512 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-12-16 08:28:17.603 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-12-16 08:28:17.901 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: google.antigravity
+2025-12-16 08:28:17.972 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2025-12-16 08:28:17.985 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: google.antigravity
+2025-12-16 08:28:18.045 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-16 08:28:18.166 [info] ExtensionService#_doActivateExtension google.antigravity, startup: true, activationEvent: '*'
+2025-12-16 08:28:18.873 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-12-16 08:28:22.484 [info] Eager extensions activated
+2025-12-16 08:28:22.503 [info] ExtensionService#_doActivateExtension google.antigravity-browser-launcher, startup: false, activationEvent: 'onStartupFinished'
+2025-12-16 08:28:22.506 [info] ExtensionService#_doActivateExtension Google LLC.antigravity-dev-containers, startup: false, activationEvent: 'onStartupFinished'
+2025-12-16 08:28:22.511 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-16 08:28:22.513 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-16 08:28:22.532 [info] ExtensionService#_doActivateExtension google.gemini-cli-vscode-ide-companion, startup: false, activationEvent: 'onStartupFinished'
+2025-12-16 08:28:22.654 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-12-16 08:28:22.671 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-12-16 08:31:40.129 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-16 08:31:40.152 [info] Extension host with pid 6931 exiting with code 0

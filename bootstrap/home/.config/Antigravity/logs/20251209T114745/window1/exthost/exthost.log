@@ -1,0 +1,47 @@
+2025-12-09 11:47:47.648 [info] Extension host with pid 18142 started
+2025-12-09 11:47:47.663 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'onCommand:antigravity.importVSCodeRecentWorkspaces', root cause: google.antigravity
+2025-12-09 11:47:47.672 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'onCommand:antigravity.importVSCodeRecentWorkspaces', root cause: google.antigravity
+2025-12-09 11:47:47.719 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2025-12-09 11:47:47.777 [info] ExtensionService#_doActivateExtension google.antigravity, startup: false, activationEvent: 'onCommand:antigravity.importVSCodeRecentWorkspaces'
+2025-12-09 11:47:48.637 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-12-09 11:47:49.637 [info] Eager extensions activated
+2025-12-09 11:47:49.647 [info] ExtensionService#_doActivateExtension google.antigravity-browser-launcher, startup: false, activationEvent: 'onStartupFinished'
+2025-12-09 11:47:49.650 [info] ExtensionService#_doActivateExtension Google LLC.antigravity-dev-containers, startup: false, activationEvent: 'onStartupFinished'
+2025-12-09 11:47:49.655 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-09 11:47:49.658 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-09 11:48:20.034 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-09 11:51:33.879 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-12-09 11:51:37.644 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-09 11:51:37.651 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-09 11:51:37.702 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-09 11:51:55.025 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-12-09 11:52:10.866 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-09 11:52:10.886 [info] Extension host with pid 18142 exiting with code 0
+2025-12-09 11:52:12.403 [info] Extension host with pid 21243 started
+2025-12-09 11:52:12.403 [info] Skipping acquiring lock for /home/rudra/.config/Antigravity/User/workspaceStorage/e8ac502ba45f3f09ff6f1d00f5d9ef15.
+2025-12-09 11:52:12.426 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: google.antigravity
+2025-12-09 11:52:12.433 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: google.antigravity
+2025-12-09 11:52:12.481 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-09 11:52:12.531 [info] ExtensionService#_doActivateExtension google.antigravity, startup: true, activationEvent: '*'
+2025-12-09 11:52:15.683 [info] ExtensionService#_doActivateExtension google.antigravity-browser-launcher, startup: false, activationEvent: 'onStartupFinished'
+2025-12-09 11:52:15.709 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'workspaceContains:requirements.txt'
+2025-12-09 11:52:15.899 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-09 11:52:15.907 [info] Extension host with pid 21243 exiting with code 0
+2025-12-09 11:52:16.905 [info] Extension host with pid 21406 started
+2025-12-09 11:52:16.906 [info] Skipping acquiring lock for /home/rudra/.config/Antigravity/User/workspaceStorage/e8ac502ba45f3f09ff6f1d00f5d9ef15.
+2025-12-09 11:52:16.923 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: google.antigravity
+2025-12-09 11:52:16.928 [info] ExtensionService#_doActivateExtension ms-python.python, startup: true, activationEvent: 'workspaceContains:requirements.txt'
+2025-12-09 11:52:17.137 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: google.antigravity
+2025-12-09 11:52:17.191 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-09 11:52:17.267 [info] ExtensionService#_doActivateExtension google.antigravity, startup: true, activationEvent: '*'
+2025-12-09 11:52:17.823 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-12-09 11:52:17.976 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-09 11:52:20.409 [info] Eager extensions activated
+2025-12-09 11:52:20.414 [info] ExtensionService#_doActivateExtension google.antigravity-browser-launcher, startup: false, activationEvent: 'onStartupFinished'
+2025-12-09 11:52:20.419 [info] ExtensionService#_doActivateExtension Google LLC.antigravity-dev-containers, startup: false, activationEvent: 'onStartupFinished'
+2025-12-09 11:52:20.423 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-09 11:52:20.426 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-09 11:52:20.442 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-12-09 11:52:20.456 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-12-09 11:52:33.626 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-09 11:52:33.648 [info] Extension host with pid 21406 exiting with code 0

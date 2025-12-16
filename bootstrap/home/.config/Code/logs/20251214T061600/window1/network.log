@@ -1,0 +1,4 @@
+2025-12-14 06:16:12.796 [error] #18: https://api.github.com/copilot_internal/user - error GET Canceled
+2025-12-14 06:46:36.594 [error] #24: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2025-12-14 11:41:15.276 [error] #90: https://main.vscode-cdn.net/extensions/chat.json - error GET Failed to fetch
+2025-12-14 12:46:28.775 [error] #103: https://main.vscode-cdn.net/extensions/chat.json - error GET Failed to fetch

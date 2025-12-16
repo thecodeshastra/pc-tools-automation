@@ -1,0 +1,16 @@
+2025-12-16 08:28:11.578 [info] Using Cloud Code URL: https://daily-cloudcode-pa.sandbox.googleapis.com
+2025-12-16 08:28:11.578 [info] [BrowserOnboardingClientMainService] Starting browser onboarding server
+2025-12-16 08:28:11.578 [info] [BrowserOnboardingClientServer] Browser onboarding server started on http://localhost:46439
+2025-12-16 08:28:11.578 [info] [CascadeMonitoringServer] Monitoring server started on http://localhost:9103/antigravity
+2025-12-16 08:28:11.578 [info] update#setState idle
+2025-12-16 08:28:14.291 [info] AntigravityAuthMainService initialized
+2025-12-16 08:28:19.315 [info] Pruning 0 of 0 trajectory summaries
+2025-12-16 08:28:22.817 [info] [AgentClientServer] Cascade initializing for worksapce file:///home/rudra/DEV_ROOT
+2025-12-16 08:28:22.817 [info] [AgentClientServer] Starting server
+2025-12-16 08:28:22.824 [info] [AgentClientServer] Read HTML file, length: 127
+2025-12-16 08:28:22.825 [info] [AgentClientServer] Cascade server started on http://localhost:9091
+2025-12-16 08:28:22.825 [info] [AgentClientServer] Cascade server started on port 9091
+2025-12-16 08:28:41.569 [info] update#setState checking for updates
+2025-12-16 08:28:41.872 [info] update#setState idle
+2025-12-16 08:31:40.152 [info] Extension host with pid 6931 exited with code: 0, signal: unknown.
+2025-12-16 08:31:41.153 [error] Extension host with pid 6931 still exists, forcefully killing it...

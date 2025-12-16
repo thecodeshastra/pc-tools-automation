@@ -1,0 +1,134 @@
+2025-12-16 08:19:50.284 [info] [main] Log level: Info
+2025-12-16 08:19:50.284 [info] [main] Validating found git in: "git"
+2025-12-16 08:19:50.284 [info] [main] Using git "2.43.0" from "git"
+2025-12-16 08:19:50.284 [info] [Model][doInitialScan] Initial repository scan started
+2025-12-16 08:19:50.284 [info] > git rev-parse --show-toplevel [9ms]
+2025-12-16 08:19:50.284 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-12-16 08:19:50.284 [info] > git rev-parse --show-toplevel [39ms]
+2025-12-16 08:19:50.286 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [6ms]
+2025-12-16 08:19:50.296 [info] [Model][openRepository] Opened repository (path): /home/rudra/DEV_ROOT/AI-workbench
+2025-12-16 08:19:50.296 [info] [Model][openRepository] Opened repository (real path): /home/rudra/DEV_ROOT/AI-workbench
+2025-12-16 08:19:50.296 [info] [Model][openRepository] Opened repository (kind): repository
+2025-12-16 08:19:50.314 [info] > git rev-parse --show-toplevel [3ms]
+2025-12-16 08:19:50.314 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-12-16 08:19:50.315 [info] > git config --get commit.template [10ms]
+2025-12-16 08:19:50.331 [info] > git rev-parse --show-toplevel [8ms]
+2025-12-16 08:19:50.331 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-12-16 08:19:50.340 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [10ms]
+2025-12-16 08:19:50.341 [info] > git rev-parse --show-toplevel [2ms]
+2025-12-16 08:19:50.341 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-12-16 08:19:50.363 [info] > git status -z -uall [10ms]
+2025-12-16 08:19:50.364 [info] > git rev-parse --show-toplevel [18ms]
+2025-12-16 08:19:50.372 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [9ms]
+2025-12-16 08:19:50.408 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [13ms]
+2025-12-16 08:19:50.414 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [44ms]
+2025-12-16 08:19:50.418 [info] [Model][openRepository] Opened repository (path): /home/rudra/DEV_ROOT/PC_TOOLS_AUTOMATION
+2025-12-16 08:19:50.418 [info] [Model][openRepository] Opened repository (real path): /home/rudra/DEV_ROOT/PC_TOOLS_AUTOMATION
+2025-12-16 08:19:50.418 [info] [Model][openRepository] Opened repository (kind): repository
+2025-12-16 08:19:50.452 [info] > git config --get --local branch.main.vscode-merge-base [38ms]
+2025-12-16 08:19:50.459 [info] > git config --get commit.template [51ms]
+2025-12-16 08:19:50.460 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [2ms]
+2025-12-16 08:19:50.468 [info] > git rev-parse --show-toplevel [17ms]
+2025-12-16 08:19:50.468 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-12-16 08:19:50.468 [info] > git config --get commit.template [23ms]
+2025-12-16 08:19:50.488 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [14ms]
+2025-12-16 08:19:50.488 [info] > git merge-base refs/heads/main refs/remotes/origin/main [21ms]
+2025-12-16 08:19:50.496 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2025-12-16 08:19:50.496 [info] > git rev-parse --show-toplevel [15ms]
+2025-12-16 08:19:50.496 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-12-16 08:19:50.502 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/rudra/DEV_ROOT/PC_TOOLS_AUTOMATION/.git/refs/remotes/origin/main'
+2025-12-16 08:19:50.503 [info] > git diff --name-status -z --diff-filter=ADMR 36da54c1fc0f74ae3e58714124147b1beab16cff...refs/remotes/origin/main [8ms]
+2025-12-16 08:19:50.510 [info] > git rev-parse refs/remotes/origin/main [8ms]
+2025-12-16 08:19:50.535 [info] > git status -z -uall [20ms]
+2025-12-16 08:19:50.535 [info] > git status -z -uall [6ms]
+2025-12-16 08:19:50.536 [info] > git rev-parse --show-toplevel [27ms]
+2025-12-16 08:19:50.543 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [21ms]
+2025-12-16 08:19:50.562 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [27ms]
+2025-12-16 08:19:50.565 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [12ms]
+2025-12-16 08:19:50.572 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [30ms]
+2025-12-16 08:19:50.576 [info] [Model][openRepository] Opened repository (path): /home/rudra/DEV_ROOT/career_assistant
+2025-12-16 08:19:50.576 [info] [Model][openRepository] Opened repository (real path): /home/rudra/DEV_ROOT/career_assistant
+2025-12-16 08:19:50.576 [info] [Model][openRepository] Opened repository (kind): repository
+2025-12-16 08:19:50.590 [info] > git config --get --local branch.main.vscode-merge-base [18ms]
+2025-12-16 08:19:50.590 [warning] [Git][config] git config failed: Failed to execute git
+2025-12-16 08:19:50.596 [info] > git config --get commit.template [35ms]
+2025-12-16 08:19:50.597 [info] > git rev-parse --show-toplevel [8ms]
+2025-12-16 08:19:50.597 [info] > git config --get commit.template [15ms]
+2025-12-16 08:19:50.611 [info] > git reflog main --grep-reflog=branch: Created from *. [14ms]
+2025-12-16 08:19:50.623 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [13ms]
+2025-12-16 08:19:50.627 [info] [Model][openRepository] Opened repository (path): /home/rudra/DEV_ROOT/coding_practice
+2025-12-16 08:19:50.627 [info] [Model][openRepository] Opened repository (real path): /home/rudra/DEV_ROOT/coding_practice
+2025-12-16 08:19:50.627 [info] [Model][openRepository] Opened repository (kind): repository
+2025-12-16 08:19:50.628 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [25ms]
+2025-12-16 08:19:50.646 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/rudra/DEV_ROOT/PC_TOOLS_AUTOMATION/.git/refs/remotes/origin/main'
+2025-12-16 08:19:50.646 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [23ms]
+2025-12-16 08:19:50.647 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [30ms]
+2025-12-16 08:19:50.660 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [8ms]
+2025-12-16 08:19:50.666 [info] > git rev-parse refs/remotes/origin/main [20ms]
+2025-12-16 08:19:50.679 [info] > git rev-parse --show-toplevel [39ms]
+2025-12-16 08:19:50.679 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-12-16 08:19:50.682 [info] [Model][doInitialScan] Initial repository scan completed - repositories (4), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-12-16 08:19:50.682 [info] > git config --get commit.template [49ms]
+2025-12-16 08:19:50.685 [info] > git status -z -uall [13ms]
+2025-12-16 08:19:50.685 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [6ms]
+2025-12-16 08:19:50.689 [info] > git config --add --local branch.main.vscode-merge-base origin/main [23ms]
+2025-12-16 08:19:50.728 [info] > git status -z -uall [8ms]
+2025-12-16 08:19:50.728 [info] > git config --get commit.template [24ms]
+2025-12-16 08:19:50.728 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [31ms]
+2025-12-16 08:19:50.737 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/rudra/DEV_ROOT/coding_practice/.git/refs/remotes/origin/main'
+2025-12-16 08:19:50.738 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [10ms]
+2025-12-16 08:19:50.762 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [15ms]
+2025-12-16 08:19:50.768 [info] > git rev-parse refs/remotes/origin/main [31ms]
+2025-12-16 08:19:50.787 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-12-16 08:19:50.787 [info] > git config --get --local branch.main.vscode-merge-base [19ms]
+2025-12-16 08:19:50.794 [info] > git config --get commit.template [32ms]
+2025-12-16 08:19:50.794 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [38ms]
+2025-12-16 08:19:50.828 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/rudra/DEV_ROOT/PC_TOOLS_AUTOMATION/.git/refs/remotes/origin/main'
+2025-12-16 08:19:50.828 [info] > git status -z -uall [51ms]
+2025-12-16 08:19:50.828 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [34ms]
+2025-12-16 08:19:50.858 [info] > git merge-base refs/heads/main refs/remotes/origin/main [22ms]
+2025-12-16 08:19:50.864 [info] > git rev-parse refs/remotes/origin/main [36ms]
+2025-12-16 08:19:50.897 [info] > git status -z -uall [26ms]
+2025-12-16 08:19:50.897 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [10ms]
+2025-12-16 08:19:50.904 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [26ms]
+2025-12-16 08:19:50.919 [info] > git diff --name-status -z --diff-filter=ADMR af2f51c17ac74089672c16c356e8542714d4e662...refs/remotes/origin/main [55ms]
+2025-12-16 08:19:50.920 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [63ms]
+2025-12-16 08:19:50.923 [info] > git merge-base refs/heads/main refs/remotes/origin/main [4ms]
+2025-12-16 08:19:50.929 [info] > git merge-base refs/heads/main refs/remotes/origin/main [17ms]
+2025-12-16 08:19:50.938 [info] > git config --get --local branch.main.vscode-merge-base [34ms]
+2025-12-16 08:19:50.944 [info] > git config --get commit.template [49ms]
+2025-12-16 08:19:50.945 [info] > git diff --name-status -z --diff-filter=ADMR 12b914080d490bc93f7c1c24e6528bf55ced65aa...refs/remotes/origin/main [8ms]
+2025-12-16 08:19:50.945 [info] > git diff --name-status -z --diff-filter=ADMR 12b914080d490bc93f7c1c24e6528bf55ced65aa...refs/remotes/origin/main [16ms]
+2025-12-16 08:19:50.954 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [10ms]
+2025-12-16 08:19:50.975 [info] > git status -z -uall [8ms]
+2025-12-16 08:19:50.975 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [22ms]
+2025-12-16 08:19:50.982 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/rudra/DEV_ROOT/coding_practice/.git/refs/remotes/origin/main'
+2025-12-16 08:19:50.982 [info] > git merge-base refs/heads/main refs/remotes/origin/main [22ms]
+2025-12-16 08:19:50.992 [info] > git rev-parse refs/remotes/origin/main [10ms]
+2025-12-16 08:19:51.006 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [32ms]
+2025-12-16 08:19:51.015 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [9ms]
+2025-12-16 08:19:51.015 [info] > git diff --name-status -z --diff-filter=ADMR 3cd9f0344c4c8f6cc17439444e6648a28d25b476...refs/remotes/origin/main [25ms]
+2025-12-16 08:19:51.041 [info] > git status -z -uall [43ms]
+2025-12-16 08:19:51.316 [info] > git check-ignore -v -z --stdin [23ms]
+2025-12-16 08:19:51.317 [info] > git check-ignore -v -z --stdin [17ms]
+2025-12-16 08:19:51.317 [info] > git check-ignore -v -z --stdin [10ms]
+2025-12-16 08:19:51.317 [info] > git check-ignore -v -z --stdin [3ms]
+2025-12-16 08:19:51.360 [info] > git show --textconv :src/agent_persona/coding-assistant.md [7ms]
+2025-12-16 08:19:51.361 [info] > git ls-files --stage -- src/agent_persona/coding-assistant.md [1ms]
+2025-12-16 08:19:51.370 [info] > git cat-file -s a3aacc79a030225524c3c59d3e307bbc44fee9cd [2ms]
+2025-12-16 08:19:51.583 [info] > git blame --root --incremental 36da54c1fc0f74ae3e58714124147b1beab16cff -- src/agent_persona/coding-assistant.md [5ms]
+2025-12-16 08:19:52.308 [info] > git rev-parse --show-toplevel [1ms]
+2025-12-16 08:19:52.308 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-12-16 08:19:52.353 [info] > git rev-parse --show-toplevel [2ms]
+2025-12-16 08:19:52.353 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-12-16 08:19:54.692 [info] > git check-ignore -v -z --stdin [2ms]
+2025-12-16 08:20:06.660 [info] > git rev-parse --show-toplevel [1ms]
+2025-12-16 08:20:06.660 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-12-16 08:20:07.079 [info] > git rev-parse --show-toplevel [12ms]
+2025-12-16 08:20:07.079 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-12-16 08:20:14.641 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [25ms]
+2025-12-16 08:20:14.643 [info] > git rev-parse --show-toplevel [2ms]
+2025-12-16 08:20:14.643 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-12-16 08:20:14.675 [info] > git rev-parse --show-toplevel [2ms]
+2025-12-16 08:20:14.675 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-12-16 08:20:15.221 [info] > git check-ignore -v -z --stdin [2ms]

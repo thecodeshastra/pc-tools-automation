@@ -1,0 +1,47 @@
+2025-12-09 11:47:45.102 [info] Using Cloud Code URL: https://daily-cloudcode-pa.sandbox.googleapis.com
+2025-12-09 11:47:45.105 [info] [BrowserOnboardingClientMainService] Starting browser onboarding server
+2025-12-09 11:47:45.195 [info] update#setState idle
+2025-12-09 11:47:45.196 [info] [BrowserOnboardingClientServer] Browser onboarding server started on http://localhost:46505
+2025-12-09 11:47:45.196 [info] [CascadeMonitoringServer] Monitoring server started on http://localhost:9101/antigravity
+2025-12-09 11:47:45.322 [error] Error refreshing user status No OAuth token available. User is not logged in, or token needs to be refreshed.
+2025-12-09 11:47:45.324 [info] AntigravityAuthMainService initialized
+2025-12-09 11:47:45.422 [info] Started initializing default profile extensions in extensions installation folder. file:///home/rudra/.antigravity/extensions
+2025-12-09 11:47:45.427 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/rudra/.antigravity/extensions
+2025-12-09 11:47:49.094 [info] Pruning 0 of 0 trajectory summaries
+2025-12-09 11:47:49.758 [info] [AgentClientServer] Cascade initializing for worksapce 
+2025-12-09 11:47:49.759 [info] [AgentClientServer] Starting server
+2025-12-09 11:47:49.767 [info] [AgentClientServer] Read HTML file, length: 127
+2025-12-09 11:47:49.768 [info] [AgentClientServer] Cascade server started on http://localhost:9092
+2025-12-09 11:47:49.768 [info] [AgentClientServer] Cascade server started on port 9092
+2025-12-09 11:48:15.195 [info] update#setState checking for updates
+2025-12-09 11:48:15.503 [info] update#setState idle
+2025-12-09 11:52:10.886 [info] Extension host with pid 18142 exited with code: 0, signal: unknown.
+2025-12-09 11:52:11.887 [error] Extension host with pid 18142 still exists, forcefully killing it...
+2025-12-09 11:52:15.908 [info] Extension host with pid 21243 exited with code: 0, signal: unknown.
+2025-12-09 11:52:16.908 [error] Extension host with pid 21243 still exists, forcefully killing it...
+2025-12-09 11:52:18.367 [info] Pruning 0 of 0 trajectory summaries
+2025-12-09 11:52:20.533 [info] [AgentClientServer] Cascade initializing for worksapce file:///home/rudra/DEV_ROOT/carrer_chat_assistant
+2025-12-09 11:52:20.533 [info] [AgentClientServer] Starting server
+2025-12-09 11:52:20.539 [info] [AgentClientServer] Read HTML file, length: 127
+2025-12-09 11:52:20.540 [info] [AgentClientServer] Cascade server started on http://localhost:9090
+2025-12-09 11:52:20.541 [info] [AgentClientServer] Cascade server started on port 9090
+2025-12-09 11:52:33.648 [info] Extension host with pid 21406 exited with code: 0, signal: unknown.
+2025-12-09 11:52:34.649 [error] Extension host with pid 21406 still exists, forcefully killing it...
+2025-12-09 12:48:15.199 [info] update#setState checking for updates
+2025-12-09 12:48:15.490 [info] update#setState idle
+2025-12-09 13:48:15.201 [info] update#setState checking for updates
+2025-12-09 13:48:15.529 [info] update#setState idle
+2025-12-09 14:48:15.206 [info] update#setState checking for updates
+2025-12-09 14:48:15.526 [info] update#setState idle
+2025-12-09 15:48:15.207 [info] update#setState checking for updates
+2025-12-09 15:48:15.587 [info] update#setState idle
+2025-12-09 16:48:15.216 [info] update#setState checking for updates
+2025-12-09 16:48:15.523 [info] update#setState idle
+2025-12-09 17:48:15.218 [info] update#setState checking for updates
+2025-12-09 17:48:15.543 [info] update#setState idle
+2025-12-09 18:48:15.227 [info] update#setState checking for updates
+2025-12-09 18:48:15.550 [info] update#setState idle
+2025-12-09 19:48:15.231 [info] update#setState checking for updates
+2025-12-09 19:48:15.555 [info] update#setState idle
+2025-12-09 20:48:15.232 [info] update#setState checking for updates
+2025-12-09 20:48:15.546 [info] update#setState idle

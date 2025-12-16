@@ -1,0 +1,13 @@
+2025-12-15 09:56:15.251 [info] Started local extension host with pid 14521.
+2025-12-15 09:56:16.081 [info] MCP Registry configured: https://api.mcp.github.com
+2025-12-15 09:56:16.900 [error] [Extension Host] (node:14521) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-12-15 09:56:16.901 [error] [Extension Host] (node:14521) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2025-12-15 09:56:16.969 [info] Settings Sync: Account status changed from uninitialized to available
+2025-12-15 09:56:17.550 [error] chatParticipant must be declared in package.json: claude-code
+2025-12-15 09:56:17.934 [info] [perf] Render performance baseline is 21ms
+2025-12-15 09:56:18.325 [error] [/home/rudra/.vscode/extensions/github.copilot-chat-0.35.0]: Extension is not compatible with Code 1.106.3. Extension requires: ^1.107.0-20251119.
+2025-12-15 09:56:18.542 [error] Failed to fetch MCP registry providers Server returned 404
+2025-12-15 09:56:44.677 [info] Auto updating outdated extensions. github.copilot-chat
+2025-12-15 09:56:45.813 [error] Cannot read the extension from /home/rudra/.vscode/extensions/github.copilot-chat-0.35.0: ScanningExtension: Cannot read the extension from /home/rudra/.vscode/extensions/github.copilot-chat-0.35.0
+    at Gh.scanLocalExtension (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:75166)

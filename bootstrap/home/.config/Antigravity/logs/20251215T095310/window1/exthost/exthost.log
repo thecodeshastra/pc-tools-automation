@@ -1,0 +1,122 @@
+2025-12-15 09:53:12.910 [info] Extension host with pid 13514 started
+2025-12-15 09:53:12.910 [info] Skipping acquiring lock for /home/rudra/.config/Antigravity/User/workspaceStorage/3475b300b74559965d005ca3fcf90e56.
+2025-12-15 09:53:13.349 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-15 09:53:13.383 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:pip-requirements'
+2025-12-15 09:53:13.557 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-12-15 09:53:13.792 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: google.antigravity
+2025-12-15 09:53:13.813 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: google.antigravity
+2025-12-15 09:53:13.861 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-15 09:53:13.978 [info] ExtensionService#_doActivateExtension google.antigravity, startup: true, activationEvent: '*'
+2025-12-15 09:53:14.721 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-12-15 09:53:17.781 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-15 09:53:17.796 [info] Extension host with pid 13514 exiting with code 0
+2025-12-15 09:53:19.055 [info] Extension host with pid 13780 started
+2025-12-15 09:53:19.055 [info] Skipping acquiring lock for /home/rudra/.config/Antigravity/User/workspaceStorage/b0ae564380c88334b0ea84e3adad0608.
+2025-12-15 09:53:19.077 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: google.antigravity
+2025-12-15 09:53:19.101 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: google.antigravity
+2025-12-15 09:53:19.149 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-15 09:53:19.217 [info] ExtensionService#_doActivateExtension google.antigravity, startup: true, activationEvent: '*'
+2025-12-15 09:53:19.629 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-15 09:53:20.078 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-12-15 09:53:20.138 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-12-15 09:53:22.893 [info] Eager extensions activated
+2025-12-15 09:53:22.924 [info] ExtensionService#_doActivateExtension google.antigravity-browser-launcher, startup: false, activationEvent: 'onStartupFinished'
+2025-12-15 09:53:22.929 [info] ExtensionService#_doActivateExtension Google LLC.antigravity-dev-containers, startup: false, activationEvent: 'onStartupFinished'
+2025-12-15 09:53:22.935 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-15 09:53:22.938 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-15 09:53:22.959 [info] ExtensionService#_doActivateExtension google.gemini-cli-vscode-ide-companion, startup: false, activationEvent: 'onStartupFinished'
+2025-12-15 09:53:23.061 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-12-15 09:53:23.076 [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-12-15 09:53:27.501 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: charliermarsh.ruff
+2025-12-15 09:53:27.700 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'onLanguage:python'
+2025-12-15 09:53:27.738 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+2025-12-15 09:53:28.017 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2025-12-15 09:53:28.120 [info] ExtensionService#_doActivateExtension charliermarsh.ruff, startup: false, activationEvent: 'onLanguage:python'
+2025-12-15 09:53:28.150 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-12-15 09:53:59.595 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2025-12-15 09:53:59.607 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-12-15 09:53:59.961 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2025-12-15 09:57:04.658 [error] Error: Model is disposed!
+    at g1.lb (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3035:303)
+    at g1.getVersionId (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3037:2486)
+    at Vcn.fetch (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3224:9306)
+    at gD._computeFn (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3224:24501)
+    at gD.get (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2794:9092)
+    at gD.reportChanges (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2794:546)
+    at Mlr.endUpdate (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2794:16734)
+    at gD.endUpdate (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2794:10482)
+    at pEe.finish (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2793:103634)
+    at $ia (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2793:103121)
+2025-12-15 09:57:07.990 [error] Error: Model is disposed!
+    at g1.lb (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3035:303)
+    at g1.getVersionId (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3037:2486)
+    at Vcn.fetch (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3224:9306)
+    at gD._computeFn (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3224:24501)
+    at gD.get (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2794:9092)
+    at gD.reportChanges (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2794:546)
+    at Mlr.endUpdate (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2794:16734)
+    at gD.endUpdate (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2794:10482)
+    at pEe.finish (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2793:103634)
+    at $ia (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2793:103121)
+2025-12-15 09:57:18.165 [error] Error: Model is disposed!
+    at g1.lb (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3035:303)
+    at g1.getVersionId (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3037:2486)
+    at Vcn.fetch (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3224:9306)
+    at gD._computeFn (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3224:24501)
+    at gD.get (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2794:9092)
+    at gD.reportChanges (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2794:546)
+    at Mlr.endUpdate (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2794:16734)
+    at gD.endUpdate (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2794:10482)
+    at pEe.finish (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2793:103634)
+    at $ia (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2793:103121)
+2025-12-15 09:58:00.895 [error] Error: Model is disposed!
+    at g1.lb (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3035:303)
+    at g1.getVersionId (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3037:2486)
+    at Vcn.fetch (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3224:9306)
+    at gD._computeFn (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3224:24501)
+    at gD.get (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2794:9092)
+    at gD.reportChanges (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2794:546)
+    at Mlr.endUpdate (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2794:16734)
+    at gD.endUpdate (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2794:10482)
+    at pEe.finish (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2793:103634)
+    at $ia (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2793:103121)
+2025-12-15 18:48:22.399 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-15 18:48:22.409 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-15 18:48:22.475 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-15 18:48:43.354 [error] Error: Model is disposed!
+    at g1.lb (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3035:303)
+    at g1.changeDecorations (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3043:3035)
+    at vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3243:6687
+    at vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2790:1134
+    at Object.dispose (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2771:627)
+    at jt (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2790:760)
+    at L$o.clear (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2790:1372)
+    at uTe.clearEdits (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3243:13847)
+    at Jgn.$clearInlineEdits (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3343:70368)
+    at mus.S (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:6831:38734)
+2025-12-15 19:47:28.400 [error] Error: Model is disposed!
+    at g1.lb (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3035:303)
+    at g1.getVersionId (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3037:2486)
+    at Vcn.fetch (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3224:9306)
+    at gD._computeFn (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:3224:24501)
+    at gD.get (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2794:9092)
+    at gD.reportChanges (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2794:546)
+    at Mlr.endUpdate (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2794:16734)
+    at gD.endUpdate (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2794:10482)
+    at pEe.finish (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2793:103634)
+    at $ia (vscode-file://vscode-app/usr/share/antigravity/resources/app/out/vs/workbench/workbench.desktop.main.js:2793:103121)
+2025-12-15 21:47:25.908 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-15 21:47:25.966 [error] TypeError: Cannot read properties of undefined (reading 'subscriptions')
+	at Object.X [as deactivate] (/home/rudra/.antigravity/extensions/ms-python.vscode-python-envs-1.10.0-universal/dist/extension.js:2:668378)
+	at khe.eb (file:///usr/share/antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:13070)
+	at file:///usr/share/antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11219
+	at Array.map (<anonymous>)
+	at khe.$ (file:///usr/share/antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11207)
+	at khe.terminate (file:///usr/share/antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11450)
+	at TG.terminate (file:///usr/share/antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:915)
+	at Fr (file:///usr/share/antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:14326)
+	at MessagePortMain.<anonymous> (file:///usr/share/antigravity/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:393:10595)
+	at MessagePortMain.emit (node:events:518:28)
+	at MessagePortMain.emit (node:domain:489:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-12-15 21:47:25.977 [info] Extension host with pid 13780 exiting with code 0

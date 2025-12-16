@@ -1,0 +1,107 @@
+{
+    "subfolders": [
+        {
+            "name": "assets",
+            "copy_files": [
+                "PROJECT_ROOT\\assets_hierarchy.bat",
+                "PROJECT_ROOT\\assets_hierarchy.sh"
+            ],
+            "subfolders": "PROJECT_ROOT\\assets_hierarchy.json"
+        },
+        {
+            "name": "Sequences",
+            "copy_files": [
+                "PROJECT_ROOT\\sequence_hierarchy.bat"
+            ],
+            "subfolders": "PROJECT_ROOT\\sequence_hierarchy.json"
+        },
+        {
+            "name": "resources",
+            "subfolders": [
+                {"name": "references"},
+                {"name": "lights"},
+                {"name": "other"},
+                {"name": "docs"}
+            ]
+        },
+        {
+            "name": "IO",
+            "subfolders": [
+                {
+                    "name": "client",
+                    "subfolders": [
+                        {
+                            "name": "incoming",
+                            "subfolders": [
+                                {"name": "ddmmyyyy"}
+                            ]
+                        },
+                        {
+                            "name": "outgoing",
+                            "subfolders": [
+                                {"name": "ddmmyyyy"}
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "freelancers",
+                    "subfolders": [
+                        {
+                            "name": "incoming",
+                            "subfolders": [
+                                {"name": "ddmmyyyy"}
+                            ]
+                        },
+                        {
+                            "name": "outgoing",
+                            "subfolders": [
+                                {"name": "ddmmyyyy"}
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "users",
+                    "subfolders": [
+                        {
+                            "name": "incoming",
+                            "subfolders": [
+                                {"name": "ddmmyyyy"}
+                            ]
+                        },
+                        {
+                            "name": "outgoing",
+                            "subfolders": [
+                                {"name": "ddmmyyyy"}
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "vendor",
+                    "subfolders": [
+                        {
+                            "name": "incoming",
+                            "subfolders": [
+                                {"name": "ddmmyyyy"}
+                            ]
+                        },
+                        {
+                            "name": "outgoing",
+                            "subfolders": [
+                                {"name": "ddmmyyyy"}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "pipeline"
+        },
+        {
+            "name": "rnd"
+        }
+    ]
+}
