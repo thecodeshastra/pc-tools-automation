@@ -1,0 +1,4 @@
+notion_client
+slugify
+python-dotenv
+decouple
