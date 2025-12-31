@@ -1,4 +1,4 @@
 notion_client
 slugify
 python-dotenv
-decouple
+python-decouple
