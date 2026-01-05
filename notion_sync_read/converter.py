@@ -1,5 +1,8 @@
 """Convert Notion blocks to Markdown format"""
 
+# notion_sync_automation module
+from notion_sync_read.constants import PropertyType
+
 
 def rich_text_to_md(rich_text: list) -> str:
     """
@@ -17,7 +20,7 @@ def rich_text_to_md(rich_text: list) -> str:
     parts = []
 
     for span in rich_text:
-        text = span.get("plain_text", "")
+        text = span.get(PropertyType.PLAIN_TEXT, "")
         ann = span.get("annotations", {})
 
         # Inline code has highest priority
@@ -44,16 +47,16 @@ def rich_text_to_md(rich_text: list) -> str:
         if span.get("href"):
             text = f"[{text}]({span['href']})"
         # mentions
-        if span["type"] == "mention":
+        if span[PropertyType.TYPE] == "mention":
             mention = span["mention"]
 
-            if mention["type"] == "page":
+            if mention[PropertyType.TYPE] == "page":
                 text = f"@{mention['page']['id']}"
 
-            elif mention["type"] == "user":
+            elif mention[PropertyType.TYPE] == "user":
                 text = "@user"
 
-            elif mention["type"] == "date":
+            elif mention[PropertyType.TYPE] == "date":
                 text = mention["date"].get("start", "")
 
         parts.append(text)
@@ -75,7 +78,7 @@ def table_to_md(block: dict) -> str | None:
 
     for row in rows:
         cells = row["table_row"]["cells"]
-        table.append([" ".join(r["plain_text"] for r in cell) for cell in cells])
+        table.append([" ".join(r[PropertyType.PLAIN_TEXT] for r in cell) for cell in cells])
 
     if not table:
         return None
@@ -101,35 +104,35 @@ def block_to_md(block: dict, indent: int = 0) -> str | None:
     Returns:
         str | None: The markdown representation of the block or None if unsupported
     """
-    t = block["type"]
+    t = block[PropertyType.TYPE]
     b = block[t]
     prefix = " " * indent
 
     if t == "heading_1":
-        return "# " + rich_text_to_md(b["rich_text"])
+        return "# " + rich_text_to_md(b[PropertyType.RICH_TEXT])
 
     if t == "heading_2":
-        return "## " + rich_text_to_md(b["rich_text"])
+        return "## " + rich_text_to_md(b[PropertyType.RICH_TEXT])
 
     if t == "heading_3":
-        return "### " + rich_text_to_md(b["rich_text"])
+        return "### " + rich_text_to_md(b[PropertyType.RICH_TEXT])
 
     if t == "paragraph":
-        text = rich_text_to_md(b["rich_text"])
+        text = rich_text_to_md(b[PropertyType.RICH_TEXT])
         return text if text else None
 
     if t == "bulleted_list_item":
-        return f"{prefix}- {rich_text_to_md(b['rich_text'])}"
+        return f"{prefix}- {rich_text_to_md(b[PropertyType.RICH_TEXT])}"
 
     if t == "numbered_list_item":
-        return f"{prefix}1. {rich_text_to_md(b['rich_text'])}"
+        return f"{prefix}1. {rich_text_to_md(b[PropertyType.RICH_TEXT])}"
 
     if t == "quote":
-        return f"{prefix}> {rich_text_to_md(b['rich_text'])}"
+        return f"{prefix}> {rich_text_to_md(b[PropertyType.RICH_TEXT])}"
 
     if t == "code":
         lang = b.get("language", "")
-        code = rich_text_to_md(b["rich_text"])
+        code = rich_text_to_md(b[PropertyType.RICH_TEXT])
         return f"{prefix} ```{lang}\n{code}\n```"
 
     if t == "divider":
@@ -137,7 +140,7 @@ def block_to_md(block: dict, indent: int = 0) -> str | None:
 
     if t == "callout":
         icon = b.get("icon", {}).get("emoji", "")
-        text = rich_text_to_md(b["rich_text"])
+        text = rich_text_to_md(b[PropertyType.RICH_TEXT])
         return f"{prefix} > {icon} {text}"
 
     if t == "table":

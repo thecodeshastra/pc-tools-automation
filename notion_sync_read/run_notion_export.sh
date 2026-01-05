@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Environment variable: path to notion_sync_automation folder
-NOTION_SYNC_SOURCE="/home/rudra/DEV_ROOT/PC-Tools-Automation/notion_sync_automation"
+# Environment variable: path to notion_sync_read folder
+NOTION_SYNC_SOURCE="/home/rudra/DEV_ROOT/PC-Tools-Automation/notion_sync_read"
 
 # Get the directory where this script is running
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
@@ -14,11 +14,13 @@ if [[ ! -d "$SOURCE_PATH" ]]; then
     exit 1
 fi
 
+echo "Source path: $SOURCE_PATH"
 # Files to copy
 FILES_TO_COPY=(
     "sync_notion_export.py"
     "converter.py"
     "constants.py"
+    "extract_properties.py"
     "__init__.py"
     "requirements.txt"
 )
@@ -27,7 +29,7 @@ FILES_TO_COPY=(
 COPIED_FILES=()
 
 # Use current working directory as destination
-WORK_DIR="$RUN_DIR/notion_sync_automation"
+WORK_DIR="$RUN_DIR/notion_sync_read"
 [ -d "$WORK_DIR" ] || mkdir "$WORK_DIR"
 echo "Working directory: $WORK_DIR"
 
@@ -47,7 +49,7 @@ done
 if [[ -f "$WORK_DIR/requirements.txt" ]]; then
     echo ""
     echo "Installing requirements..."
-    if pip install -q -r "$WORK_DIR/requirements.txt"; then
+    if uv pip install -r "$WORK_DIR/requirements.txt"; then
         echo "  ✓ Requirements installed successfully"
     else
         echo "  ✗ Failed to install requirements"
