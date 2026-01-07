@@ -1,6 +1,0 @@
-2025-12-15 09:56:14.562 [error] Invalid path provided: /home/rudra/DEV_ROOT/AI-workbench, ENOENT: no such file or directory, stat '/home/rudra/DEV_ROOT/AI-workbench'
-2025-12-15 09:56:14.563 [info] update#setState idle
-2025-12-15 09:56:44.541 [info] update#setState checking for updates
-2025-12-15 09:56:44.647 [info] update#setState available for download
-2025-12-15 10:00:40.951 [info] Extension host with pid 14521 exited with code: 0, signal: unknown.
-2025-12-15 10:00:41.042 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 14495]: crashed with code 15 and reason 'killed'

@@ -23,16 +23,8 @@ install_antigravity
 install_pcoip_client
 
 # restore home folder
-log "Restoring home folder"
-if [[ -d "$HOME_FOLDER" ]]; then
-  log "Restoring home files"
-  rsync -aAXHv --numeric-ids \
-    --exclude=".cache" \
-    --exclude=".local/share/Trash" \
-    "$HOME_FOLDER/" "$HOME/"
-else
-  warn "Home backup not found"
-fi
+source "$ROOT_DIR/restore_home.sh"
+restore_home_folder
 
 # Update permissions
 fix_permissions() {

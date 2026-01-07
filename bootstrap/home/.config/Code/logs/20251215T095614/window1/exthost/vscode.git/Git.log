@@ -1,7 +1,0 @@
-2025-12-15 09:56:17.191 [info] [main] Log level: Info
-2025-12-15 09:56:17.191 [info] [main] Validating found git in: "git"
-2025-12-15 09:56:17.191 [info] [main] Using git "2.43.0" from "git"
-2025-12-15 09:56:17.191 [info] [Model][doInitialScan] Initial repository scan started
-2025-12-15 09:56:17.191 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
-2025-12-15 10:00:17.768 [info] > git rev-parse --show-toplevel [2ms]
-2025-12-15 10:00:17.768 [info] fatal: this operation must be run in a work tree

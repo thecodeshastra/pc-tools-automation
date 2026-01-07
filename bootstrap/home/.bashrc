@@ -19,7 +19,10 @@ fi
 # Alias custom
 # generic
 alias .='cd ..'
-alias cdev='cd DEV_ROOT'
+alias dev='cd DEV_ROOT'
+alias work='cd DEV_ROOT/WORKSPACE'
+alias sy='cd SATTVIC_YANTRA_ROOT'
+alias sywork='cd SATTVIC_YANTRA_ROOT/WORKSPACE'
 
 # office
 alias somum='cd DEV_ROOT/SOFTWARES/vpn_dneg_config && sudo openvpn mumbai_dneg.ovpn'
@@ -38,18 +41,22 @@ alias gccp='git clone git@github.com:thecodeshastra/coding_practice.git'
 alias gcaw='git clone git@github.com:thecodeshastra/AI-workbench.git'
 alias gcpta='git clone git@github.com:thecodeshastra/PC_TOOLS_AUTOMATION.git'
 
+# env vars
+export DEV_ROOT='/home/rudra/DEV_ROOT'
+export DEV_WORK='$DEV_ROOT/WORKSPACE'
+export SY_ROOT='/home/rudra/SATTVIC_YANTRA_ROOT'
+export SY_WORK='$SY_ROOT/WORKSPACE'
+export PYTHONPATH='$DEV_WORK/PortfolioToolsAndAutomation/src/common':$PYTHONPATH
+
 # apps
 alias z='zoom'
 alias pc='pcoip-client'
 alias tor_browser='/home/rudra/Downloads/tor-browser/start-tor-browser.desktop'
-alias renamer='/home/rudra/DEV_ROOT/SOFTWARES/inviska_rename.AppImage'
-alias qbittorrent='/home/rudra/DEV_ROOT/SOFTWARES/qbittorrent.AppImage'
-alias kdenlive='/home/rudra/DEV_ROOT/SOFTWARES/kdenlive.AppImage'
+alias renamer='$DEV_ROOT/SOFTWARES/inviska_rename.AppImage'
+alias qbittorrent='$DEV_ROOT/SOFTWARES/qbittorrent.AppImage'
+alias kdenlive='$DEV_ROOT/SOFTWARES/kdenlive.AppImage'
 
-# env vars
-export DEV_ROOT='/home/rudra/DEV_ROOT'
-export PYTHONPATH='$DEV_ROOT/PortfolioToolsAndAutomation/src/common':$PYTHONPATH
-
+# Git branch in prompt
 parse_git_branch() {
   git rev-parse --abbrev-ref HEAD >& /dev/null && echo ":{`git rev-parse --abbrev-ref HEAD`}"
 }

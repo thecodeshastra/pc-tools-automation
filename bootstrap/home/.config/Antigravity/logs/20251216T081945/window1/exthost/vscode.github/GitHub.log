@@ -1,6 +1,0 @@
-2025-12-16 08:19:50.333 [info] Log level: Info
-2025-12-16 08:19:50.946 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
-2025-12-16 08:19:50.991 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
-2025-12-16 08:19:51.016 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
-2025-12-16 08:19:51.017 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
-2025-12-16 08:20:14.722 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for thecodeshastra/career_assistant: Error: No GitHub authentication session available.
