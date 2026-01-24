@@ -7,7 +7,23 @@ PATHS_TO_BACKUP=(
     ".bashrc"
     ".gitconfig"
     ".local/share/fonts"
+    ".local/share/icons/hicolor/256x256/apps/noisetorch.png"
+    ".local/share/applications/noisetorch.desktop"
+    ".local/bin/noisetorch"
     ".ssh"
+    ".config/Antigravity/User/icons"
+    ".config/Antigravity/User/snippets"
+    ".config/Antigravity/User/settings.json"
+    ".config/gh"
+    ".config/git"
+    ".config/noisetorch"
+    ".config/sublime-text"
+    ".gemini/antigravity/global_workflows"
+    ".gemini/antigravity/knowledge"
+    ".gemini/antigravity/mcp_config.json"
+    ".gemini/antigravity/user_settings.pb"
+    ".gemini/GEMINI.md"
+    ".gemini/settings.json"
 )
 
 # backup home folder

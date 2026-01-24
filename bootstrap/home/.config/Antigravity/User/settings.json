@@ -1,0 +1,40 @@
+{
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "editor.fontFamily": "JetBrains Mono",
+    "terminal.integrated.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": false,
+    "workbench.productIconTheme": "material-product-icons",
+    "workbench.colorTheme": "One Dark Pro Monokai Darker",
+    "workbench.iconTheme": "material-icon-theme",
+    "material-icon-theme.folders.associations": {
+        // "automation": "../../../../icons/automation_dir"
+        "automation": "./../folder-molecule"
+    },
+    "python.defaultInterpreterPath": "/usr/bin/python3",
+    "python.autoComplete.extraPaths": [
+        "C:\\Program Files\\Side Effects Software\\Houdini 20.5.445\\houdini\\python3.11libs",
+        "C:\\Program Files\\Katana8.0v2\\bin\\python",
+        "C:\\Program Files\\Nuke15.1v5\\lib\\site-packages",
+        "C:\\Program Files\\Autodesk\\Maya2025\\Python\\Lib\\site-packages",
+        "C:\\Program Files\\Adobe\\Adobe Substance 3D Painter\\resources\\python\\modules"
+    ],
+    "terminal.integrated.suggest.enabled": true,
+    "editor.codeActionsOnSave": {},
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python-envs.pythonProjects": [],
+    "python.createEnvironment.trigger": "off",
+    "roo-cline.allowedCommands": [
+        "git log",
+        "git diff",
+        "git show"
+    ],
+    "roo-cline.deniedCommands": [],
+    "kilo-code.allowedCommands": [
+        "git log",
+        "git diff",
+        "git show"
+    ],
+    "kilo-code.deniedCommands": [],
+    
+}

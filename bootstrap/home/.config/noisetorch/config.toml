@@ -1,0 +1,7 @@
+Threshold = 95
+DisplayMonitorSources = false
+EnableUpdates = true
+FilterInput = true
+FilterOutput = false
+LastUsedInput = "bluez_input.B6_C7_3A_C8_CB_90.0"
+LastUsedOutput = ""

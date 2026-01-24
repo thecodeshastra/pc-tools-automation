@@ -1,0 +1,21 @@
+# general dependencies
+requests
+setuptools
+python-slugify
+
+# encryption and security
+cryptography
+cython
+pyarmor
+hmac
+hashlib
+
+# pixar usd packages
+usd-core
+
+# package management
+wheels
+
+# notion integration
+notion_client
+

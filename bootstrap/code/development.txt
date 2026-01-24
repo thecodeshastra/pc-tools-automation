@@ -1,0 +1,22 @@
+# Base Requirements
+-r base.txt
+
+# Code Quality Tools
+black
+ruff
+isort
+mypy
+django-stubs
+djangorestframework-stubs
+
+# Pre-commit Hooks
+pre-commit
+
+# Development Tools
+django-debug-toolbar
+django-extensions
+ipython
+ipdb
+
+# Testing (for development)
+-r testing.txt

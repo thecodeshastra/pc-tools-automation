@@ -1,0 +1,20 @@
+# Base Requirements
+-r base.txt
+
+# Testing Framework
+pytest
+pytest-django
+pytest-cov
+pytest-mock
+pytest-xdist
+
+# Test Data & Fixtures
+factory-boy
+faker
+
+# API Testing
+requests
+httpx
+
+# Performance Testing
+pytest-benchmark

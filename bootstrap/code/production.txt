@@ -1,0 +1,6 @@
+# Base Requirements
+-r base.txt
+
+# Production Server
+gunicorn
+uvicorn

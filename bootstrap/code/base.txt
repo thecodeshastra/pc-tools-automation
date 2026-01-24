@@ -1,0 +1,19 @@
+# Basic Utils
+python-dotenv
+python-decouple
+
+# Django
+Django==6.0.1
+psycopg[binary]
+dj-database-url
+
+# DRF & API
+djangorestframework
+djangorestframework-simplejwt
+django-cors-headers
+drf-spectacular
+
+# Security & Monitoring
+django-ratelimit
+django-environ
+sentry-sdk

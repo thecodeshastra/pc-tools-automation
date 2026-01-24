@@ -16,4 +16,13 @@ restore_home_folder() {
     fi
 }
 
+# Update permissions
+fix_permissions() {
+  log "Fixing permissions"
+  chmod 700 "$HOME/.ssh" 2>/dev/null || true
+  chmod 600 "$HOME/.ssh/"* 2>/dev/null || true
+  sudo chown -R "$USER:$USER" "$HOME"
+}
+
 restore_home_folder
+fix_permissions
