@@ -8,6 +8,7 @@ PARENT_DIR="$(dirname "$ROOT_DIR")"
 
 # read other module files
 # development tools
+source "$ROOT_DIR/tools/ulla.sh"
 source "$ROOT_DIR/config.sh"
 source "$ROOT_DIR/tools/uv.sh"
 source "$ROOT_DIR/tools/nvm_npm.sh"
@@ -25,6 +26,7 @@ log "Starting workstation bootstrap"
 
 # running the install base function
 install_base_packages
+install_ulla
 # IDE
 install_antigravity
 install_vscode

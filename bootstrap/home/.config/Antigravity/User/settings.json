@@ -4,12 +4,16 @@
     "editor.fontFamily": "JetBrains Mono",
     "terminal.integrated.fontFamily": "JetBrains Mono",
     "editor.fontLigatures": false,
-    "workbench.productIconTheme": "material-product-icons",
     "workbench.colorTheme": "One Dark Pro Monokai Darker",
     "workbench.iconTheme": "material-icon-theme",
     "material-icon-theme.folders.associations": {
         // "automation": "../../../../icons/automation_dir"
         "automation": "./../folder-molecule"
+    },
+    "markdownlint.config": {
+        "MD024": {
+            "siblings_only": true
+        }
     },
     "python.defaultInterpreterPath": "/usr/bin/python3",
     "python.autoComplete.extraPaths": [
@@ -36,5 +40,6 @@
         "git show"
     ],
     "kilo-code.deniedCommands": [],
-    
+    "editor.inlineSuggest.showToolbar": "always",
+    // "[markdown]": { "editor.formatOnSave": false },
 }

@@ -1,0 +1,595 @@
+{
+	"file_history":
+	[
+		"/home/rudra/Downloads/git-workflows.md",
+		"/home/rudra/DEV_ROOT/workspace/pc-tools-automation/bootstrap/tools/rar.sh",
+		"/home/rudra/Downloads/gitlab-recovery-codes.txt",
+		"/home/rudra/Downloads/Changelog-Best-Practices.md",
+		"/home/rudra/Downloads/GitLab-CLI-Quick-Ref.md",
+		"/home/rudra/Downloads/beacd1ca-8a93-4a37-937b-7a9bd8035730_ExportBlock-d9861369-4a7a-4f34-a09e-208c60998bef/ExportBlock-d9861369-4a7a-4f34-a09e-208c60998bef-Part-1/rar 2a0bd2c63399808db41dc72139a5c8f2.md",
+		"/home/rudra/.bashrc",
+		"/home/rudra/.gitconfig",
+		"/home/rudra/SATTVICYANTRA_ROOT/deprecated/web-dev-template/docs-site/Dockerfile",
+		"/home/rudra/.ssh/config",
+		"/home/rudra/.ssh/thecodeshastra_gitlab",
+		"/home/rudra/.ssh/thecodeshastra_gitlab.pub",
+		"/home/rudra/.ssh/thecodeshastra_github",
+		"/home/rudra/.ssh/known_hosts",
+		"/home/rudra/.ssh/authorized_keys",
+		"/home/rudra/.config/Antigravity/User/snippets/python.json",
+		"/home/rudra/.config/Antigravity/User/settings.json",
+		"/home/rudra/.config/zoom.conf",
+		"/home/rudra/.config/sublime-text/Packages/User/Default Dark.sublime-theme",
+		"/home/rudra/.config/sublime-text/Packages/Theme - Default/Default Dark.sublime-theme",
+		"/home/rudra/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+		"/home/rudra/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+		"/home/rudra/.config/noisetorch/config.toml",
+		"/home/rudra/.config/gh/hosts.yml",
+		"/home/rudra/.config/gh/config.yml",
+		"/home/rudra/.config/git/gitk",
+		"/home/rudra/.gemini/antigravity/mcp_config.json",
+		"/home/rudra/.profile",
+		"/home/rudra/.gemini/antigravity/annotations/fd34cc48-bbfb-4351-bb94-6b2d9ab2688a.pbtxt",
+		"/home/rudra/.gemini/antigravity/browserAllowlist.txt",
+		"/home/rudra/.gemini/antigravity/browserOnboardingStatus.txt",
+		"/home/rudra/.gemini/antigravity/installation_id",
+		"/home/rudra/Downloads/GitHub-CLI-Quick-Ref.md",
+		"/home/rudra/Downloads/Git-VCS-Guide.md",
+		"/home/rudra/Downloads/Git-VCS-Playbook.md",
+		"/home/rudra/.antigravity/extensions/pkief.material-icon-theme-5.30.0/dist/material-icons.json",
+		"/home/rudra/.config/Code/User/settings.json",
+		"/home/rudra/.vscode/extensions/pkief.material-icon-theme-5.30.0/dist/material-icons.json",
+		"/home/rudra/.vscode/extensions/pkief.material-icon-theme-5.30.0/package.json",
+		"/home/rudra/.vscode/extensions/pkief.material-icon-theme-5.30.0/package.nls.zh-TW.json",
+		"/home/rudra/Downloads/building_custom_gpt.md",
+		"/home/rudra/.vscode/extensions/pkief.material-icon-theme-5.30.0/readme.md",
+		"/home/rudra/Downloads/subtitle (29).txt",
+		"/home/rudra/Downloads/subtitle (28).txt",
+		"/home/rudra/Downloads/subtitle (27).txt",
+		"/home/rudra/Downloads/subtitle (26).txt",
+		"/home/rudra/Downloads/subtitle (25).txt",
+		"/home/rudra/Downloads/subtitle (24).txt",
+		"/home/rudra/Downloads/subtitle (23).txt",
+		"/home/rudra/Downloads/subtitle (22).txt",
+		"/home/rudra/Downloads/subtitle (21).txt",
+		"/home/rudra/Downloads/subtitle (20).txt",
+		"/home/rudra/Downloads/subtitle (19).txt",
+		"/home/rudra/Downloads/subtitle (18).txt",
+		"/home/rudra/Downloads/subtitle (17).txt",
+		"/home/rudra/Downloads/subtitle (16).txt",
+		"/home/rudra/Downloads/subtitle (15).txt",
+		"/home/rudra/Downloads/subtitle (14).txt",
+		"/home/rudra/Downloads/subtitle (13).txt",
+		"/home/rudra/Downloads/subtitle (12).txt",
+		"/home/rudra/Downloads/subtitle (11).txt",
+		"/home/rudra/Downloads/subtitle (10).txt",
+		"/home/rudra/Downloads/subtitle (9).txt",
+		"/home/rudra/Downloads/subtitle (8).txt",
+		"/home/rudra/Downloads/subtitle (7).txt",
+		"/home/rudra/Downloads/subtitle (6).txt",
+		"/home/rudra/Downloads/subtitle (5).txt",
+		"/home/rudra/Downloads/subtitle (4).txt",
+		"/home/rudra/Downloads/subtitle (2).txt",
+		"/home/rudra/Downloads/subtitle (3).txt"
+	],
+	"folder_history":
+	[
+	],
+	"last_version": 4200,
+	"last_window_id": 4,
+	"log_indexing": false,
+	"next_update_check": 1769498701,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 0.0,
+		"new_window_maximized": true,
+		"new_window_position":
+		[
+			0.0,
+			107.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 124.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/rudra/SATTVICYANTRA_ROOT/platform/agentic-toolbox/src/prompts/pipeline/ad_genisus/pipeline_architect.md",
+				"/home/rudra/DEV_ROOT/workspace/pc-tools-automation/bootstrap/tools/rar.sh",
+				"/home/rudra/Downloads/gitlab-recovery-codes.txt",
+				"/home/rudra/Downloads/Changelog-Best-Practices.md",
+				"/home/rudra/Downloads/GitLab-CLI-Quick-Ref.md",
+				"/home/rudra/Downloads/beacd1ca-8a93-4a37-937b-7a9bd8035730_ExportBlock-d9861369-4a7a-4f34-a09e-208c60998bef/ExportBlock-d9861369-4a7a-4f34-a09e-208c60998bef-Part-1/rar 2a0bd2c63399808db41dc72139a5c8f2.md",
+				"/home/rudra/.bashrc",
+				"/home/rudra/.gitconfig",
+				"/home/rudra/SATTVICYANTRA_ROOT/deprecated/web-dev-template/docs-site/Dockerfile",
+				"/home/rudra/.ssh/config",
+				"/home/rudra/.ssh/thecodeshastra_gitlab",
+				"/home/rudra/.ssh/thecodeshastra_gitlab.pub",
+				"/home/rudra/.ssh/thecodeshastra_github",
+				"/home/rudra/.ssh/known_hosts",
+				"/home/rudra/.ssh/authorized_keys",
+				"/home/rudra/.config/Antigravity/User/snippets/python.json",
+				"/home/rudra/.config/Antigravity/User/settings.json",
+				"/home/rudra/.config/zoom.conf",
+				"/home/rudra/.config/noisetorch/config.toml",
+				"/home/rudra/.config/gh/hosts.yml",
+				"/home/rudra/.config/gh/config.yml",
+				"/home/rudra/.config/git/gitk",
+				"/home/rudra/.gemini/antigravity/mcp_config.json",
+				"/home/rudra/.profile",
+				"/home/rudra/.gemini/antigravity/annotations/fd34cc48-bbfb-4351-bb94-6b2d9ab2688a.pbtxt",
+				"/home/rudra/.gemini/antigravity/browserAllowlist.txt",
+				"/home/rudra/.gemini/antigravity/browserOnboardingStatus.txt",
+				"/home/rudra/.gemini/antigravity/installation_id",
+				"/home/rudra/Downloads/GitHub-CLI-Quick-Ref.md",
+				"/home/rudra/Downloads/Git-VCS-Guide.md",
+				"/home/rudra/Downloads/Git-VCS-Playbook.md",
+				"/home/rudra/.antigravity/extensions/pkief.material-icon-theme-5.30.0/dist/material-icons.json",
+				"/home/rudra/.config/Code/User/settings.json",
+				"/home/rudra/.vscode/extensions/pkief.material-icon-theme-5.30.0/dist/material-icons.json",
+				"/home/rudra/.vscode/extensions/pkief.material-icon-theme-5.30.0/package.json",
+				"/home/rudra/.vscode/extensions/pkief.material-icon-theme-5.30.0/package.nls.zh-TW.json",
+				"/home/rudra/Downloads/building_custom_gpt.md",
+				"/home/rudra/.vscode/extensions/pkief.material-icon-theme-5.30.0/readme.md",
+				"/home/rudra/Downloads/subtitle (29).txt",
+				"/home/rudra/Downloads/subtitle (28).txt",
+				"/home/rudra/Downloads/subtitle (27).txt",
+				"/home/rudra/Downloads/subtitle (26).txt",
+				"/home/rudra/Downloads/subtitle (25).txt",
+				"/home/rudra/Downloads/subtitle (24).txt",
+				"/home/rudra/Downloads/subtitle (23).txt",
+				"/home/rudra/Downloads/subtitle (22).txt",
+				"/home/rudra/Downloads/subtitle (21).txt",
+				"/home/rudra/Downloads/subtitle (20).txt",
+				"/home/rudra/Downloads/subtitle (19).txt",
+				"/home/rudra/Downloads/subtitle (18).txt",
+				"/home/rudra/Downloads/subtitle (17).txt",
+				"/home/rudra/Downloads/subtitle (16).txt",
+				"/home/rudra/Downloads/subtitle (15).txt",
+				"/home/rudra/Downloads/subtitle (14).txt",
+				"/home/rudra/Downloads/subtitle (13).txt",
+				"/home/rudra/Downloads/subtitle (12).txt",
+				"/home/rudra/Downloads/subtitle (11).txt",
+				"/home/rudra/Downloads/subtitle (10).txt",
+				"/home/rudra/Downloads/subtitle (9).txt",
+				"/home/rudra/Downloads/subtitle (8).txt",
+				"/home/rudra/Downloads/subtitle (7).txt",
+				"/home/rudra/Downloads/subtitle (6).txt",
+				"/home/rudra/Downloads/subtitle (5).txt",
+				"/home/rudra/Downloads/subtitle (4).txt",
+				"/home/rudra/Downloads/subtitle (2).txt",
+				"/home/rudra/Downloads/subtitle (3).txt"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"interactive",
+					"hook",
+					"submodules",
+					"clean",
+					"git archieve"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/rudra/SATTVICYANTRA_ROOT/platform/agentic-toolbox/src/prompts/pipeline/ad_genisus/pipeline_architect.md",
+					"settings":
+					{
+						"buffer_size": 3856,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 124.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/rudra/Downloads/git-workflows.md",
+				"/home/rudra/DEV_ROOT/workspace/pc-tools-automation/bootstrap/tools/rar.sh",
+				"/home/rudra/Downloads/gitlab-recovery-codes.txt",
+				"/home/rudra/Downloads/Changelog-Best-Practices.md",
+				"/home/rudra/Downloads/GitLab-CLI-Quick-Ref.md",
+				"/home/rudra/Downloads/beacd1ca-8a93-4a37-937b-7a9bd8035730_ExportBlock-d9861369-4a7a-4f34-a09e-208c60998bef/ExportBlock-d9861369-4a7a-4f34-a09e-208c60998bef-Part-1/rar 2a0bd2c63399808db41dc72139a5c8f2.md",
+				"/home/rudra/.bashrc",
+				"/home/rudra/.gitconfig",
+				"/home/rudra/SATTVICYANTRA_ROOT/deprecated/web-dev-template/docs-site/Dockerfile",
+				"/home/rudra/.ssh/config",
+				"/home/rudra/.ssh/thecodeshastra_gitlab",
+				"/home/rudra/.ssh/thecodeshastra_gitlab.pub",
+				"/home/rudra/.ssh/thecodeshastra_github",
+				"/home/rudra/.ssh/known_hosts",
+				"/home/rudra/.ssh/authorized_keys",
+				"/home/rudra/.config/Antigravity/User/snippets/python.json",
+				"/home/rudra/.config/Antigravity/User/settings.json",
+				"/home/rudra/.config/zoom.conf",
+				"/home/rudra/.config/noisetorch/config.toml",
+				"/home/rudra/.config/gh/hosts.yml",
+				"/home/rudra/.config/gh/config.yml",
+				"/home/rudra/.config/git/gitk",
+				"/home/rudra/.gemini/antigravity/mcp_config.json",
+				"/home/rudra/.profile",
+				"/home/rudra/.gemini/antigravity/annotations/fd34cc48-bbfb-4351-bb94-6b2d9ab2688a.pbtxt",
+				"/home/rudra/.gemini/antigravity/browserAllowlist.txt",
+				"/home/rudra/.gemini/antigravity/browserOnboardingStatus.txt",
+				"/home/rudra/.gemini/antigravity/installation_id",
+				"/home/rudra/Downloads/GitHub-CLI-Quick-Ref.md",
+				"/home/rudra/Downloads/Git-VCS-Guide.md",
+				"/home/rudra/Downloads/Git-VCS-Playbook.md",
+				"/home/rudra/.antigravity/extensions/pkief.material-icon-theme-5.30.0/dist/material-icons.json",
+				"/home/rudra/.config/Code/User/settings.json",
+				"/home/rudra/.vscode/extensions/pkief.material-icon-theme-5.30.0/dist/material-icons.json",
+				"/home/rudra/.vscode/extensions/pkief.material-icon-theme-5.30.0/package.json",
+				"/home/rudra/.vscode/extensions/pkief.material-icon-theme-5.30.0/package.nls.zh-TW.json",
+				"/home/rudra/Downloads/building_custom_gpt.md",
+				"/home/rudra/.vscode/extensions/pkief.material-icon-theme-5.30.0/readme.md",
+				"/home/rudra/Downloads/subtitle (29).txt",
+				"/home/rudra/Downloads/subtitle (28).txt",
+				"/home/rudra/Downloads/subtitle (27).txt",
+				"/home/rudra/Downloads/subtitle (26).txt",
+				"/home/rudra/Downloads/subtitle (25).txt",
+				"/home/rudra/Downloads/subtitle (24).txt",
+				"/home/rudra/Downloads/subtitle (23).txt",
+				"/home/rudra/Downloads/subtitle (22).txt",
+				"/home/rudra/Downloads/subtitle (21).txt",
+				"/home/rudra/Downloads/subtitle (20).txt",
+				"/home/rudra/Downloads/subtitle (19).txt",
+				"/home/rudra/Downloads/subtitle (18).txt",
+				"/home/rudra/Downloads/subtitle (17).txt",
+				"/home/rudra/Downloads/subtitle (16).txt",
+				"/home/rudra/Downloads/subtitle (15).txt",
+				"/home/rudra/Downloads/subtitle (14).txt",
+				"/home/rudra/Downloads/subtitle (13).txt",
+				"/home/rudra/Downloads/subtitle (12).txt",
+				"/home/rudra/Downloads/subtitle (11).txt",
+				"/home/rudra/Downloads/subtitle (10).txt",
+				"/home/rudra/Downloads/subtitle (9).txt",
+				"/home/rudra/Downloads/subtitle (8).txt",
+				"/home/rudra/Downloads/subtitle (7).txt",
+				"/home/rudra/Downloads/subtitle (6).txt",
+				"/home/rudra/Downloads/subtitle (5).txt",
+				"/home/rudra/Downloads/subtitle (4).txt",
+				"/home/rudra/Downloads/subtitle (2).txt",
+				"/home/rudra/Downloads/subtitle (3).txt"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"interactive",
+					"hook",
+					"submodules",
+					"clean",
+					"git archieve"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/rudra/SATTVICYANTRA_ROOT/platform/agentic-toolbox/src/prompts/pipeline/ad_genisus/pipeline_architect.md",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3856,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"pinned_build_system": "",
+			"position": "0,1,1,0,0,0,32,1920,1033,3840,1080,0",
+			"project": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

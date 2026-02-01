@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
-		"Theme - Monokai Pro"
+		"Package Control",
+		"Theme - Monokai Pro",
 	],
 }

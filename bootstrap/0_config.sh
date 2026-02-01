@@ -17,7 +17,9 @@ APT_PACKAGES=(
   # database
   postgresql
   postgresql-contrib
-  # 
+  # github, gitlab cli
+  gh
+  glab
 )
 
 log() {

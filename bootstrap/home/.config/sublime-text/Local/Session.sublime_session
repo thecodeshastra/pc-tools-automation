@@ -1,63 +1,13 @@
 {
 	"file_history":
 	[
-		"/home/rudra/.config/Antigravity/User/snippets/python.json",
-		"/home/rudra/.config/Antigravity/User/settings.json",
-		"/home/rudra/.bashrc",
-		"/home/rudra/.config/zoom.conf",
-		"/home/rudra/.config/sublime-text/Packages/User/Default Dark.sublime-theme",
-		"/home/rudra/.config/sublime-text/Packages/Theme - Default/Default Dark.sublime-theme",
-		"/home/rudra/.config/sublime-text/Packages/User/Preferences.sublime-settings",
-		"/home/rudra/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
-		"/home/rudra/.config/noisetorch/config.toml",
-		"/home/rudra/.config/gh/hosts.yml",
-		"/home/rudra/.config/gh/config.yml",
-		"/home/rudra/.config/git/gitk",
-		"/home/rudra/.gemini/antigravity/mcp_config.json",
-		"/home/rudra/.profile",
-		"/home/rudra/.gemini/antigravity/annotations/fd34cc48-bbfb-4351-bb94-6b2d9ab2688a.pbtxt",
-		"/home/rudra/.gemini/antigravity/browserAllowlist.txt",
-		"/home/rudra/.gemini/antigravity/browserOnboardingStatus.txt",
-		"/home/rudra/.gemini/antigravity/installation_id",
-		"/home/rudra/Downloads/GitHub-CLI-Quick-Ref.md",
-		"/home/rudra/.gitconfig",
-		"/home/rudra/Downloads/Git-VCS-Guide.md",
-		"/home/rudra/Downloads/Git-VCS-Playbook.md",
-		"/home/rudra/.antigravity/extensions/pkief.material-icon-theme-5.30.0/dist/material-icons.json",
-		"/home/rudra/.config/Code/User/settings.json",
-		"/home/rudra/.vscode/extensions/pkief.material-icon-theme-5.30.0/dist/material-icons.json",
-		"/home/rudra/.vscode/extensions/pkief.material-icon-theme-5.30.0/package.json",
-		"/home/rudra/.vscode/extensions/pkief.material-icon-theme-5.30.0/package.nls.zh-TW.json",
-		"/home/rudra/Downloads/building_custom_gpt.md",
-		"/home/rudra/.vscode/extensions/pkief.material-icon-theme-5.30.0/readme.md",
-		"/home/rudra/Downloads/subtitle (29).txt",
-		"/home/rudra/Downloads/subtitle (28).txt",
-		"/home/rudra/Downloads/subtitle (27).txt",
-		"/home/rudra/Downloads/subtitle (26).txt",
-		"/home/rudra/Downloads/subtitle (25).txt",
-		"/home/rudra/Downloads/subtitle (24).txt",
-		"/home/rudra/Downloads/subtitle (23).txt",
-		"/home/rudra/Downloads/subtitle (22).txt",
-		"/home/rudra/Downloads/subtitle (21).txt",
-		"/home/rudra/Downloads/subtitle (20).txt",
-		"/home/rudra/Downloads/subtitle (19).txt",
-		"/home/rudra/Downloads/subtitle (18).txt",
-		"/home/rudra/Downloads/subtitle (17).txt",
-		"/home/rudra/Downloads/subtitle (16).txt",
-		"/home/rudra/Downloads/subtitle (15).txt",
-		"/home/rudra/Downloads/subtitle (14).txt",
-		"/home/rudra/Downloads/subtitle (13).txt",
-		"/home/rudra/Downloads/subtitle (12).txt",
-		"/home/rudra/Downloads/subtitle (11).txt",
-		"/home/rudra/Downloads/subtitle (10).txt",
-		"/home/rudra/Downloads/subtitle (9).txt",
-		"/home/rudra/Downloads/subtitle (8).txt",
-		"/home/rudra/Downloads/subtitle (7).txt",
-		"/home/rudra/Downloads/subtitle (6).txt",
-		"/home/rudra/Downloads/subtitle (5).txt",
-		"/home/rudra/Downloads/subtitle (4).txt",
-		"/home/rudra/Downloads/subtitle (2).txt",
-		"/home/rudra/Downloads/subtitle (3).txt"
+		"/home/rudra/Downloads/workflow_guides.md",
+		"/home/rudra/Downloads/product_description.md",
+		"/home/rudra/Downloads/competitive_analysis.md",
+		"/home/rudra/Downloads/automation_workflow.md",
+		"/home/rudra/Downloads/how_vc_works.md",
+		"/home/rudra/Downloads/decision_making.md",
+		"/home/rudra/Downloads/product_definition.md"
 	],
 	"folder_history":
 	[
@@ -65,16 +15,16 @@
 	"last_version": 4200,
 	"last_window_id": 4,
 	"log_indexing": false,
-	"next_update_check": 1769325901,
+	"next_update_check": 1770011870,
 	"settings":
 	{
 		"new_window_full_screen": false,
-		"new_window_height": 0.0,
-		"new_window_maximized": true,
+		"new_window_height": 600.0,
+		"new_window_maximized": false,
 		"new_window_position":
 		[
-			0.0,
-			107.0
+			100.0,
+			207.0
 		],
 		"new_window_settings":
 		{
@@ -119,9 +69,86 @@
 			},
 			"file_history":
 			[
-				"/home/rudra/.config/Antigravity/User/snippets/python.json",
+				"/home/rudra/.config/glab-cli/aliases.yml",
+				"/home/rudra/Downloads/workflow_guides.md",
+				"/home/rudra/Downloads/product_description.md",
+				"/home/rudra/Downloads/competitive_analysis.md",
+				"/home/rudra/Downloads/automation_workflow.md",
+				"/home/rudra/Downloads/how_vc_works.md",
+				"/home/rudra/Downloads/decision_making.md",
+				"/home/rudra/Downloads/product_definition.md",
+				"/home/rudra/Downloads/diagrams.md",
+				"/home/rudra/Downloads/siagrams",
+				"/home/rudra/Downloads/competitive_analysis_new.md",
+				"/home/rudra/Downloads/Automation_enginerring_instructor.md",
+				"/home/rudra/Downloads/open_ai_emial_system.md",
+				"/home/rudra/Downloads/Email Triage System_anthropic.md",
+				"/home/rudra/Downloads/open_ai_new_email_system.md",
+				"/home/rudra/Downloads/email_prio_manager.md",
+				"/home/rudra/Downloads/4af7c6b6-5f2f-40e1-b848-986d3c144185_ExportBlock-a908cc38-6ea9-4f5e-ba78-897f4e0c15a6/ExportBlock-a908cc38-6ea9-4f5e-ba78-897f4e0c15a6-Part-1/AI Agent 2d2bd2c6339980b2a99bce494e77a795.md",
+				"/home/rudra/Downloads/prompt-techniques-cheatsheet.md",
+				"/home/rudra/Downloads/4a518ddc-3046-486f-9bf0-8db7a9aaeddb_ExportBlock-1c0f4034-75d2-4f0a-9cb4-cea7397164e1/ExportBlock-1c0f4034-75d2-4f0a-9cb4-cea7397164e1-Part-1/AI Foundations 2d2bd2c6339980158923fd702dc81324.md",
+				"/home/rudra/Downloads/Trustworthy Generative AI.md",
+				"/home/rudra/Downloads/subtitle (11).txt",
+				"/home/rudra/Downloads/subtitle (10).txt",
+				"/home/rudra/Downloads/subtitle (9).txt",
+				"/home/rudra/Downloads/subtitle (8).txt",
+				"/home/rudra/Downloads/subtitle (7).txt",
+				"/home/rudra/Downloads/subtitle (6).txt",
+				"/home/rudra/Downloads/subtitle (5).txt",
+				"/home/rudra/Downloads/subtitle (4).txt",
+				"/home/rudra/Downloads/subtitle (3).txt",
+				"/home/rudra/Downloads/subtitle (2).txt",
+				"/home/rudra/Downloads/subtitle (1).txt",
+				"/home/rudra/Downloads/subtitle.txt",
+				"/home/rudra/Downloads/Backend_Engineering_Mental_Map.md",
+				"/home/rudra/.gitconfig",
+				"/home/rudra/Downloads/devops-complete-career-cheat-sheet.md",
 				"/home/rudra/.config/Antigravity/User/settings.json",
+				"/home/rudra/Downloads/PM/Complete-PM-Steps-Quick-Notes.md",
+				"/home/rudra/Downloads/08_ROUNDTRIP_WORKFLOW.md",
+				"/home/rudra/Downloads/document_workflow.md",
+				"/home/rudra/Downloads/02_BACKEND_WORKFLOW.md",
+				"/home/rudra/Downloads/10_AI_ASSISTANT_INSTRUCTIONS.md",
+				"/home/rudra/Downloads/01_SYSTEM_OVERVIEW.md",
+				"/home/rudra/Downloads/markdown.md",
+				"/home/rudra/Downloads/linux-quick-notes.md",
+				"/home/rudra/Downloads/python-linting.md",
+				"/home/rudra/Downloads/python-coding-style.md",
+				"/home/rudra/Downloads/mkdocs.md",
+				"/home/rudra/Downloads/sphinx.md",
+				"/home/rudra/Downloads/documentation.md",
+				"/home/rudra/Downloads/docusaurus.md",
+				"/home/rudra/Downloads/python-packaging.md",
+				"/home/rudra/Downloads/swagger.md",
+				"/home/rudra/Downloads/rst.md",
+				"/home/rudra/Downloads/ssh.md",
+				"/home/rudra/Downloads/ssh-keygen.md",
+				"/home/rudra/Downloads/5620a047-5f40-476d-9d00-371ce25a2f5e_ExportBlock-9d0c35a3-6081-413e-bb9e-2107194aa63d/ExportBlock-9d0c35a3-6081-413e-bb9e-2107194aa63d-Part-1/Python Module 249bd2c63399809c8047d7a29761d222.md",
+				"/home/rudra/Downloads/api-keys.md",
+				"/home/rudra/Downloads/f55fd0fa-aef8-4f2d-8b72-0e45f2999b62_ExportBlock-c25aed2a-2623-4a75-9976-92967784522f/ExportBlock-c25aed2a-2623-4a75-9976-92967784522f-Part-1/Troubleshooting & Debugging 249bd2c633998095942ec9d95d1d0d3b.md",
+				"/home/rudra/Downloads/tox.md",
+				"/home/rudra/Downloads/cdb04422-ce55-4df1-84f3-fe38e372f41c_ExportBlock-97e6b6ad-a8c3-442a-959d-3346ed0995e8/ExportBlock-97e6b6ad-a8c3-442a-959d-3346ed0995e8-Part-1/Programming Fundamentals 257bd2c6339980028368f6debd93dd63.md",
+				"/home/rudra/Downloads/config-mgmt.md",
+				"/home/rudra/Downloads/json.md",
+				"/home/rudra/Downloads/yaml.md",
+				"/home/rudra/Downloads/xml.md",
+				"/home/rudra/SATTVICYANTRA_ROOT/platform/agentic-toolbox/src/prompts/pipeline/ad_genisus/pipeline_architect.md",
+				"/home/rudra/Downloads/git-workflows.md",
+				"/home/rudra/DEV_ROOT/workspace/pc-tools-automation/bootstrap/tools/rar.sh",
+				"/home/rudra/Downloads/gitlab-recovery-codes.txt",
+				"/home/rudra/Downloads/Changelog-Best-Practices.md",
+				"/home/rudra/Downloads/GitLab-CLI-Quick-Ref.md",
+				"/home/rudra/Downloads/beacd1ca-8a93-4a37-937b-7a9bd8035730_ExportBlock-d9861369-4a7a-4f34-a09e-208c60998bef/ExportBlock-d9861369-4a7a-4f34-a09e-208c60998bef-Part-1/rar 2a0bd2c63399808db41dc72139a5c8f2.md",
 				"/home/rudra/.bashrc",
+				"/home/rudra/SATTVICYANTRA_ROOT/deprecated/web-dev-template/docs-site/Dockerfile",
+				"/home/rudra/.ssh/config",
+				"/home/rudra/.ssh/thecodeshastra_gitlab",
+				"/home/rudra/.ssh/thecodeshastra_gitlab.pub",
+				"/home/rudra/.ssh/thecodeshastra_github",
+				"/home/rudra/.ssh/known_hosts",
+				"/home/rudra/.ssh/authorized_keys",
+				"/home/rudra/.config/Antigravity/User/snippets/python.json",
 				"/home/rudra/.config/zoom.conf",
 				"/home/rudra/.config/noisetorch/config.toml",
 				"/home/rudra/.config/gh/hosts.yml",
@@ -134,7 +161,6 @@
 				"/home/rudra/.gemini/antigravity/browserOnboardingStatus.txt",
 				"/home/rudra/.gemini/antigravity/installation_id",
 				"/home/rudra/Downloads/GitHub-CLI-Quick-Ref.md",
-				"/home/rudra/.gitconfig",
 				"/home/rudra/Downloads/Git-VCS-Guide.md",
 				"/home/rudra/Downloads/Git-VCS-Playbook.md",
 				"/home/rudra/.antigravity/extensions/pkief.material-icon-theme-5.30.0/dist/material-icons.json",
@@ -161,17 +187,7 @@
 				"/home/rudra/Downloads/subtitle (15).txt",
 				"/home/rudra/Downloads/subtitle (14).txt",
 				"/home/rudra/Downloads/subtitle (13).txt",
-				"/home/rudra/Downloads/subtitle (12).txt",
-				"/home/rudra/Downloads/subtitle (11).txt",
-				"/home/rudra/Downloads/subtitle (10).txt",
-				"/home/rudra/Downloads/subtitle (9).txt",
-				"/home/rudra/Downloads/subtitle (8).txt",
-				"/home/rudra/Downloads/subtitle (7).txt",
-				"/home/rudra/Downloads/subtitle (6).txt",
-				"/home/rudra/Downloads/subtitle (5).txt",
-				"/home/rudra/Downloads/subtitle (4).txt",
-				"/home/rudra/Downloads/subtitle (2).txt",
-				"/home/rudra/Downloads/subtitle (3).txt"
+				"/home/rudra/Downloads/subtitle (12).txt"
 			],
 			"find":
 			{
@@ -189,6 +205,10 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"SignalDesk",
+					"---",
+					"# ",
+					"#",
 					"interactive",
 					"hook",
 					"submodules",
@@ -201,6 +221,10 @@
 				"regex": false,
 				"replace_history":
 				[
+					"AttentionFilter",
+					"",
+					"## ",
+					"##"
 				],
 				"reverse": false,
 				"scrollbar_highlights": true,
@@ -269,7 +293,7 @@
 			{
 			}
 		},
-		"new_window_width": 0.0
+		"new_window_width": 800.0
 	},
 	"windows":
 	[
@@ -282,6 +306,14 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/home/rudra/.config/glab-cli/aliases.yml",
+					"settings":
+					{
+						"buffer_size": 32,
+						"line_ending": "Unix"
+					}
+				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -319,9 +351,85 @@
 			},
 			"file_history":
 			[
-				"/home/rudra/.config/Antigravity/User/snippets/python.json",
+				"/home/rudra/Downloads/workflow_guides.md",
+				"/home/rudra/Downloads/product_description.md",
+				"/home/rudra/Downloads/competitive_analysis.md",
+				"/home/rudra/Downloads/automation_workflow.md",
+				"/home/rudra/Downloads/how_vc_works.md",
+				"/home/rudra/Downloads/decision_making.md",
+				"/home/rudra/Downloads/product_definition.md",
+				"/home/rudra/Downloads/diagrams.md",
+				"/home/rudra/Downloads/siagrams",
+				"/home/rudra/Downloads/competitive_analysis_new.md",
+				"/home/rudra/Downloads/Automation_enginerring_instructor.md",
+				"/home/rudra/Downloads/open_ai_emial_system.md",
+				"/home/rudra/Downloads/Email Triage System_anthropic.md",
+				"/home/rudra/Downloads/open_ai_new_email_system.md",
+				"/home/rudra/Downloads/email_prio_manager.md",
+				"/home/rudra/Downloads/4af7c6b6-5f2f-40e1-b848-986d3c144185_ExportBlock-a908cc38-6ea9-4f5e-ba78-897f4e0c15a6/ExportBlock-a908cc38-6ea9-4f5e-ba78-897f4e0c15a6-Part-1/AI Agent 2d2bd2c6339980b2a99bce494e77a795.md",
+				"/home/rudra/Downloads/prompt-techniques-cheatsheet.md",
+				"/home/rudra/Downloads/4a518ddc-3046-486f-9bf0-8db7a9aaeddb_ExportBlock-1c0f4034-75d2-4f0a-9cb4-cea7397164e1/ExportBlock-1c0f4034-75d2-4f0a-9cb4-cea7397164e1-Part-1/AI Foundations 2d2bd2c6339980158923fd702dc81324.md",
+				"/home/rudra/Downloads/Trustworthy Generative AI.md",
+				"/home/rudra/Downloads/subtitle (11).txt",
+				"/home/rudra/Downloads/subtitle (10).txt",
+				"/home/rudra/Downloads/subtitle (9).txt",
+				"/home/rudra/Downloads/subtitle (8).txt",
+				"/home/rudra/Downloads/subtitle (7).txt",
+				"/home/rudra/Downloads/subtitle (6).txt",
+				"/home/rudra/Downloads/subtitle (5).txt",
+				"/home/rudra/Downloads/subtitle (4).txt",
+				"/home/rudra/Downloads/subtitle (3).txt",
+				"/home/rudra/Downloads/subtitle (2).txt",
+				"/home/rudra/Downloads/subtitle (1).txt",
+				"/home/rudra/Downloads/subtitle.txt",
+				"/home/rudra/Downloads/Backend_Engineering_Mental_Map.md",
+				"/home/rudra/.gitconfig",
+				"/home/rudra/Downloads/devops-complete-career-cheat-sheet.md",
 				"/home/rudra/.config/Antigravity/User/settings.json",
+				"/home/rudra/Downloads/PM/Complete-PM-Steps-Quick-Notes.md",
+				"/home/rudra/Downloads/08_ROUNDTRIP_WORKFLOW.md",
+				"/home/rudra/Downloads/document_workflow.md",
+				"/home/rudra/Downloads/02_BACKEND_WORKFLOW.md",
+				"/home/rudra/Downloads/10_AI_ASSISTANT_INSTRUCTIONS.md",
+				"/home/rudra/Downloads/01_SYSTEM_OVERVIEW.md",
+				"/home/rudra/Downloads/markdown.md",
+				"/home/rudra/Downloads/linux-quick-notes.md",
+				"/home/rudra/Downloads/python-linting.md",
+				"/home/rudra/Downloads/python-coding-style.md",
+				"/home/rudra/Downloads/mkdocs.md",
+				"/home/rudra/Downloads/sphinx.md",
+				"/home/rudra/Downloads/documentation.md",
+				"/home/rudra/Downloads/docusaurus.md",
+				"/home/rudra/Downloads/python-packaging.md",
+				"/home/rudra/Downloads/swagger.md",
+				"/home/rudra/Downloads/rst.md",
+				"/home/rudra/Downloads/ssh.md",
+				"/home/rudra/Downloads/ssh-keygen.md",
+				"/home/rudra/Downloads/5620a047-5f40-476d-9d00-371ce25a2f5e_ExportBlock-9d0c35a3-6081-413e-bb9e-2107194aa63d/ExportBlock-9d0c35a3-6081-413e-bb9e-2107194aa63d-Part-1/Python Module 249bd2c63399809c8047d7a29761d222.md",
+				"/home/rudra/Downloads/api-keys.md",
+				"/home/rudra/Downloads/f55fd0fa-aef8-4f2d-8b72-0e45f2999b62_ExportBlock-c25aed2a-2623-4a75-9976-92967784522f/ExportBlock-c25aed2a-2623-4a75-9976-92967784522f-Part-1/Troubleshooting & Debugging 249bd2c633998095942ec9d95d1d0d3b.md",
+				"/home/rudra/Downloads/tox.md",
+				"/home/rudra/Downloads/cdb04422-ce55-4df1-84f3-fe38e372f41c_ExportBlock-97e6b6ad-a8c3-442a-959d-3346ed0995e8/ExportBlock-97e6b6ad-a8c3-442a-959d-3346ed0995e8-Part-1/Programming Fundamentals 257bd2c6339980028368f6debd93dd63.md",
+				"/home/rudra/Downloads/config-mgmt.md",
+				"/home/rudra/Downloads/json.md",
+				"/home/rudra/Downloads/yaml.md",
+				"/home/rudra/Downloads/xml.md",
+				"/home/rudra/SATTVICYANTRA_ROOT/platform/agentic-toolbox/src/prompts/pipeline/ad_genisus/pipeline_architect.md",
+				"/home/rudra/Downloads/git-workflows.md",
+				"/home/rudra/DEV_ROOT/workspace/pc-tools-automation/bootstrap/tools/rar.sh",
+				"/home/rudra/Downloads/gitlab-recovery-codes.txt",
+				"/home/rudra/Downloads/Changelog-Best-Practices.md",
+				"/home/rudra/Downloads/GitLab-CLI-Quick-Ref.md",
+				"/home/rudra/Downloads/beacd1ca-8a93-4a37-937b-7a9bd8035730_ExportBlock-d9861369-4a7a-4f34-a09e-208c60998bef/ExportBlock-d9861369-4a7a-4f34-a09e-208c60998bef-Part-1/rar 2a0bd2c63399808db41dc72139a5c8f2.md",
 				"/home/rudra/.bashrc",
+				"/home/rudra/SATTVICYANTRA_ROOT/deprecated/web-dev-template/docs-site/Dockerfile",
+				"/home/rudra/.ssh/config",
+				"/home/rudra/.ssh/thecodeshastra_gitlab",
+				"/home/rudra/.ssh/thecodeshastra_gitlab.pub",
+				"/home/rudra/.ssh/thecodeshastra_github",
+				"/home/rudra/.ssh/known_hosts",
+				"/home/rudra/.ssh/authorized_keys",
+				"/home/rudra/.config/Antigravity/User/snippets/python.json",
 				"/home/rudra/.config/zoom.conf",
 				"/home/rudra/.config/noisetorch/config.toml",
 				"/home/rudra/.config/gh/hosts.yml",
@@ -334,7 +442,6 @@
 				"/home/rudra/.gemini/antigravity/browserOnboardingStatus.txt",
 				"/home/rudra/.gemini/antigravity/installation_id",
 				"/home/rudra/Downloads/GitHub-CLI-Quick-Ref.md",
-				"/home/rudra/.gitconfig",
 				"/home/rudra/Downloads/Git-VCS-Guide.md",
 				"/home/rudra/Downloads/Git-VCS-Playbook.md",
 				"/home/rudra/.antigravity/extensions/pkief.material-icon-theme-5.30.0/dist/material-icons.json",
@@ -361,17 +468,7 @@
 				"/home/rudra/Downloads/subtitle (15).txt",
 				"/home/rudra/Downloads/subtitle (14).txt",
 				"/home/rudra/Downloads/subtitle (13).txt",
-				"/home/rudra/Downloads/subtitle (12).txt",
-				"/home/rudra/Downloads/subtitle (11).txt",
-				"/home/rudra/Downloads/subtitle (10).txt",
-				"/home/rudra/Downloads/subtitle (9).txt",
-				"/home/rudra/Downloads/subtitle (8).txt",
-				"/home/rudra/Downloads/subtitle (7).txt",
-				"/home/rudra/Downloads/subtitle (6).txt",
-				"/home/rudra/Downloads/subtitle (5).txt",
-				"/home/rudra/Downloads/subtitle (4).txt",
-				"/home/rudra/Downloads/subtitle (2).txt",
-				"/home/rudra/Downloads/subtitle (3).txt"
+				"/home/rudra/Downloads/subtitle (12).txt"
 			],
 			"find":
 			{
@@ -389,6 +486,10 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"SignalDesk",
+					"---",
+					"# ",
+					"#",
 					"interactive",
 					"hook",
 					"submodules",
@@ -401,6 +502,10 @@
 				"regex": false,
 				"replace_history":
 				[
+					"AttentionFilter",
+					"",
+					"## ",
+					"##"
 				],
 				"reverse": false,
 				"scrollbar_highlights": true,
@@ -415,6 +520,36 @@
 				{
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/home/rudra/.config/glab-cli/aliases.yml",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 32,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/YAML/YAML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
 					]
 				}
 			],
@@ -457,7 +592,7 @@
 				]
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,0,32,1920,1033,3840,1080,0",
+			"position": "0,0,0,0,0,100,132,900,732,3840,1080,0",
 			"project": "",
 			"replace":
 			{
